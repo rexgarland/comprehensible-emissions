@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "build:public": "cp -Rf public/* dist/",
-    "debug": "yarn build:public && webpack --mode=development --devtool source-map"
+    "debug": "yarn build:public && webpack --mode=development --devtool source-map",
+    "start": "yarn build:public && webpack --mode=production"
   },
   "repository": "git@github.com:rexgarland/comprehensible-emissions.git",
   "author": "rexgarland <rex.garland@gmail.com>",
