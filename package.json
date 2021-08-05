@@ -1,0 +1,16 @@
+{
+  "name": "comprehensible-emissions",
+  "version": "1.0.0",
+  "scripts": {
+    "build:public": "cp -Rf public/* dist/",
+    "debug": "yarn build:public && webpack --mode=development --devtool source-map"
+  },
+  "repository": "git@github.com:rexgarland/comprehensible-emissions.git",
+  "author": "rexgarland <rex.garland@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "onchange": "^7.1.0",
+    "webpack": "^5.48.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
