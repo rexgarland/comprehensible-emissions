@@ -65,23 +65,24 @@ def transform(column, function):
         return header, new_data
     return mapper
 
-def aggregate(column, function, group_by=[]):
+def aggregate(columns, function, group_by=[]):
     def aggregator(table):
         header, data = table
         group_by_indices = [find(c,header) for c in group_by]
-        column_index = find(column,header)
-        new_header = group_by + [column]
+        column_indices = [find(column,header) for column in columns]
+        new_header = group_by + columns
+        # create a group map
         groups = {}
         for row in data:
             group = tuple([row[i] for i in group_by_indices])
-            datum = row[column_index]
-            if group in groups:
-                groups[group].append(datum)
-            else:
-                groups[group] = [datum]
+            if not (group in groups):
+                groups[group] = []
+            groups[group] += [row]
+        # aggregate each group into a single row
         new_data = []
         for group in groups:
-            new_data.append(list(group)+[function(groups[group])])
+            agg_vals = [function([row[i] for row in groups[group]]) for i in column_indices]
+            new_data.append(list(group)+agg_vals)
         return new_header, new_data
     return aggregator
 
@@ -138,6 +139,7 @@ def join(t1, t2, on=[], fuzzy=False):
         for y in range(len(d2)):
             if J[x][y]:
                 new_data.append(d1[x]+d2[y])
+
     return new_header, new_data
 
 def get_column(column):

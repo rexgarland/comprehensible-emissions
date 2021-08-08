@@ -4,7 +4,7 @@ import json
 from utils import *
 
 root = Path(__file__).parents[1]
-joined = order_by('year')(load_csv(root / 'data/processed/joined.csv'))
+joined = order_by('year')(load_csv(root / 'data/processed/joined-region.csv'))
 
 outfile = root / 'src/json/data.json'
 

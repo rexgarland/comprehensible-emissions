@@ -33,5 +33,9 @@
 	},
 	"grid": {
 		"stroke": "#D9D9D9"
+	},
+	"legend": {
+		"fill": "#F8F0EE",
+		"stroke": "#B2664F"
 	}
 }

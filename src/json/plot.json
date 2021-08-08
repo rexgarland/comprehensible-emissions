@@ -1,7 +1,7 @@
 {
 	"x": {
 		"label": "population (billions)",
-		"scale": 1000000000,
+		"scale": 1000000,
 		"grid": {
 			"start": 0,
 			"stop": 8,
@@ -13,13 +13,15 @@
 		"scale": 1000,
 		"grid": {
 			"start": 0,
-			"stop": 30,
-			"tick": 5
+			"stop": 26,
+			"tick": 5,
+			"minor": 1
 		}
 	},
 	"t": {
 		"start": 1990,
 		"stop": 2018,
 		"tick": 1
-	}
+	},
+	"legend": "5 GtCO₂e/y"
 }

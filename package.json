@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "build:public": "mkdir -p dist && cp -Rf public/* dist/",
-    "build:json": "pipenv run scripts/render_json.py",
+    "build:json": "./build_json.sh",
     "dev": "yarn build:public && webpack --mode=development --devtool source-map",
     "debug": "onchange -i src/* public/* data/* scripts/* -- yarn dev",
     "build": "yarn build:public && yarn build:json && webpack --mode=production"

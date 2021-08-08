@@ -12,6 +12,7 @@ svg {
 	max-width: 80vw;
 }
 
-#year {
-
+.svg-axis-text {
+	font: serif;
+	font-size: 35px;
 }

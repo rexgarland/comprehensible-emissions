@@ -1,233 +1,5656 @@
-region,year,population
-Middle East & North Africa,1990,439530498
-Middle East & North Africa,1991,451197295
-Middle East & North Africa,1992,462965549
-Middle East & North Africa,1993,474751093
-Middle East & North Africa,1994,486446390
-Middle East & North Africa,1995,497981880
-Middle East & North Africa,1996,509326114
-Middle East & North Africa,1997,520521014
-Middle East & North Africa,1998,531663313
-Middle East & North Africa,1999,542891264
-Middle East & North Africa,2000,554312642
-Middle East & North Africa,2001,565956701
-Middle East & North Africa,2002,577817522
-Middle East & North Africa,2003,589924779
-Middle East & North Africa,2004,602303000
-Middle East & North Africa,2005,614968962
-Middle East & North Africa,2006,627929760
-Middle East & North Africa,2007,641184408
-Middle East & North Africa,2008,654726476
-Middle East & North Africa,2009,668542897
-Middle East & North Africa,2010,682613408
-Middle East & North Africa,2011,696934453
-Middle East & North Africa,2012,711477367
-Middle East & North Africa,2013,726163019
-Middle East & North Africa,2014,740890467
-Middle East & North Africa,2015,755580938
-Middle East & North Africa,2016,770191393
-Middle East & North Africa,2017,784715874
-Middle East & North Africa,2018,799158361
-Europe,1990,1206941259
-Europe,1991,1210178212
-Europe,1992,1213058440
-Europe,1993,1215481929
-Europe,1994,1217329942
-Europe,1995,1218551820
-Europe,1996,1219072748
-Europe,1997,1219007319
-Europe,1998,1218729229
-Europe,1999,1218742991
-Europe,2000,1219411806
-Europe,2001,1220871209
-Europe,2002,1223024465
-Europe,2003,1225712544
-Europe,2004,1228671879
-Europe,2005,1231698042
-Europe,2006,1234761277
-Europe,2007,1237896222
-Europe,2008,1241034675
-Europe,2009,1244106006
-Europe,2010,1247054952
-Europe,2011,1249817949
-Europe,2012,1252376917
-Europe,2013,1254778843
-Europe,2014,1257103309
-Europe,2015,1259394978
-Europe,2016,1261679513
-Europe,2017,1263896962
-Europe,2018,1265905109
-Sub-Saharan Africa,1990,502477385
-Sub-Saharan Africa,1991,516712722
-Sub-Saharan Africa,1992,531210751
-Sub-Saharan Africa,1993,545960016
-Sub-Saharan Africa,1994,560947971
-Sub-Saharan Africa,1995,576173305
-Sub-Saharan Africa,1996,591642343
-Sub-Saharan Africa,1997,607381724
-Sub-Saharan Africa,1998,623438679
-Sub-Saharan Africa,1999,639874058
-Sub-Saharan Africa,2000,656742876
-Sub-Saharan Africa,2001,674065457
-Sub-Saharan Africa,2002,691866392
-Sub-Saharan Africa,2003,710209114
-Sub-Saharan Africa,2004,729167554
-Sub-Saharan Africa,2005,748797572
-Sub-Saharan Africa,2006,769127346
-Sub-Saharan Africa,2007,790158143
-Sub-Saharan Africa,2008,811882451
-Sub-Saharan Africa,2009,834278727
-Sub-Saharan Africa,2010,857327835
-Sub-Saharan Africa,2011,881027481
-Sub-Saharan Africa,2012,905375200
-Sub-Saharan Africa,2013,930347572
-Sub-Saharan Africa,2014,955914484
-Sub-Saharan Africa,2015,982048966
-Sub-Saharan Africa,2016,1008742018
-Sub-Saharan Africa,2017,1035980705
-Sub-Saharan Africa,2018,1063728659
-Central America & Caribbean,1990,58882191
-Central America & Caribbean,1991,59940230
-Central America & Caribbean,1992,61004290
-Central America & Caribbean,1993,62072589
-Central America & Caribbean,1994,63142967
-Central America & Caribbean,1995,64213523
-Central America & Caribbean,1996,65283288
-Central America & Caribbean,1997,66351415
-Central America & Caribbean,1998,67416572
-Central America & Caribbean,1999,68477284
-Central America & Caribbean,2000,69532562
-Central America & Caribbean,2001,70582338
-Central America & Caribbean,2002,71626435
-Central America & Caribbean,2003,72663612
-Central America & Caribbean,2004,73692585
-Central America & Caribbean,2005,74712729
-Central America & Caribbean,2006,75722764
-Central America & Caribbean,2007,76724064
-Central America & Caribbean,2008,77722565
-Central America & Caribbean,2009,78726309
-Central America & Caribbean,2010,79740789
-Central America & Caribbean,2011,80768000
-Central America & Caribbean,2012,81805511
-Central America & Caribbean,2013,82848800
-Central America & Caribbean,2014,83891268
-Central America & Caribbean,2015,84927599
-Central America & Caribbean,2016,85956350
-Central America & Caribbean,2017,86977651
-Central America & Caribbean,2018,87990342
-South America,1990,295280413
-South America,1991,300706712
-South America,1992,306101384
-South America,1993,311470168
-South America,1994,316822699
-South America,1995,322162415
-South America,1996,327490753
-South America,1997,332794518
-South America,1998,338045103
-South America,1999,343204873
-South America,2000,348245834
-South America,2001,353160120
-South America,2002,357951721
-South America,2003,362619694
-South America,2004,367167087
-South America,2005,371598712
-South America,2006,375909952
-South America,2007,380105945
-South America,2008,384214546
-South America,2009,388272881
-South America,2010,392307797
-South America,2011,396330505
-South America,2012,400335073
-South America,2013,404310106
-South America,2014,408236233
-South America,2015,412098846
-South America,2016,415894121
-South America,2017,419625657
-South America,2018,423294926
-Oceania,1990,27727219
-Oceania,1991,28169229
-Oceania,1992,28608789
-Oceania,1993,29043376
-Oceania,1994,29470408
-Oceania,1995,29888478
-Oceania,1996,30297914
-Oceania,1997,30701156
-Oceania,1998,31102596
-Oceania,1999,31507772
-Oceania,2000,31922207
-Oceania,2001,32344505
-Oceania,2002,32776984
-Oceania,2003,33232368
-Oceania,2004,33726869
-Oceania,2005,34270865
-Oceania,2006,34870414
-Oceania,2007,35518567
-Oceania,2008,36196703
-Oceania,2009,36878408
-Oceania,2010,37543949
-Oceania,2011,38186613
-Oceania,2012,38810109
-Oceania,2013,39418389
-Oceania,2014,40019364
-Oceania,2015,40618710
-Oceania,2016,41216353
-Oceania,2017,41809139
-Oceania,2018,42396421
-Asia,1990,2894547299
-Asia,1991,2942314022
-Asia,1992,2987667479
-Asia,1993,3031145028
-Asia,1994,3073630599
-Asia,1995,3115775282
-Asia,1996,3157697712
-Asia,1997,3199181754
-Asia,1998,3240158198
-Asia,1999,3280476868
-Asia,2000,3320039127
-Asia,2001,3358861274
-Asia,2002,3397038377
-Asia,2003,3434639971
-Asia,2004,3471755268
-Asia,2005,3508453993
-Asia,2006,3544753204
-Asia,2007,3580652386
-Asia,2008,3616178444
-Asia,2009,3651356345
-Asia,2010,3686196478
-Asia,2011,3720690711
-Asia,2012,3754812252
-Asia,2013,3788522683
-Asia,2014,3821770691
-Asia,2015,3854499766
-Asia,2016,3886689788
-Asia,2017,3918287904
-Asia,2018,3949163611
-North America,1990,363660371
-North America,1991,367996588
-North America,1992,372346011
-North America,1993,376761381
-North America,1994,381314151
-North America,1995,386046993
-North America,1996,390995702
-North America,1997,396122893
-North America,1998,401309651
-North America,1999,406391534
-North America,2000,411255315
-North America,2001,415842552
-North America,2002,420198854
-North America,2003,424441340
-North America,2004,428741955
-North America,2005,433219970
-North America,2006,437913094
-North America,2007,442766651
-North America,2008,447695768
-North America,2009,452574273
-North America,2010,457308634
-North America,2011,461875230
-North America,2012,466296549
-North America,2013,470580644
-North America,2014,474749280
-North America,2015,478819609
-North America,2016,482788721
-North America,2017,486650648
-North America,2018,490418168
+country,year,population
+Afghanistan,1990,12412.311
+Afghanistan,1991,13299.016
+Afghanistan,1992,14485.543
+Afghanistan,1993,15816.601
+Afghanistan,1994,17075.728
+Afghanistan,1995,18110.662
+Afghanistan,1996,18853.444
+Afghanistan,1997,19357.126
+Afghanistan,1998,19737.77
+Afghanistan,1999,20170.847
+Afghanistan,2000,20779.957
+Afghanistan,2001,21606.992
+Afghanistan,2002,22600.774
+Afghanistan,2003,23680.871
+Afghanistan,2004,24726.689
+Afghanistan,2005,25654.274
+Afghanistan,2006,26433.058
+Afghanistan,2007,27100.542
+Afghanistan,2008,27722.281
+Afghanistan,2009,28394.806
+Afghanistan,2010,29185.511
+Afghanistan,2011,30117.411
+Afghanistan,2012,31161.378
+Afghanistan,2013,32269.592
+Afghanistan,2014,33370.804
+Afghanistan,2015,34413.603
+Afghanistan,2016,35383.028
+Afghanistan,2017,36296.111
+Afghanistan,2018,37171.922
+Albania,1990,3286.07
+Albania,1991,3280.397
+Albania,1992,3245.887
+Albania,1993,3195.196
+Albania,1994,3146.518
+Albania,1995,3112.923
+Albania,1996,3098.699
+Albania,1997,3099.747
+Albania,1998,3110.699
+Albania,1999,3122.7
+Albania,2000,3129.246
+Albania,2001,3129.701
+Albania,2002,3126.183
+Albania,2003,3118.017
+Albania,2004,3104.893
+Albania,2005,3086.81
+Albania,2006,3063.021
+Albania,2007,3033.993
+Albania,2008,3002.683
+Albania,2009,2973.044
+Albania,2010,2948.029
+Albania,2011,2928.601
+Albania,2012,2914.091
+Albania,2013,2903.788
+Albania,2014,2896.307
+Albania,2015,2890.524
+Albania,2016,2886.427
+Albania,2017,2884.169
+Albania,2018,2882.735
+Algeria,1990,25758.872
+Algeria,1991,26400.468
+Algeria,1992,27028.33
+Algeria,1993,27635.517
+Algeria,1994,28213.777
+Algeria,1995,28757.788
+Algeria,1996,29266.415
+Algeria,1997,29742.98
+Algeria,1998,30192.75
+Algeria,1999,30623.406
+Algeria,2000,31042.238
+Algeria,2001,31451.513
+Algeria,2002,31855.11
+Algeria,2003,32264.159
+Algeria,2004,32692.153
+Algeria,2005,33149.72
+Algeria,2006,33641.007
+Algeria,2007,34166.976
+Algeria,2008,34730.604
+Algeria,2009,35333.882
+Algeria,2010,35977.451
+Algeria,2011,36661.438
+Algeria,2012,37383.899
+Algeria,2013,38140.135
+Algeria,2014,38923.688
+Algeria,2015,39728.02
+Algeria,2016,40551.398
+Algeria,2017,41389.174
+Algeria,2018,42228.415
+Andorra,1990,54.508
+Andorra,1991,56.666
+Andorra,1992,58.882
+Andorra,1993,60.974
+Andorra,1994,62.676
+Andorra,1995,63.86
+Andorra,1996,64.363
+Andorra,1997,64.318
+Andorra,1998,64.14
+Andorra,1999,64.368
+Andorra,2000,65.39
+Andorra,2001,67.344
+Andorra,2002,70.048
+Andorra,2003,73.18
+Andorra,2004,76.25
+Andorra,2005,78.871
+Andorra,2006,80.995
+Andorra,2007,82.682
+Andorra,2008,83.86
+Andorra,2009,84.461
+Andorra,2010,84.454
+Andorra,2011,83.748
+Andorra,2012,82.427
+Andorra,2013,80.77
+Andorra,2014,79.213
+Andorra,2015,77.993
+Andorra,2016,77.295
+Andorra,2017,76.997
+Andorra,2018,77.008
+Angola,1990,11848.385
+Angola,1991,12248.901
+Angola,1992,12657.361
+Angola,1993,13075.044
+Angola,1994,13503.753
+Angola,1995,13945.205
+Angola,1996,14400.722
+Angola,1997,14871.572
+Angola,1998,15359.6
+Angola,1999,15866.871
+Angola,2000,16395.477
+Angola,2001,16945.753
+Angola,2002,17519.418
+Angola,2003,18121.477
+Angola,2004,18758.138
+Angola,2005,19433.604
+Angola,2006,20149.905
+Angola,2007,20905.36
+Angola,2008,21695.636
+Angola,2009,22514.275
+Angola,2010,23356.247
+Angola,2011,24220.66
+Angola,2012,25107.925
+Angola,2013,26015.786
+Angola,2014,26941.773
+Angola,2015,27884.38
+Angola,2016,28842.482
+Angola,2017,29816.769
+Angola,2018,30809.787
+Antigua and Barbuda,1990,62.533
+Antigua and Barbuda,1991,63.363
+Antigua and Barbuda,1992,64.459
+Antigua and Barbuda,1993,65.777
+Antigua and Barbuda,1994,67.201
+Antigua and Barbuda,1995,68.672
+Antigua and Barbuda,1996,70.176
+Antigua and Barbuda,1997,71.707
+Antigua and Barbuda,1998,73.219
+Antigua and Barbuda,1999,74.674
+Antigua and Barbuda,2000,76.007
+Antigua and Barbuda,2001,77.212
+Antigua and Barbuda,2002,78.298
+Antigua and Barbuda,2003,79.311
+Antigua and Barbuda,2004,80.347
+Antigua and Barbuda,2005,81.462
+Antigua and Barbuda,2006,82.715
+Antigua and Barbuda,2007,84.029
+Antigua and Barbuda,2008,85.394
+Antigua and Barbuda,2009,86.743
+Antigua and Barbuda,2010,88.03
+Antigua and Barbuda,2011,89.25
+Antigua and Barbuda,2012,90.407
+Antigua and Barbuda,2013,91.51
+Antigua and Barbuda,2014,92.562
+Antigua and Barbuda,2015,93.571
+Antigua and Barbuda,2016,94.52
+Antigua and Barbuda,2017,95.425
+Antigua and Barbuda,2018,96.282
+Argentina,1990,32618.648
+Argentina,1991,33079.002
+Argentina,1992,33529.32
+Argentina,1993,33970.103
+Argentina,1994,34402.669
+Argentina,1995,34828.168
+Argentina,1996,35246.376
+Argentina,1997,35657.438
+Argentina,1998,36063.451
+Argentina,1999,36467.218
+Argentina,2000,36870.796
+Argentina,2001,37275.644
+Argentina,2002,37681.743
+Argentina,2003,38087.866
+Argentina,2004,38491.97
+Argentina,2005,38892.924
+Argentina,2006,39289.876
+Argentina,2007,39684.303
+Argentina,2008,40080.159
+Argentina,2009,40482.786
+Argentina,2010,40895.751
+Argentina,2011,41320.497
+Argentina,2012,41755.188
+Argentina,2013,42196.034
+Argentina,2014,42637.508
+Argentina,2015,43075.416
+Argentina,2016,43508.459
+Argentina,2017,43937.143
+Argentina,2018,44361.15
+Armenia,1990,3538.164
+Armenia,1991,3505.249
+Armenia,1992,3442.82
+Armenia,1993,3363.111
+Armenia,1994,3283.664
+Armenia,1995,3217.349
+Armenia,1996,3168.213
+Armenia,1997,3133.081
+Armenia,1998,3108.691
+Armenia,1999,3089.02
+Armenia,2000,3069.597
+Armenia,2001,3050.686
+Armenia,2002,3033.976
+Armenia,2003,3017.938
+Armenia,2004,3000.715
+Armenia,2005,2981.262
+Armenia,2006,2958.301
+Armenia,2007,2932.615
+Armenia,2008,2907.615
+Armenia,2009,2888.094
+Armenia,2010,2877.314
+Armenia,2011,2876.536
+Armenia,2012,2884.239
+Armenia,2013,2897.593
+Armenia,2014,2912.403
+Armenia,2015,2925.559
+Armenia,2016,2936.147
+Armenia,2017,2944.789
+Armenia,2018,2951.741
+Australia,1990,16960.6
+Australia,1991,17189.235
+Australia,1992,17402.179
+Australia,1993,17603.211
+Australia,1994,17798.526
+Australia,1995,17993.083
+Australia,1996,18189.274
+Australia,1997,18387.205
+Australia,1998,18587.027
+Australia,1999,18788.187
+Australia,2000,18991.434
+Australia,2001,19194.676
+Australia,2002,19401.366
+Australia,2003,19624.163
+Australia,2004,19879.654
+Australia,2005,20178.543
+Australia,2006,20526.3
+Australia,2007,20916.339
+Australia,2008,21332.293
+Australia,2009,21750.852
+Australia,2010,22154.687
+Australia,2011,22538.002
+Australia,2012,22903.951
+Australia,2013,23254.912
+Australia,2014,23596.426
+Australia,2015,23932.499
+Australia,2016,24262.71
+Australia,2017,24584.619
+Australia,2018,24898.153
+Austria,1990,7723.954
+Austria,1991,7772.698
+Austria,1992,7830.938
+Austria,1993,7892.089
+Austria,1994,7947.215
+Austria,1995,7990.113
+Austria,1996,8017.852
+Austria,1997,8032.873
+Austria,1998,8041.054
+Austria,1999,8051.116
+Austria,2000,8069.276
+Austria,2001,8097.755
+Austria,2002,8134.403
+Austria,2003,8175.855
+Austria,2004,8216.81
+Austria,2005,8253.656
+Austria,2006,8285.345
+Austria,2007,8313.731
+Austria,2008,8341.525
+Austria,2009,8372.658
+Austria,2010,8409.945
+Austria,2011,8453.501
+Austria,2012,8502.23
+Austria,2013,8556.191
+Austria,2014,8615.205
+Austria,2015,8678.667
+Austria,2016,8747.306
+Austria,2017,8819.902
+Austria,2018,8891.383
+Azerbaijan,1990,7242.758
+Azerbaijan,1991,7357.945
+Azerbaijan,1992,7471.924
+Azerbaijan,1993,7581.754
+Azerbaijan,1994,7683.704
+Azerbaijan,1995,7775.418
+Azerbaijan,1996,7855.558
+Azerbaijan,1997,7925.668
+Azerbaijan,1998,7989.903
+Azerbaijan,1999,8054.126
+Azerbaijan,2000,8122.743
+Azerbaijan,2001,8197.295
+Azerbaijan,2002,8277.065
+Azerbaijan,2003,8361.433
+Azerbaijan,2004,8448.938
+Azerbaijan,2005,8538.61
+Azerbaijan,2006,8630.153
+Azerbaijan,2007,8724.237
+Azerbaijan,2008,8821.869
+Azerbaijan,2009,8924.383
+Azerbaijan,2010,9032.465
+Azerbaijan,2011,9146.277
+Azerbaijan,2012,9264.684
+Azerbaijan,2013,9385.467
+Azerbaijan,2014,9505.616
+Azerbaijan,2015,9622.741
+Azerbaijan,2016,9736.041
+Azerbaijan,2017,9845.316
+Azerbaijan,2018,9949.537
+Bahamas,1990,256.227
+Bahamas,1991,261.007
+Bahamas,1992,266.028
+Bahamas,1993,271.065
+Bahamas,1994,275.849
+Bahamas,1995,280.179
+Bahamas,1996,283.98
+Bahamas,1997,287.363
+Bahamas,1998,290.6
+Bahamas,1999,294.063
+Bahamas,2000,298.045
+Bahamas,2001,302.618
+Bahamas,2002,307.657
+Bahamas,2003,313.123
+Bahamas,2004,318.893
+Bahamas,2005,324.848
+Bahamas,2006,331.032
+Bahamas,2007,337.387
+Bahamas,2008,343.68
+Bahamas,2009,349.6
+Bahamas,2010,354.936
+Bahamas,2011,359.583
+Bahamas,2012,363.581
+Bahamas,2013,367.162
+Bahamas,2014,370.625
+Bahamas,2015,374.2
+Bahamas,2016,377.923
+Bahamas,2017,381.749
+Bahamas,2018,385.635
+Bahrain,1990,495.927
+Bahrain,1991,509.762
+Bahrain,1992,523.082
+Bahrain,1993,536.212
+Bahrain,1994,549.59
+Bahrain,1995,563.698
+Bahrain,1996,578.661
+Bahrain,1997,594.927
+Bahrain,1998,613.697
+Bahrain,1999,636.54
+Bahrain,2000,664.61
+Bahrain,2001,697.55
+Bahrain,2002,735.14
+Bahrain,2003,778.708
+Bahrain,2004,829.846
+Bahrain,2005,889.157
+Bahrain,2006,958.423
+Bahrain,2007,1035.924
+Bahrain,2008,1114.645
+Bahrain,2009,1185.075
+Bahrain,2010,1240.864
+Bahrain,2011,1278.153
+Bahrain,2012,1299.942
+Bahrain,2013,1315.029
+Bahrain,2014,1336.073
+Bahrain,2015,1371.853
+Bahrain,2016,1425.793
+Bahrain,2017,1494.077
+Bahrain,2018,1569.44
+Bangladesh,1990,103171.957
+Bangladesh,1991,105599.125
+Bangladesh,1992,107983.708
+Bangladesh,1993,110350.641
+Bangladesh,1994,112737.684
+Bangladesh,1995,115169.933
+Bangladesh,1996,117649.927
+Bangladesh,1997,120160.571
+Bangladesh,1998,122682.818
+Bangladesh,1999,125189.655
+Bangladesh,2000,127657.862
+Bangladesh,2001,130088.709
+Bangladesh,2002,132478.077
+Bangladesh,2003,134791.598
+Bangladesh,2004,136986.429
+Bangladesh,2005,139035.505
+Bangladesh,2006,140921.154
+Bangladesh,2007,142660.381
+Bangladesh,2008,144304.164
+Bangladesh,2009,145924.795
+Bangladesh,2010,147575.433
+Bangladesh,2011,149273.134
+Bangladesh,2012,151005.733
+Bangladesh,2013,152761.413
+Bangladesh,2014,154517.385
+Bangladesh,2015,156256.287
+Bangladesh,2016,157977.151
+Bangladesh,2017,159685.421
+Bangladesh,2018,161376.713
+Barbados,1990,260.933
+Barbados,1991,261.912
+Barbados,1992,262.89
+Barbados,1993,263.869
+Barbados,1994,264.893
+Barbados,1995,265.955
+Barbados,1996,267.047
+Barbados,1997,268.183
+Barbados,1998,269.334
+Barbados,1999,270.455
+Barbados,2000,271.511
+Barbados,2001,272.494
+Barbados,2002,273.423
+Barbados,2003,274.331
+Barbados,2004,275.283
+Barbados,2005,276.32
+Barbados,2006,277.475
+Barbados,2007,278.701
+Barbados,2008,279.946
+Barbados,2009,281.107
+Barbados,2010,282.131
+Barbados,2011,282.987
+Barbados,2012,283.698
+Barbados,2013,284.294
+Barbados,2014,284.825
+Barbados,2015,285.327
+Barbados,2016,285.798
+Barbados,2017,286.229
+Barbados,2018,286.64
+Belarus,1990,10151.135
+Belarus,1991,10160.785
+Belarus,1992,10154.338
+Belarus,1993,10135.133
+Belarus,1994,10108.28
+Belarus,1995,10077.606
+Belarus,1996,10044.854
+Belarus,1997,10009.393
+Belarus,1998,9969.986
+Belarus,1999,9924.44
+Belarus,2000,9871.635
+Belarus,2001,9811.399
+Belarus,2002,9745.932
+Belarus,2003,9679.235
+Belarus,2004,9616.628
+Belarus,2005,9562.083
+Belarus,2006,9516.884
+Belarus,2007,9480.514
+Belarus,2008,9452.855
+Belarus,2009,9433.159
+Belarus,2010,9420.576
+Belarus,2011,9415.316
+Belarus,2012,9417.045
+Belarus,2013,9423.502
+Belarus,2014,9431.742
+Belarus,2015,9439.424
+Belarus,2016,9445.638
+Belarus,2017,9450.233
+Belarus,2018,9452.615
+Belgium,1990,10006.545
+Belgium,1991,10039.45
+Belgium,1992,10078.098
+Belgium,1993,10118.684
+Belgium,1994,10155.909
+Belgium,1995,10186.304
+Belgium,1996,10208.265
+Belgium,1997,10223.785
+Belgium,1998,10237.298
+Belgium,1999,10255.161
+Belgium,2000,10282.046
+Belgium,2001,10319.026
+Belgium,2002,10364.879
+Belgium,2003,10419.029
+Belgium,2004,10480.118
+Belgium,2005,10546.885
+Belgium,2006,10619.484
+Belgium,2007,10697.576
+Belgium,2008,10778.764
+Belgium,2009,10859.934
+Belgium,2010,10938.735
+Belgium,2011,11013.86
+Belgium,2012,11085.355
+Belgium,2013,11154.008
+Belgium,2014,11221.225
+Belgium,2015,11287.931
+Belgium,2016,11354.407
+Belgium,2017,11419.752
+Belgium,2018,11482.18
+Belize,1990,187.554
+Belize,1991,191.136
+Belize,1992,194.324
+Belize,1993,197.625
+Belize,1994,201.679
+Belize,1995,206.962
+Belize,1996,213.66
+Belize,1997,221.575
+Belize,1998,230.248
+Belize,1999,238.979
+Belize,2000,247.31
+Belize,2001,255.068
+Belize,2002,262.387
+Belize,2003,269.428
+Belize,2004,276.516
+Belize,2005,283.798
+Belize,2006,291.338
+Belize,2007,299.031
+Belize,2008,306.822
+Belize,2009,314.655
+Belize,2010,322.465
+Belize,2011,330.236
+Belize,2012,338.001
+Belize,2013,345.707
+Belize,2014,353.366
+Belize,2015,360.926
+Belize,2016,368.399
+Belize,2017,375.775
+Belize,2018,383.071
+Benin,1990,4978.489
+Benin,1991,5149.496
+Benin,1992,5331.805
+Benin,1993,5521.761
+Benin,1994,5714.215
+Benin,1995,5905.552
+Benin,1996,6094.272
+Benin,1997,6281.644
+Benin,1998,6470.275
+Benin,1999,6664.102
+Benin,2000,6865.946
+Benin,2001,7076.728
+Benin,2002,7295.4
+Benin,2003,7520.556
+Benin,2004,7750.003
+Benin,2005,7982.223
+Benin,2006,8216.893
+Benin,2007,8454.79
+Benin,2008,8696.915
+Benin,2009,8944.713
+Benin,2010,9199.254
+Benin,2011,9460.829
+Benin,2012,9729.254
+Benin,2013,10004.594
+Benin,2014,10286.839
+Benin,2015,10575.962
+Benin,2016,10872.072
+Benin,2017,11175.192
+Benin,2018,11485.035
+Bhutan,1990,530.801
+Bhutan,1991,534.637
+Bhutan,1992,534.525
+Bhutan,1993,532.59
+Bhutan,1994,531.905
+Bhutan,1995,534.629
+Bhutan,1996,541.471
+Bhutan,1997,551.713
+Bhutan,1998,564.378
+Bhutan,1999,577.886
+Bhutan,2000,591.014
+Bhutan,2001,603.643
+Bhutan,2002,616.025
+Bhutan,2003,627.84
+Bhutan,2004,638.809
+Bhutan,2005,648.744
+Bhutan,2006,657.404
+Bhutan,2007,664.873
+Bhutan,2008,671.611
+Bhutan,2009,678.329
+Bhutan,2010,685.502
+Bhutan,2011,693.297
+Bhutan,2012,701.582
+Bhutan,2013,710.235
+Bhutan,2014,719.053
+Bhutan,2015,727.885
+Bhutan,2016,736.706
+Bhutan,2017,745.563
+Bhutan,2018,754.396
+Bolivia,1990,6864.839
+Bolivia,1991,7011.456
+Bolivia,1992,7160.917
+Bolivia,1993,7312.857
+Bolivia,1994,7466.792
+Bolivia,1995,7622.334
+Bolivia,1996,7779.268
+Bolivia,1997,7937.453
+Bolivia,1998,8096.761
+Bolivia,1999,8257.066
+Bolivia,2000,8418.27
+Bolivia,2001,8580.244
+Bolivia,2002,8742.822
+Bolivia,2003,8905.82
+Bolivia,2004,9069.044
+Bolivia,2005,9232.301
+Bolivia,2006,9395.449
+Bolivia,2007,9558.438
+Bolivia,2008,9721.457
+Bolivia,2009,9884.79
+Bolivia,2010,10048.597
+Bolivia,2011,10212.951
+Bolivia,2012,10377.677
+Bolivia,2013,10542.375
+Bolivia,2014,10706.517
+Bolivia,2015,10869.732
+Bolivia,2016,11031.822
+Bolivia,2017,11192.853
+Bolivia,2018,11353.14
+Bosnia and Herzegovina,1990,4463.422
+Bosnia and Herzegovina,1991,4369.32
+Bosnia and Herzegovina,1992,4233.673
+Bosnia and Herzegovina,1993,4078.94
+Bosnia and Herzegovina,1994,3936.527
+Bosnia and Herzegovina,1995,3829.049
+Bosnia and Herzegovina,1996,3764.419
+Bosnia and Herzegovina,1997,3736.07
+Bosnia and Herzegovina,1998,3734.338
+Bosnia and Herzegovina,1999,3743.353
+Bosnia and Herzegovina,2000,3751.176
+Bosnia and Herzegovina,2001,3755.514
+Bosnia and Herzegovina,2002,3759.389
+Bosnia and Herzegovina,2003,3762.179
+Bosnia and Herzegovina,2004,3764.194
+Bosnia and Herzegovina,2005,3765.332
+Bosnia and Herzegovina,2006,3765.422
+Bosnia and Herzegovina,2007,3762.791
+Bosnia and Herzegovina,2008,3754.261
+Bosnia and Herzegovina,2009,3735.945
+Bosnia and Herzegovina,2010,3705.478
+Bosnia and Herzegovina,2011,3661.173
+Bosnia and Herzegovina,2012,3604.972
+Bosnia and Herzegovina,2013,3542.598
+Bosnia and Herzegovina,2014,3482.106
+Bosnia and Herzegovina,2015,3429.362
+Bosnia and Herzegovina,2016,3386.263
+Bosnia and Herzegovina,2017,3351.534
+Bosnia and Herzegovina,2018,3323.929
+Botswana,1990,1286.756
+Botswana,1991,1326.321
+Botswana,1992,1363.541
+Botswana,1993,1399.11
+Botswana,1994,1434.061
+Botswana,1995,1469.173
+Botswana,1996,1504.724
+Botswana,1997,1540.424
+Botswana,1998,1575.827
+Botswana,1999,1610.26
+Botswana,2000,1643.333
+Botswana,2001,1674.674
+Botswana,2002,1704.637
+Botswana,2003,1734.387
+Botswana,2004,1765.533
+Botswana,2005,1799.077
+Botswana,2006,1835.911
+Botswana,2007,1875.458
+Botswana,2008,1915.636
+Botswana,2009,1953.495
+Botswana,2010,1987.106
+Botswana,2011,2015.406
+Botswana,2012,2039.551
+Botswana,2013,2062.551
+Botswana,2014,2088.619
+Botswana,2015,2120.716
+Botswana,2016,2159.925
+Botswana,2017,2205.076
+Botswana,2018,2254.067
+Brazil,1990,149003.225
+Brazil,1991,151648.007
+Brazil,1992,154259.382
+Brazil,1993,156849.086
+Brazil,1994,159432.717
+Brazil,1995,162019.889
+Brazil,1996,164614.682
+Brazil,1997,167209.046
+Brazil,1998,169785.253
+Brazil,1999,172318.674
+Brazil,2000,174790.339
+Brazil,2001,177196.051
+Brazil,2002,179537.523
+Brazil,2003,181809.244
+Brazil,2004,184006.479
+Brazil,2005,186127.108
+Brazil,2006,188167.353
+Brazil,2007,190130.445
+Brazil,2008,192030.362
+Brazil,2009,193886.505
+Brazil,2010,195713.637
+Brazil,2011,197514.541
+Brazil,2012,199287.292
+Brazil,2013,201035.904
+Brazil,2014,202763.744
+Brazil,2015,204471.759
+Brazil,2016,206163.056
+Brazil,2017,207833.825
+Brazil,2018,209469.32
+Brunei,1990,258.714
+Brunei,1991,266.208
+Brunei,1992,273.888
+Brunei,1993,281.684
+Brunei,1994,289.452
+Brunei,1995,297.112
+Brunei,1996,304.62
+Brunei,1997,311.962
+Brunei,1998,319.135
+Brunei,1999,326.214
+Brunei,2000,333.166
+Brunei,2001,340.037
+Brunei,2002,346.777
+Brunei,2003,353.295
+Brunei,2004,359.434
+Brunei,2005,365.112
+Brunei,2006,370.262
+Brunei,2007,374.967
+Brunei,2008,379.418
+Brunei,2009,383.902
+Brunei,2010,388.634
+Brunei,2011,393.687
+Brunei,2012,398.997
+Brunei,2013,404.414
+Brunei,2014,409.778
+Brunei,2015,414.914
+Brunei,2016,419.791
+Brunei,2017,424.481
+Brunei,2018,428.96
+Bulgaria,1990,8841.466
+Bulgaria,1991,8767
+Bulgaria,1992,8676.379
+Bulgaria,1993,8576.042
+Bulgaria,1994,8474.822
+Bulgaria,1995,8379.305
+Bulgaria,1996,8291.97
+Bulgaria,1997,8211.804
+Bulgaria,1998,8137.669
+Bulgaria,1999,8067.005
+Bulgaria,2000,7997.951
+Bulgaria,2001,7930.7
+Bulgaria,2002,7866.242
+Bulgaria,2003,7804.306
+Bulgaria,2004,7744.63
+Bulgaria,2005,7686.964
+Bulgaria,2006,7631.02
+Bulgaria,2007,7576.675
+Bulgaria,2008,7524.084
+Bulgaria,2009,7473.509
+Bulgaria,2010,7425.011
+Bulgaria,2011,7378.652
+Bulgaria,2012,7334.007
+Bulgaria,2013,7290.092
+Bulgaria,2014,7245.648
+Bulgaria,2015,7199.739
+Bulgaria,2016,7151.948
+Bulgaria,2017,7102.452
+Bulgaria,2018,7051.61
+Burkina Faso,1990,8811.033
+Burkina Faso,1991,9050.086
+Burkina Faso,1992,9297.11
+Burkina Faso,1993,9552.473
+Burkina Faso,1994,9816.584
+Burkina Faso,1995,10089.88
+Burkina Faso,1996,10372.734
+Burkina Faso,1997,10665.552
+Burkina Faso,1998,10968.722
+Burkina Faso,1999,11282.696
+Burkina Faso,2000,11607.951
+Burkina Faso,2001,11944.589
+Burkina Faso,2002,12293.097
+Burkina Faso,2003,12654.624
+Burkina Faso,2004,13030.576
+Burkina Faso,2005,13421.935
+Burkina Faso,2006,13829.173
+Burkina Faso,2007,14252.029
+Burkina Faso,2008,14689.725
+Burkina Faso,2009,15141.098
+Burkina Faso,2010,15605.211
+Burkina Faso,2011,16081.915
+Burkina Faso,2012,16571.252
+Burkina Faso,2013,17072.791
+Burkina Faso,2014,17586.029
+Burkina Faso,2015,18110.616
+Burkina Faso,2016,18646.35
+Burkina Faso,2017,19193.236
+Burkina Faso,2018,19751.466
+Burundi,1990,5438.959
+Burundi,1991,5564.923
+Burundi,1992,5685.569
+Burundi,1993,5798.054
+Burundi,1994,5898.964
+Burundi,1995,5987.044
+Burundi,1996,6060.11
+Burundi,1997,6122.13
+Burundi,1998,6185.564
+Burundi,1999,6267.132
+Burundi,2000,6378.871
+Burundi,2001,6525.546
+Burundi,2002,6704.118
+Burundi,2003,6909.161
+Burundi,2004,7131.688
+Burundi,2005,7364.857
+Burundi,2006,7607.85
+Burundi,2007,7862.226
+Burundi,2008,8126.104
+Burundi,2009,8397.661
+Burundi,2010,8675.606
+Burundi,2011,8958.406
+Burundi,2012,9245.992
+Burundi,2013,9540.302
+Burundi,2014,9844.301
+Burundi,2015,10160.034
+Burundi,2016,10488.002
+Burundi,2017,10827.01
+Burundi,2018,11175.379
+Cambodia,1990,8975.597
+Cambodia,1991,9289.298
+Cambodia,1992,9623.899
+Cambodia,1993,9970.727
+Cambodia,1994,10317.901
+Cambodia,1995,10656.145
+Cambodia,1996,10982.919
+Cambodia,1997,11298.594
+Cambodia,1998,11600.51
+Cambodia,1999,11886.464
+Cambodia,2000,12155.241
+Cambodia,2001,12405.411
+Cambodia,2002,12637.719
+Cambodia,2003,12856.171
+Cambodia,2004,13066.475
+Cambodia,2005,13273.355
+Cambodia,2006,13477.705
+Cambodia,2007,13679.953
+Cambodia,2008,13883.835
+Cambodia,2009,14093.605
+Cambodia,2010,14312.205
+Cambodia,2011,14541.421
+Cambodia,2012,14780.454
+Cambodia,2013,15026.33
+Cambodia,2014,15274.506
+Cambodia,2015,15521.435
+Cambodia,2016,15766.29
+Cambodia,2017,16009.413
+Cambodia,2018,16249.795
+Cameroon,1990,11780.086
+Cameroon,1991,12137.912
+Cameroon,1992,12499.499
+Cameroon,1993,12864.091
+Cameroon,1994,13230.978
+Cameroon,1995,13599.984
+Cameroon,1996,13970.812
+Cameroon,1997,14344.444
+Cameroon,1998,14723.772
+Cameroon,1999,15112.598
+Cameroon,2000,15513.944
+Cameroon,2001,15928.91
+Cameroon,2002,16357.605
+Cameroon,2003,16800.869
+Cameroon,2004,17259.322
+Cameroon,2005,17733.408
+Cameroon,2006,18223.677
+Cameroon,2007,18730.283
+Cameroon,2008,19252.674
+Cameroon,2009,19789.922
+Cameroon,2010,20341.236
+Cameroon,2011,20906.392
+Cameroon,2012,21485.267
+Cameroon,2013,22077.3
+Cameroon,2014,22681.853
+Cameroon,2015,23298.376
+Cameroon,2016,23926.549
+Cameroon,2017,24566.07
+Cameroon,2018,25216.261
+Canada,1990,27541.323
+Canada,1991,27888.813
+Canada,1992,28224.41
+Canada,1993,28547.964
+Canada,1994,28860.734
+Canada,1995,29164.153
+Canada,1996,29457.82
+Canada,1997,29742.378
+Canada,1998,30022.078
+Canada,1999,30302.511
+Canada,2000,30588.379
+Canada,2001,30880.072
+Canada,2002,31178.26
+Canada,2003,31488.046
+Canada,2004,31815.49
+Canada,2005,32164.313
+Canada,2006,32536.994
+Canada,2007,32930.795
+Canada,2008,33337.638
+Canada,2009,33746.093
+Canada,2010,34147.566
+Canada,2011,34539.156
+Canada,2012,34922.031
+Canada,2013,35296.535
+Canada,2014,35664.338
+Canada,2015,36026.668
+Canada,2016,36382.942
+Canada,2017,36732.091
+Canada,2018,37074.558
+Central African Republic,1990,2806.74
+Central African Republic,1991,2878.507
+Central African Republic,1992,2959.236
+Central African Republic,1993,3046.148
+Central African Republic,1994,3135.017
+Central African Republic,1995,3222.662
+Central African Republic,1996,3308.235
+Central African Republic,1997,3392.432
+Central African Republic,1998,3475.485
+Central African Republic,1999,3558.019
+Central African Republic,2000,3640.421
+Central African Republic,2001,3722.016
+Central African Republic,2002,3802.129
+Central African Republic,2003,3881.185
+Central African Republic,2004,3959.883
+Central African Republic,2005,4038.38
+Central African Republic,2006,4118.075
+Central African Republic,2007,4198.004
+Central African Republic,2008,4273.368
+Central African Republic,2009,4337.623
+Central African Republic,2010,4386.765
+Central African Republic,2011,4418.639
+Central African Republic,2012,4436.411
+Central African Republic,2013,4447.945
+Central African Republic,2014,4464.171
+Central African Republic,2015,4493.171
+Central African Republic,2016,4537.683
+Central African Republic,2017,4596.023
+Central African Republic,2018,4666.375
+Chad,1990,5963.25
+Chad,1991,6157.085
+Chad,1992,6356.741
+Chad,1993,6563.925
+Chad,1994,6781.057
+Chad,1995,7010.159
+Chad,1996,7250.974
+Chad,1997,7503.494
+Chad,1998,7770.053
+Chad,1999,8053.532
+Chad,2000,8355.654
+Chad,2001,8678.049
+Chad,2002,9019.226
+Chad,2003,9373.913
+Chad,2004,9734.761
+Chad,2005,10096.63
+Chad,2006,10457.122
+Chad,2007,10818.031
+Chad,2008,11183.589
+Chad,2009,11560.142
+Chad,2010,11952.134
+Chad,2011,12360.986
+Chad,2012,12784.748
+Chad,2013,13220.433
+Chad,2014,13663.562
+Chad,2015,14110.971
+Chad,2016,14561.658
+Chad,2017,15016.761
+Chad,2018,15477.727
+Chile,1990,13274.617
+Chile,1991,13495.255
+Chile,1992,13719.818
+Chile,1993,13944.934
+Chile,1994,14166.346
+Chile,1995,14380.864
+Chile,1996,14587.367
+Chile,1997,14786.227
+Chile,1998,14977.736
+Chile,1999,15162.801
+Chile,2000,15342.35
+Chile,2001,15516.112
+Chile,2002,15684.413
+Chile,2003,15849.649
+Chile,2004,16014.972
+Chile,2005,16182.713
+Chile,2006,16354.507
+Chile,2007,16530.201
+Chile,2008,16708.255
+Chile,2009,16886.184
+Chile,2010,17062.531
+Chile,2011,17233.584
+Chile,2012,17400.359
+Chile,2013,17571.511
+Chile,2014,17758.969
+Chile,2015,17969.356
+Chile,2016,18209.072
+Chile,2017,18470.435
+Chile,2018,18729.166
+China,1990,1176883.681
+China,1991,1192897.277
+China,1992,1206711.243
+China,1993,1218817.059
+China,1994,1230020.026
+China,1995,1240920.539
+China,1996,1251636.178
+China,1997,1261996.017
+China,1998,1271982.349
+China,1999,1281514.833
+China,2000,1290550.767
+China,2001,1299129.747
+China,2002,1307352.256
+China,2003,1315303.522
+China,2004,1323084.639
+China,2005,1330776.38
+China,2006,1338408.644
+China,2007,1345993.891
+China,2008,1353569.48
+China,2009,1361169.41
+China,2010,1368810.604
+China,2011,1376497.633
+China,2012,1384206.408
+China,2013,1391883.335
+China,2014,1399453.966
+China,2015,1406847.868
+China,2016,1414049.353
+China,2017,1421021.794
+China,2018,1427647.789
+Taiwan,1990,20478.516
+Taiwan,1991,20679.072
+Taiwan,1992,20868.148
+Taiwan,1993,21044.7
+Taiwan,1994,21207.424
+Taiwan,1995,21356.025
+Taiwan,1996,21488.994
+Taiwan,1997,21608.309
+Taiwan,1998,21721.513
+Taiwan,1999,21838.635
+Taiwan,2000,21966.528
+Taiwan,2001,22108.715
+Taiwan,2002,22262.297
+Taiwan,2003,22419.785
+Taiwan,2004,22570.229
+Taiwan,2005,22705.719
+Taiwan,2006,22823.846
+Taiwan,2007,22927.222
+Taiwan,2008,23019.042
+Taiwan,2009,23104.542
+Taiwan,2010,23187.556
+Taiwan,2011,23268.76
+Taiwan,2012,23346.898
+Taiwan,2013,23421.582
+Taiwan,2014,23491.976
+Taiwan,2015,23557.473
+Taiwan,2016,23618.201
+Taiwan,2017,23674.546
+Taiwan,2018,23726.46
+Colombia,1990,33102.569
+Colombia,1991,33758.328
+Colombia,1992,34422.568
+Colombia,1993,35091.272
+Colombia,1994,35758.978
+Colombia,1995,36421.438
+Colombia,1996,37076.387
+Colombia,1997,37723.803
+Colombia,1998,38364.307
+Colombia,1999,38999.468
+Colombia,2000,39629.965
+Colombia,2001,40255.956
+Colombia,2002,40875.363
+Colombia,2003,41483.872
+Colombia,2004,42075.953
+Colombia,2005,42647.731
+Colombia,2006,43200.901
+Colombia,2007,43737.512
+Colombia,2008,44254.972
+Colombia,2009,44750.054
+Colombia,2010,45222.699
+Colombia,2011,45662.747
+Colombia,2012,46075.721
+Colombia,2013,46495.492
+Colombia,2014,46967.706
+Colombia,2015,47520.667
+Colombia,2016,48175.048
+Colombia,2017,48909.844
+Colombia,2018,49661.056
+Comoros,1990,411.598
+Comoros,1991,423.873
+Comoros,1992,436.454
+Comoros,1993,449.27
+Comoros,1994,462.28
+Comoros,1995,475.394
+Comoros,1996,488.625
+Comoros,1997,501.955
+Comoros,1998,515.382
+Comoros,1999,528.853
+Comoros,2000,542.358
+Comoros,2001,555.895
+Comoros,2002,569.48
+Comoros,2003,583.213
+Comoros,2004,597.23
+Comoros,2005,611.625
+Comoros,2006,626.427
+Comoros,2007,641.624
+Comoros,2008,657.227
+Comoros,2009,673.251
+Comoros,2010,689.696
+Comoros,2011,706.578
+Comoros,2012,723.865
+Comoros,2013,741.511
+Comoros,2014,759.39
+Comoros,2015,777.435
+Comoros,2016,795.597
+Comoros,2017,813.89
+Comoros,2018,832.322
+Republic of the Congo,1990,2356.74
+Republic of the Congo,1991,2422.312
+Republic of the Congo,1992,2489.945
+Republic of the Congo,1993,2559.88
+Republic of the Congo,1994,2632.345
+Republic of the Congo,1995,2707.532
+Republic of the Congo,1996,2785.815
+Republic of the Congo,1997,2867.283
+Republic of the Congo,1998,2951.651
+Republic of the Congo,1999,3038.432
+Republic of the Congo,2000,3127.42
+Republic of the Congo,2001,3217.93
+Republic of the Congo,2002,3310.376
+Republic of the Congo,2003,3406.915
+Republic of the Congo,2004,3510.468
+Republic of the Congo,2005,3622.775
+Republic of the Congo,2006,3745.143
+Republic of the Congo,2007,3876.123
+Republic of the Congo,2008,4011.487
+Republic of the Congo,2009,4145.4
+Republic of the Congo,2010,4273.738
+Republic of the Congo,2011,4394.842
+Republic of the Congo,2012,4510.197
+Republic of the Congo,2013,4622.757
+Republic of the Congo,2014,4736.965
+Republic of the Congo,2015,4856.093
+Republic of the Congo,2016,4980.996
+Republic of the Congo,2017,5110.701
+Republic of the Congo,2018,5244.363
+Costa Rica,1990,3119.436
+Costa Rica,1991,3202.083
+Costa Rica,1992,3286.525
+Costa Rica,1993,3372.298
+Costa Rica,1994,3458.829
+Costa Rica,1995,3545.524
+Costa Rica,1996,3632.361
+Costa Rica,1997,3718.952
+Costa Rica,1998,3803.893
+Costa Rica,1999,3885.428
+Costa Rica,2000,3962.369
+Costa Rica,2001,4034.074
+Costa Rica,2002,4100.922
+Costa Rica,2003,4164.053
+Costa Rica,2004,4225.156
+Costa Rica,2005,4285.504
+Costa Rica,2006,4345.421
+Costa Rica,2007,4404.626
+Costa Rica,2008,4463.123
+Costa Rica,2009,4520.739
+Costa Rica,2010,4577.371
+Costa Rica,2011,4633.086
+Costa Rica,2012,4688.003
+Costa Rica,2013,4742.111
+Costa Rica,2014,4795.39
+Costa Rica,2015,4847.805
+Costa Rica,2016,4899.336
+Costa Rica,2017,4949.955
+Costa Rica,2018,4999.443
+Croatia,1990,4776.37
+Croatia,1991,4760.003
+Croatia,1992,4732.866
+Croatia,1993,4697.537
+Croatia,1994,4657.8
+Croatia,1995,4616.763
+Croatia,1996,4574.888
+Croatia,1997,4532.405
+Croatia,1998,4491.906
+Croatia,1999,4456.446
+Croatia,2000,4428.075
+Croatia,2001,4408.073
+Croatia,2002,4395.802
+Croatia,2003,4388.909
+Croatia,2004,4383.877
+Croatia,2005,4378.066
+Croatia,2006,4370.782
+Croatia,2007,4362.427
+Croatia,2008,4352.639
+Croatia,2009,4341.261
+Croatia,2010,4328.163
+Croatia,2011,4313.098
+Croatia,2012,4295.869
+Croatia,2013,4276.593
+Croatia,2014,4255.518
+Croatia,2015,4232.874
+Croatia,2016,4208.611
+Croatia,2017,4182.847
+Croatia,2018,4156.407
+Cuba,1990,10596.986
+Cuba,1991,10673.534
+Cuba,1992,10736.386
+Cuba,1993,10789.312
+Cuba,1994,10838.461
+Cuba,1995,10888.246
+Cuba,1996,10939.285
+Cuba,1997,10989.73
+Cuba,1998,11038.706
+Cuba,1999,11084.673
+Cuba,2000,11126.423
+Cuba,2001,11164.676
+Cuba,2002,11199.664
+Cuba,2003,11229.185
+Cuba,2004,11250.369
+Cuba,2005,11261.586
+Cuba,2006,11261.241
+Cuba,2007,11251.117
+Cuba,2008,11236.975
+Cuba,2009,11226.711
+Cuba,2010,11225.833
+Cuba,2011,11236.671
+Cuba,2012,11257.112
+Cuba,2013,11282.722
+Cuba,2014,11306.909
+Cuba,2015,11324.777
+Cuba,2016,11335.108
+Cuba,2017,11339.255
+Cuba,2018,11338.146
+Cyprus,1990,766.616
+Cyprus,1991,783.121
+Cyprus,1992,800.61
+Cyprus,1993,818.75
+Cyprus,1994,837.104
+Cyprus,1995,855.391
+Cyprus,1996,873.426
+Cyprus,1997,891.19
+Cyprus,1998,908.71
+Cyprus,1999,926.049
+Cyprus,2000,943.288
+Cyprus,2001,960.274
+Cyprus,2002,976.968
+Cyprus,2003,993.562
+Cyprus,2004,1010.41
+Cyprus,2005,1027.657
+Cyprus,2006,1045.508
+Cyprus,2007,1063.708
+Cyprus,2008,1081.568
+Cyprus,2009,1098.089
+Cyprus,2010,1112.617
+Cyprus,2011,1124.837
+Cyprus,2012,1135.046
+Cyprus,2013,1143.866
+Cyprus,2014,1152.297
+Cyprus,2015,1160.987
+Cyprus,2016,1170.189
+Cyprus,2017,1179.685
+Cyprus,2018,1189.262
+Czech Republic,1990,10340.877
+Czech Republic,1991,10346.458
+Czech Republic,1992,10353.021
+Czech Republic,1993,10358.694
+Czech Republic,1994,10360.964
+Czech Republic,1995,10358.19
+Czech Republic,1996,10350.302
+Czech Republic,1997,10338.346
+Czech Republic,1998,10323.244
+Czech Republic,1999,10306.404
+Czech Republic,2000,10289.374
+Czech Republic,2001,10271.019
+Czech Republic,2002,10252.264
+Czech Republic,2003,10239.131
+Czech Republic,2004,10239.444
+Czech Republic,2005,10258.165
+Czech Republic,2006,10298.609
+Czech Republic,2007,10357.535
+Czech Republic,2008,10425.267
+Czech Republic,2009,10488.155
+Czech Republic,2010,10536.514
+Czech Republic,2011,10566.512
+Czech Republic,2012,10581.302
+Czech Republic,2013,10586.529
+Czech Republic,2014,10591.104
+Czech Republic,2015,10601.39
+Czech Republic,2016,10618.868
+Czech Republic,2017,10641.032
+Czech Republic,2018,10665.679
+Côte d'Ivoire,1990,11924.873
+Côte d'Ivoire,1991,12362.404
+Côte d'Ivoire,1992,12812.428
+Côte d'Ivoire,1993,13271.638
+Côte d'Ivoire,1994,13735.438
+Côte d'Ivoire,1995,14199.759
+Côte d'Ivoire,1996,14665.125
+Côte d'Ivoire,1997,15130.674
+Côte d'Ivoire,1998,15589.407
+Côte d'Ivoire,1999,16032.573
+Côte d'Ivoire,2000,16454.66
+Côte d'Ivoire,2001,16853.027
+Côte d'Ivoire,2002,17231.539
+Côte d'Ivoire,2003,17599.613
+Côte d'Ivoire,2004,17970.493
+Côte d'Ivoire,2005,18354.513
+Côte d'Ivoire,2006,18754.914
+Côte d'Ivoire,2007,19171.25
+Côte d'Ivoire,2008,19605.568
+Côte d'Ivoire,2009,20059.147
+Côte d'Ivoire,2010,20532.944
+Côte d'Ivoire,2011,21028.652
+Côte d'Ivoire,2012,21547.188
+Côte d'Ivoire,2013,22087.506
+Côte d'Ivoire,2014,22647.672
+Côte d'Ivoire,2015,23226.148
+Côte d'Ivoire,2016,23822.726
+Côte d'Ivoire,2017,24437.475
+Côte d'Ivoire,2018,25069.226
+North Korea,1990,20293.057
+North Korea,1991,20609.151
+North Korea,1992,20937.407
+North Korea,1993,21265.832
+North Korea,1994,21577.979
+North Korea,1995,21862.3
+North Korea,1996,22113.428
+North Korea,1997,22335.263
+North Korea,1998,22536.754
+North Korea,1999,22731.47
+North Korea,2000,22929.078
+North Korea,2001,23132.982
+North Korea,2002,23339.453
+North Korea,2003,23542.434
+North Korea,2004,23732.74
+North Korea,2005,23904.167
+North Korea,2006,24054.866
+North Korea,2007,24188.33
+North Korea,2008,24310.143
+North Korea,2009,24428.34
+North Korea,2010,24548.84
+North Korea,2011,24673.392
+North Korea,2012,24800.638
+North Korea,2013,24929.5
+North Korea,2014,25057.793
+North Korea,2015,25183.832
+North Korea,2016,25307.665
+North Korea,2017,25429.816
+North Korea,2018,25549.606
+Democratic Republic of the Congo,1990,34612.023
+Democratic Republic of the Congo,1991,35908.24
+Democratic Republic of the Congo,1992,37333.917
+Democratic Republic of the Congo,1993,38815.835
+Democratic Republic of the Congo,1994,40252.973
+Democratic Republic of the Congo,1995,41576.239
+Democratic Republic of the Congo,1996,42757.239
+Democratic Republic of the Congo,1997,43827.191
+Democratic Republic of the Congo,1998,44849.968
+Democratic Republic of the Congo,1999,45919.615
+Democratic Republic of the Congo,2000,47105.83
+Democratic Republic of the Congo,2001,48428.534
+Democratic Republic of the Congo,2002,49871.67
+Democratic Republic of the Congo,2003,51425.583
+Democratic Republic of the Congo,2004,53068.869
+Democratic Republic of the Congo,2005,54785.894
+Democratic Republic of the Congo,2006,56578.046
+Democratic Republic of the Congo,2007,58453.687
+Democratic Republic of the Congo,2008,60411.195
+Democratic Republic of the Congo,2009,62448.572
+Democratic Republic of the Congo,2010,64563.853
+Democratic Republic of the Congo,2011,66755.151
+Democratic Republic of the Congo,2012,69020.749
+Democratic Republic of the Congo,2013,71358.804
+Democratic Republic of the Congo,2014,73767.445
+Democratic Republic of the Congo,2015,76244.532
+Democratic Republic of the Congo,2016,78789.13
+Democratic Republic of the Congo,2017,81398.765
+Democratic Republic of the Congo,2018,84068.092
+Denmark,1990,5141.117
+Denmark,1991,5154.906
+Denmark,1992,5171.654
+Denmark,1993,5190.745
+Denmark,1994,5211.334
+Denmark,1995,5232.709
+Denmark,1996,5254.857
+Denmark,1997,5277.713
+Denmark,1998,5300.38
+Denmark,1999,5321.771
+Denmark,2000,5341.192
+Denmark,2001,5358.059
+Denmark,2002,5372.798
+Denmark,2003,5386.968
+Denmark,2004,5402.754
+Denmark,2005,5421.701
+Denmark,2006,5444.293
+Denmark,2007,5469.92
+Denmark,2008,5497.731
+Denmark,2009,5526.389
+Denmark,2010,5554.849
+Denmark,2011,5582.98
+Denmark,2012,5610.909
+Denmark,2013,5638.152
+Denmark,2014,5664.199
+Denmark,2015,5688.695
+Denmark,2016,5711.346
+Denmark,2017,5732.277
+Denmark,2018,5752.131
+Djibouti,1990,590.393
+Djibouti,1991,606.843
+Djibouti,1992,615.05
+Djibouti,1993,618.504
+Djibouti,1994,622.364
+Djibouti,1995,630.385
+Djibouti,1996,643.649
+Djibouti,1997,660.858
+Djibouti,1998,680.465
+Djibouti,1999,699.973
+Djibouti,2000,717.577
+Djibouti,2001,733.019
+Djibouti,2002,746.947
+Djibouti,2003,759.639
+Djibouti,2004,771.599
+Djibouti,2005,783.248
+Djibouti,2006,794.554
+Djibouti,2007,805.456
+Djibouti,2008,816.361
+Djibouti,2009,827.82
+Djibouti,2010,840.194
+Djibouti,2011,853.671
+Djibouti,2012,868.136
+Djibouti,2013,883.296
+Djibouti,2014,898.707
+Djibouti,2015,913.998
+Djibouti,2016,929.117
+Djibouti,2017,944.1
+Djibouti,2018,958.923
+Dominica,1990,70.422
+Dominica,1991,70.377
+Dominica,1992,70.546
+Dominica,1993,70.818
+Dominica,1994,71.044
+Dominica,1995,71.105
+Dominica,1996,70.933
+Dominica,1997,70.592
+Dominica,1998,70.183
+Dominica,1999,69.828
+Dominica,2000,69.65
+Dominica,2001,69.671
+Dominica,2002,69.84
+Dominica,2003,70.102
+Dominica,2004,70.387
+Dominica,2005,70.58
+Dominica,2006,70.718
+Dominica,2007,70.797
+Dominica,2008,70.829
+Dominica,2009,70.848
+Dominica,2010,70.877
+Dominica,2011,70.912
+Dominica,2012,70.954
+Dominica,2013,71.019
+Dominica,2014,71.091
+Dominica,2015,71.175
+Dominica,2016,71.307
+Dominica,2017,71.46
+Dominica,2018,71.626
+Dominican Republic,1990,7133.491
+Dominican Republic,1991,7270.413
+Dominican Republic,1992,7408.339
+Dominican Republic,1993,7546.467
+Dominican Republic,1994,7683.707
+Dominican Republic,1995,7819.239
+Dominican Republic,1996,7952.766
+Dominican Republic,1997,8084.407
+Dominican Republic,1998,8214.427
+Dominican Republic,1999,8343.288
+Dominican Republic,2000,8471.317
+Dominican Republic,2001,8598.599
+Dominican Republic,2002,8724.974
+Dominican Republic,2003,8850.317
+Dominican Republic,2004,8974.444
+Dominican Republic,2005,9097.262
+Dominican Republic,2006,9218.681
+Dominican Republic,2007,9338.856
+Dominican Republic,2008,9458.079
+Dominican Republic,2009,9576.736
+Dominican Republic,2010,9695.117
+Dominican Republic,2011,9813.219
+Dominican Republic,2012,9930.916
+Dominican Republic,2013,10048.226
+Dominican Republic,2014,10165.182
+Dominican Republic,2015,10281.675
+Dominican Republic,2016,10397.738
+Dominican Republic,2017,10513.111
+Dominican Republic,2018,10627.147
+Ecuador,1990,10230.931
+Ecuador,1991,10472.476
+Ecuador,1992,10716.131
+Ecuador,1993,10961.46
+Ecuador,1994,11207.999
+Ecuador,1995,11455.205
+Ecuador,1996,11703.169
+Ecuador,1997,11951.457
+Ecuador,1998,12198.449
+Ecuador,1999,12442.109
+Ecuador,2000,12681.123
+Ecuador,2001,12914.66
+Ecuador,2002,13143.465
+Ecuador,2003,13369.678
+Ecuador,2004,13596.39
+Ecuador,2005,13825.839
+Ecuador,2006,14059.379
+Ecuador,2007,14296.554
+Ecuador,2008,14535.74
+Ecuador,2009,14774.412
+Ecuador,2010,15011.114
+Ecuador,2011,15243.885
+Ecuador,2012,15474.099
+Ecuador,2013,15707.473
+Ecuador,2014,15951.832
+Ecuador,2015,16212.022
+Ecuador,2016,16491.116
+Ecuador,2017,16785.356
+Ecuador,2018,17084.359
+Egypt,1990,56134.478
+Egypt,1991,57424.552
+Egypt,1992,58666.812
+Egypt,1993,59880.656
+Egypt,1994,61095.804
+Egypt,1995,62334.025
+Egypt,1996,63601.632
+Egypt,1997,64892.269
+Egypt,1998,66200.259
+Egypt,1999,67515.591
+Egypt,2000,68831.561
+Egypt,2001,70152.662
+Egypt,2002,71485.044
+Egypt,2003,72826.102
+Egypt,2004,74172.073
+Egypt,2005,75523.576
+Egypt,2006,76873.67
+Egypt,2007,78232.124
+Egypt,2008,79636.081
+Egypt,2009,81134.789
+Egypt,2010,82761.244
+Egypt,2011,84529.251
+Egypt,2012,86422.24
+Egypt,2013,88404.652
+Egypt,2014,90424.668
+Egypt,2015,92442.549
+Egypt,2016,94447.071
+Egypt,2017,96442.59
+Egypt,2018,98423.602
+El Salvador,1990,5270.074
+El Salvador,1991,5342.19
+El Salvador,1992,5416.327
+El Salvador,1993,5490.478
+El Salvador,1994,5561.916
+El Salvador,1995,5628.602
+El Salvador,1996,5689.943
+El Salvador,1997,5746.288
+El Salvador,1998,5797.764
+El Salvador,1999,5844.834
+El Salvador,2000,5887.93
+El Salvador,2001,5927.001
+El Salvador,2002,5962.139
+El Salvador,2003,5994.075
+El Salvador,2004,6023.801
+El Salvador,2005,6052.124
+El Salvador,2006,6079.395
+El Salvador,2007,6105.81
+El Salvador,2008,6131.767
+El Salvador,2009,6157.678
+El Salvador,2010,6183.877
+El Salvador,2011,6210.567
+El Salvador,2012,6237.922
+El Salvador,2013,6266.076
+El Salvador,2014,6295.124
+El Salvador,2015,6325.121
+El Salvador,2016,6356.137
+El Salvador,2017,6388.124
+El Salvador,2018,6420.74
+Equatorial Guinea,1990,419.188
+Equatorial Guinea,1991,432.844
+Equatorial Guinea,1992,447.269
+Equatorial Guinea,1993,462.637
+Equatorial Guinea,1994,479.099
+Equatorial Guinea,1995,496.768
+Equatorial Guinea,1996,515.844
+Equatorial Guinea,1997,536.459
+Equatorial Guinea,1998,558.496
+Equatorial Guinea,1999,581.765
+Equatorial Guinea,2000,606.18
+Equatorial Guinea,2001,631.662
+Equatorial Guinea,2002,658.388
+Equatorial Guinea,2003,686.67
+Equatorial Guinea,2004,716.949
+Equatorial Guinea,2005,749.527
+Equatorial Guinea,2006,784.494
+Equatorial Guinea,2007,821.686
+Equatorial Guinea,2008,860.839
+Equatorial Guinea,2009,901.589
+Equatorial Guinea,2010,943.64
+Equatorial Guinea,2011,986.861
+Equatorial Guinea,2012,1031.191
+Equatorial Guinea,2013,1076.412
+Equatorial Guinea,2014,1122.273
+Equatorial Guinea,2015,1168.575
+Equatorial Guinea,2016,1215.181
+Equatorial Guinea,2017,1262.008
+Equatorial Guinea,2018,1308.966
+Eritrea,1990,2258.649
+Eritrea,1991,2266.356
+Eritrea,1992,2257.593
+Eritrea,1993,2238.631
+Eritrea,1994,2218.436
+Eritrea,1995,2204.227
+Eritrea,1996,2196.467
+Eritrea,1997,2195.192
+Eritrea,1998,2206.439
+Eritrea,1999,2237.412
+Eritrea,2000,2292.413
+Eritrea,2001,2374.721
+Eritrea,2002,2481.059
+Eritrea,2003,2600.972
+Eritrea,2004,2719.809
+Eritrea,2005,2826.653
+Eritrea,2006,2918.209
+Eritrea,2007,2996.54
+Eritrea,2008,3062.782
+Eritrea,2009,3119.92
+Eritrea,2010,3170.437
+Eritrea,2011,3213.969
+Eritrea,2012,3250.104
+Eritrea,2013,3281.453
+Eritrea,2014,3311.444
+Eritrea,2015,3342.818
+Eritrea,2016,3376.558
+Eritrea,2017,3412.894
+Eritrea,2018,3452.797
+Estonia,1990,1565.246
+Estonia,1991,1548.22
+Estonia,1992,1520.811
+Estonia,1993,1488.06
+Estonia,1994,1457.09
+Estonia,1995,1433.026
+Estonia,1996,1417.741
+Estonia,1997,1409.678
+Estonia,1998,1406.35
+Estonia,1999,1403.784
+Estonia,2000,1399.111
+Estonia,2001,1391.739
+Estonia,2002,1382.737
+Estonia,2003,1372.904
+Estonia,2004,1363.57
+Estonia,2005,1355.65
+Estonia,2006,1349.373
+Estonia,2007,1344.295
+Estonia,2008,1340.067
+Estonia,2009,1336.14
+Estonia,2010,1332.103
+Estonia,2011,1327.701
+Estonia,2012,1323.163
+Estonia,2013,1319.068
+Estonia,2014,1316.273
+Estonia,2015,1315.33
+Estonia,2016,1316.507
+Estonia,2017,1319.389
+Estonia,2018,1322.913
+Swaziland,1990,822.423
+Swaziland,1991,845.267
+Swaziland,1992,866.995
+Swaziland,1993,887.706
+Swaziland,1994,907.622
+Swaziland,1995,926.836
+Swaziland,1996,945.506
+Swaziland,1997,963.416
+Swaziland,1998,979.922
+Swaziland,1999,994.105
+Swaziland,2000,1005.432
+Swaziland,2001,1013.608
+Swaziland,2002,1019.054
+Swaziland,2003,1022.796
+Swaziland,2004,1026.287
+Swaziland,2005,1030.575
+Swaziland,2006,1036.095
+Swaziland,2007,1042.651
+Swaziland,2008,1049.948
+Swaziland,2009,1057.462
+Swaziland,2010,1064.841
+Swaziland,2011,1072.029
+Swaziland,2012,1079.285
+Swaziland,2013,1086.843
+Swaziland,2014,1095.022
+Swaziland,2015,1104.038
+Swaziland,2016,1113.994
+Swaziland,2017,1124.808
+Swaziland,2018,1136.274
+Ethiopia,1990,47887.864
+Ethiopia,1991,49609.976
+Ethiopia,1992,51423.591
+Ethiopia,1993,53295.556
+Ethiopia,1994,55180.993
+Ethiopia,1995,57047.906
+Ethiopia,1996,58883.531
+Ethiopia,1997,60697.443
+Ethiopia,1998,62507.724
+Ethiopia,1999,64343.008
+Ethiopia,2000,66224.809
+Ethiopia,2001,68159.422
+Ethiopia,2002,70142.09
+Ethiopia,2003,72170.581
+Ethiopia,2004,74239.508
+Ethiopia,2005,76346.31
+Ethiopia,2006,78489.205
+Ethiopia,2007,80674.343
+Ethiopia,2008,82916.236
+Ethiopia,2009,85233.923
+Ethiopia,2010,87639.962
+Ethiopia,2011,90139.928
+Ethiopia,2012,92726.982
+Ethiopia,2013,95385.793
+Ethiopia,2014,98094.264
+Ethiopia,2015,100835.453
+Ethiopia,2016,103603.461
+Ethiopia,2017,106399.926
+Ethiopia,2018,109224.41
+Fiji,1990,728.575
+Fiji,1991,735.398
+Fiji,1992,744.47
+Fiji,1993,754.962
+Fiji,1994,765.607
+Fiji,1995,775.428
+Fiji,1996,784.389
+Fiji,1997,792.736
+Fiji,1998,800.148
+Fiji,1999,806.302
+Fiji,2000,811.011
+Fiji,2001,813.923
+Fiji,2002,815.257
+Fiji,2003,816.078
+Fiji,2004,817.864
+Fiji,2005,821.606
+Fiji,2006,827.869
+Fiji,2007,836.185
+Fiji,2008,845.356
+Fiji,2009,853.636
+Fiji,2010,859.816
+Fiji,2011,863.451
+Fiji,2012,865.065
+Fiji,2013,865.602
+Fiji,2014,866.447
+Fiji,2015,868.632
+Fiji,2016,872.406
+Fiji,2017,877.46
+Fiji,2018,883.49
+Finland,1990,4996.22
+Finland,1991,5019.134
+Finland,1992,5044.928
+Finland,1993,5071.782
+Finland,1994,5097.09
+Finland,1995,5119.012
+Finland,1996,5136.984
+Finland,1997,5151.74
+Finland,1998,5164.236
+Finland,1999,5175.921
+Finland,2000,5187.953
+Finland,2001,5200.475
+Finland,2002,5213.368
+Finland,2003,5227.106
+Finland,2004,5242.175
+Finland,2005,5258.933
+Finland,2006,5277.49
+Finland,2007,5297.741
+Finland,2008,5319.452
+Finland,2009,5342.266
+Finland,2010,5365.784
+Finland,2011,5390.036
+Finland,2012,5414.769
+Finland,2013,5438.984
+Finland,2014,5461.41
+Finland,2015,5481.128
+Finland,2016,5497.714
+Finland,2017,5511.372
+Finland,2018,5522.585
+France,1990,56666.861
+France,1991,56913.58
+France,1992,57147.213
+France,1993,57370.375
+France,1994,57587.122
+France,1995,57801.887
+France,1996,58012.055
+France,1997,58220.657
+France,1998,58444.245
+France,1999,58704.381
+France,2000,59015.092
+France,2001,59384.126
+France,2002,59803.434
+France,2003,60251.591
+France,2004,60697.977
+France,2005,61120.128
+France,2006,61508.924
+France,2007,61869.229
+France,2008,62209.207
+France,2009,62542.883
+France,2010,62879.535
+France,2011,63222.229
+France,2012,63564.224
+France,2013,63893.521
+France,2014,64193.55
+France,2015,64453.194
+France,2016,64667.59
+France,2017,64842.513
+France,2018,64990.512
+Gabon,1990,949.493
+Gabon,1991,975.785
+Gabon,1992,1002.573
+Gabon,1993,1029.769
+Gabon,1994,1057.252
+Gabon,1995,1084.951
+Gabon,1996,1112.944
+Gabon,1997,1141.332
+Gabon,1998,1170.061
+Gabon,1999,1199.058
+Gabon,2000,1228.359
+Gabon,2001,1258.008
+Gabon,2002,1288.31
+Gabon,2003,1319.946
+Gabon,2004,1353.788
+Gabon,2005,1390.55
+Gabon,2006,1430.144
+Gabon,2007,1472.565
+Gabon,2008,1518.538
+Gabon,2009,1568.925
+Gabon,2010,1624.146
+Gabon,2011,1684.629
+Gabon,2012,1749.677
+Gabon,2013,1817.07
+Gabon,2014,1883.801
+Gabon,2015,1947.69
+Gabon,2016,2007.882
+Gabon,2017,2064.812
+Gabon,2018,2119.275
+Gambia,1990,955.595
+Gambia,1991,992.671
+Gambia,1992,1027.476
+Gambia,1993,1060.861
+Gambia,1994,1094.219
+Gambia,1995,1128.577
+Gambia,1996,1164.091
+Gambia,1997,1200.522
+Gambia,1998,1238.124
+Gambia,1999,1277.118
+Gambia,2000,1317.708
+Gambia,2001,1360.07
+Gambia,2002,1404.263
+Gambia,2003,1449.925
+Gambia,2004,1496.524
+Gambia,2005,1543.745
+Gambia,2006,1591.444
+Gambia,2007,1639.846
+Gambia,2008,1689.288
+Gambia,2009,1740.277
+Gambia,2010,1793.199
+Gambia,2011,1848.142
+Gambia,2012,1905.02
+Gambia,2013,1963.708
+Gambia,2014,2024.037
+Gambia,2015,2085.86
+Gambia,2016,2149.134
+Gambia,2017,2213.9
+Gambia,2018,2280.092
+Georgia,1990,5410.4
+Georgia,1991,5372.996
+Georgia,1992,5303.925
+Georgia,1993,5208.954
+Georgia,1994,5097.126
+Georgia,1995,4976.252
+Georgia,1996,4846.627
+Georgia,1997,4709.596
+Georgia,1998,4575.396
+Georgia,1999,4456.652
+Georgia,2000,4362.184
+Georgia,2001,4296.981
+Georgia,2002,4258.573
+Georgia,2003,4238.93
+Georgia,2004,4225.811
+Georgia,2005,4210.158
+Georgia,2006,4189.722
+Georgia,2007,4166.86
+Georgia,2008,4142.648
+Georgia,2009,4119.49
+Georgia,2010,4099.096
+Georgia,2011,4081.012
+Georgia,2012,4064.097
+Georgia,2013,4048.701
+Georgia,2014,4035.31
+Georgia,2015,4024.18
+Georgia,2016,4015.457
+Georgia,2017,4008.723
+Georgia,2018,4002.946
+Germany,1990,79053.984
+Germany,1991,79490.831
+Germany,1992,79963.166
+Germany,1993,80428.557
+Germany,1994,80832.928
+Germany,1995,81138.653
+Germany,1996,81323.666
+Germany,1997,81399.25
+Germany,1998,81402.671
+Germany,1999,81389.935
+Germany,2000,81400.883
+Germany,2001,81453.894
+Germany,2002,81535.124
+Germany,2003,81614.371
+Germany,2004,81646.474
+Germany,2005,81602.739
+Germany,2006,81472.235
+Germany,2007,81277.836
+Germany,2008,81065.751
+Germany,2009,80899.961
+Germany,2010,80827.001
+Germany,2011,80855.629
+Germany,2012,80972.629
+Germany,2013,81174.373
+Germany,2014,81450.37
+Germany,2015,81787.411
+Germany,2016,82193.77
+Germany,2017,82658.409
+Germany,2018,83124.413
+Ghana,1990,14773.274
+Ghana,1991,15207.36
+Ghana,1992,15653.345
+Ghana,1993,16106.756
+Ghana,1994,16561.677
+Ghana,1995,17014.058
+Ghana,1996,17462.504
+Ghana,1997,17908.977
+Ghana,1998,18357.159
+Ghana,1999,18812.369
+Ghana,2000,19278.85
+Ghana,2001,19756.929
+Ghana,2002,20246.376
+Ghana,2003,20750.308
+Ghana,2004,21272.328
+Ghana,2005,21814.648
+Ghana,2006,22379.057
+Ghana,2007,22963.946
+Ghana,2008,23563.832
+Ghana,2009,24170.943
+Ghana,2010,24779.614
+Ghana,2011,25387.713
+Ghana,2012,25996.454
+Ghana,2013,26607.641
+Ghana,2014,27224.48
+Ghana,2015,27849.203
+Ghana,2016,28481.947
+Ghana,2017,29121.464
+Ghana,2018,29767.108
+Greece,1990,10225.99
+Greece,1991,10315.109
+Greece,1992,10420.226
+Greece,1993,10533.811
+Greece,1994,10644.939
+Greece,1995,10745.502
+Greece,1996,10832.139
+Greece,1997,10906.248
+Greece,1998,10970.121
+Greece,1999,11027.899
+Greece,2000,11082.103
+Greece,2001,11134.447
+Greece,2002,11182.308
+Greece,2003,11218.879
+Greece,2004,11234.993
+Greece,2005,11224.8
+Greece,2006,11185.231
+Greece,2007,11120.371
+Greece,2008,11040.312
+Greece,2009,10959.268
+Greece,2010,10887.64
+Greece,2011,10829.074
+Greece,2012,10781.119
+Greece,2013,10740.501
+Greece,2014,10701.46
+Greece,2015,10659.737
+Greece,2016,10615.183
+Greece,2017,10569.449
+Greece,2018,10522.244
+Greenland,1990,55.604
+Greenland,1991,55.783
+Greenland,1992,55.857
+Greenland,1993,55.847
+Greenland,1994,55.817
+Greenland,1995,55.81
+Greenland,1996,55.83
+Greenland,1997,55.873
+Greenland,1998,55.951
+Greenland,1999,56.052
+Greenland,2000,56.177
+Greenland,2001,56.336
+Greenland,2002,56.518
+Greenland,2003,56.707
+Greenland,2004,56.868
+Greenland,2005,56.949
+Greenland,2006,56.968
+Greenland,2007,56.928
+Greenland,2008,56.836
+Greenland,2009,56.729
+Greenland,2010,56.638
+Greenland,2011,56.555
+Greenland,2012,56.477
+Greenland,2013,56.412
+Greenland,2014,56.383
+Greenland,2015,56.378
+Greenland,2016,56.408
+Greenland,2017,56.473
+Greenland,2018,56.565
+Grenada,1990,96.328
+Grenada,1991,96.462
+Grenada,1992,97.161
+Grenada,1993,98.234
+Grenada,1994,99.345
+Grenada,1995,100.286
+Grenada,1996,101.003
+Grenada,1997,101.567
+Grenada,1998,102.023
+Grenada,1999,102.429
+Grenada,2000,102.837
+Grenada,2001,103.242
+Grenada,2002,103.636
+Grenada,2003,104.003
+Grenada,2004,104.346
+Grenada,2005,104.658
+Grenada,2006,104.938
+Grenada,2007,105.183
+Grenada,2008,105.457
+Grenada,2009,105.787
+Grenada,2010,106.227
+Grenada,2011,106.786
+Grenada,2012,107.452
+Grenada,2013,108.172
+Grenada,2014,108.9
+Grenada,2015,109.603
+Grenada,2016,110.263
+Grenada,2017,110.874
+Grenada,2018,111.449
+Guatemala,1990,9263.82
+Guatemala,1991,9483.273
+Guatemala,1992,9708.552
+Guatemala,1993,9938.699
+Guatemala,1994,10172.303
+Guatemala,1995,10408.486
+Guatemala,1996,10646.676
+Guatemala,1997,10887.637
+Guatemala,1998,11133.502
+Guatemala,1999,11387.208
+Guatemala,2000,11650.744
+Guatemala,2001,11924.941
+Guatemala,2002,12208.854
+Guatemala,2003,12500.479
+Guatemala,2004,12796.926
+Guatemala,2005,13096.028
+Guatemala,2006,13397.022
+Guatemala,2007,13700.326
+Guatemala,2008,14006.42
+Guatemala,2009,14316.251
+Guatemala,2010,14630.42
+Guatemala,2011,14948.792
+Guatemala,2012,15270.774
+Guatemala,2013,15595.821
+Guatemala,2014,15923.238
+Guatemala,2015,16252.425
+Guatemala,2016,16583.079
+Guatemala,2017,16914.979
+Guatemala,2018,17247.855
+Guinea,1990,6352.282
+Guinea,1991,6534.936
+Guinea,1992,6716.032
+Guinea,1993,6897.171
+Guinea,1994,7081.119
+Guinea,1995,7269.631
+Guinea,1996,7463.782
+Guinea,1997,7662.071
+Guinea,1998,7860.772
+Guinea,1999,8054.745
+Guinea,2000,8240.735
+Guinea,2001,8417.082
+Guinea,2002,8586.077
+Guinea,2003,8753.097
+Guinea,2004,8925.729
+Guinea,2005,9109.585
+Guinea,2006,9307.421
+Guinea,2007,9518.159
+Guinea,2008,9738.796
+Guinea,2009,9964.47
+Guinea,2010,10192.168
+Guinea,2011,10420.459
+Guinea,2012,10652.032
+Guinea,2013,10892.821
+Guinea,2014,11150.97
+Guinea,2015,11432.096
+Guinea,2016,11738.434
+Guinea,2017,12067.516
+Guinea,2018,12414.292
+Guinea-Bissau,1990,975.265
+Guinea-Bissau,1991,997.522
+Guinea-Bissau,1992,1020.353
+Guinea-Bissau,1993,1043.421
+Guinea-Bissau,1994,1066.345
+Guinea-Bissau,1995,1088.85
+Guinea-Bissau,1996,1110.835
+Guinea-Bissau,1997,1132.505
+Guinea-Bissau,1998,1154.372
+Guinea-Bissau,1999,1177.133
+Guinea-Bissau,2000,1201.305
+Guinea-Bissau,2001,1227.105
+Guinea-Bissau,2002,1254.454
+Guinea-Bissau,2003,1283.297
+Guinea-Bissau,2004,1313.492
+Guinea-Bissau,2005,1344.931
+Guinea-Bissau,2006,1377.582
+Guinea-Bissau,2007,1411.545
+Guinea-Bissau,2008,1446.936
+Guinea-Bissau,2009,1483.92
+Guinea-Bissau,2010,1522.603
+Guinea-Bissau,2011,1562.996
+Guinea-Bissau,2012,1604.981
+Guinea-Bissau,2013,1648.259
+Guinea-Bissau,2014,1692.433
+Guinea-Bissau,2015,1737.207
+Guinea-Bissau,2016,1782.434
+Guinea-Bissau,2017,1828.146
+Guinea-Bissau,2018,1874.304
+Guyana,1990,743.306
+Guyana,1991,744.477
+Guyana,1992,748.596
+Guyana,1993,754.141
+Guyana,1994,758.896
+Guyana,1995,761.298
+Guyana,1996,760.801
+Guyana,1997,757.975
+Guyana,1998,753.778
+Guyana,1999,749.676
+Guyana,2000,746.718
+Guyana,2001,745.206
+Guyana,2002,744.789
+Guyana,2003,745.142
+Guyana,2004,745.737
+Guyana,2005,746.156
+Guyana,2006,746.335
+Guyana,2007,746.477
+Guyana,2008,746.815
+Guyana,2009,747.718
+Guyana,2010,749.43
+Guyana,2011,752.029
+Guyana,2012,755.388
+Guyana,2013,759.281
+Guyana,2014,763.371
+Guyana,2015,767.433
+Guyana,2016,771.363
+Guyana,2017,775.218
+Guyana,2018,779.007
+Haiti,1990,7037.915
+Haiti,1991,7178.611
+Haiti,1992,7319.491
+Haiti,1993,7460.684
+Haiti,1994,7602.318
+Haiti,1995,7744.509
+Haiti,1996,7887.312
+Haiti,1997,8030.721
+Haiti,1998,8174.68
+Haiti,1999,8319.07
+Haiti,2000,8463.802
+Haiti,2001,8608.81
+Haiti,2002,8754.148
+Haiti,2003,8900.108
+Haiti,2004,9047.082
+Haiti,2005,9195.289
+Haiti,2006,9344.784
+Haiti,2007,9495.336
+Haiti,2008,9646.57
+Haiti,2009,9798.046
+Haiti,2010,9949.318
+Haiti,2011,10100.32
+Haiti,2012,10250.922
+Haiti,2013,10400.672
+Haiti,2014,10549.007
+Haiti,2015,10695.54
+Haiti,2016,10839.976
+Haiti,2017,10982.367
+Haiti,2018,11123.183
+Vatican City,1990,0.762
+Vatican City,1991,0.762
+Vatican City,1992,0.773
+Vatican City,1993,0.78
+Vatican City,1994,0.777
+Vatican City,1995,0.778
+Vatican City,1996,0.784
+Vatican City,1997,0.787
+Vatican City,1998,0.786
+Vatican City,1999,0.788
+Vatican City,2000,0.79
+Vatican City,2001,0.792
+Vatican City,2002,0.792
+Vatican City,2003,0.792
+Vatican City,2004,0.795
+Vatican City,2005,0.798
+Vatican City,2006,0.795
+Vatican City,2007,0.794
+Vatican City,2008,0.792
+Vatican City,2009,0.787
+Vatican City,2010,0.783
+Vatican City,2011,0.786
+Vatican City,2012,0.786
+Vatican City,2013,0.786
+Vatican City,2014,0.785
+Vatican City,2015,0.79
+Vatican City,2016,0.791
+Vatican City,2017,0.798
+Vatican City,2018,0.81
+Honduras,1990,4955.302
+Honduras,1991,5098.594
+Honduras,1992,5244.677
+Honduras,1993,5394.416
+Honduras,1994,5548.969
+Honduras,1995,5709.01
+Honduras,1996,5874.814
+Honduras,1997,6045.704
+Honduras,1998,6220.405
+Honduras,1999,6397.14
+Honduras,2000,6574.51
+Honduras,2001,6751.912
+Honduras,2002,6929.267
+Honduras,2003,7106.323
+Honduras,2004,7282.953
+Honduras,2005,7458.982
+Honduras,2006,7634.295
+Honduras,2007,7808.52
+Honduras,2008,7980.955
+Honduras,2009,8150.78
+Honduras,2010,8317.467
+Honduras,2011,8480.67
+Honduras,2012,8640.692
+Honduras,2013,8798.524
+Honduras,2014,8955.579
+Honduras,2015,9112.904
+Honduras,2016,9270.794
+Honduras,2017,9429.016
+Honduras,2018,9587.523
+Hungary,1990,10377.135
+Hungary,1991,10363.05
+Hungary,1992,10358.622
+Hungary,1993,10359.052
+Hungary,1994,10357.586
+Hungary,1995,10349.308
+Hungary,1996,10332.451
+Hungary,1997,10308.479
+Hungary,1998,10279.61
+Hungary,1999,10249.407
+Hungary,2000,10220.509
+Hungary,2001,10193.451
+Hungary,2002,10167.286
+Hungary,2003,10141.341
+Hungary,2004,10114.481
+Hungary,2005,10085.942
+Hungary,2006,10055.657
+Hungary,2007,10024.158
+Hungary,2008,9991.867
+Hungary,2009,9959.439
+Hungary,2010,9927.38
+Hungary,2011,9895.689
+Hungary,2012,9864.363
+Hungary,2013,9833.923
+Hungary,2014,9804.991
+Hungary,2015,9777.925
+Hungary,2016,9752.97
+Hungary,2017,9729.822
+Hungary,2018,9707.502
+Iceland,1990,255.044
+Iceland,1991,257.616
+Iceland,1992,260.155
+Iceland,1993,262.65
+Iceland,1994,265.14
+Iceland,1995,267.627
+Iceland,1996,270.144
+Iceland,1997,272.709
+Iceland,1998,275.294
+Iceland,1999,277.868
+Iceland,2000,280.439
+Iceland,2001,282.91
+Iceland,2002,285.329
+Iceland,2003,287.955
+Iceland,2004,291.102
+Iceland,2005,294.976
+Iceland,2006,299.727
+Iceland,2007,305.181
+Iceland,2008,310.855
+Iceland,2009,316.057
+Iceland,2010,320.342
+Iceland,2011,323.471
+Iceland,2012,325.642
+Iceland,2013,327.194
+Iceland,2014,328.592
+Iceland,2015,330.237
+Iceland,2016,332.209
+Iceland,2017,334.395
+Iceland,2018,336.712
+India,1990,873277.799
+India,1991,891273.202
+India,1992,909307.018
+India,1993,927403.866
+India,1994,945601.828
+India,1995,963922.586
+India,1996,982365.248
+India,1997,1000900.028
+India,1998,1019483.586
+India,1999,1038058.154
+India,2000,1056575.548
+India,2001,1075000.094
+India,2002,1093317.187
+India,2003,1111523.146
+India,2004,1129623.466
+India,2005,1147609.924
+India,2006,1165486.291
+India,2007,1183209.471
+India,2008,1200669.762
+India,2009,1217726.217
+India,2010,1234281.163
+India,2011,1250287.939
+India,2012,1265780.243
+India,2013,1280842.119
+India,2014,1295600.768
+India,2015,1310152.392
+India,2016,1324517.25
+India,2017,1338676.779
+India,2018,1352642.283
+Indonesia,1990,181413.398
+Indonesia,1991,184591.897
+Indonesia,1992,187739.786
+Indonesia,1993,190851.184
+Indonesia,1994,193917.458
+Indonesia,1995,196934.257
+Indonesia,1996,199901.231
+Indonesia,1997,202826.444
+Indonesia,1998,205724.597
+Indonesia,1999,208615.171
+Indonesia,2000,211513.822
+Indonesia,2001,214427.419
+Indonesia,2002,217357.79
+Indonesia,2003,220309.473
+Indonesia,2004,223285.666
+Indonesia,2005,226289.468
+Indonesia,2006,229318.262
+Indonesia,2007,232374.239
+Indonesia,2008,235469.755
+Indonesia,2009,238620.554
+Indonesia,2010,241834.226
+Indonesia,2011,245115.988
+Indonesia,2012,248451.714
+Indonesia,2013,251805.314
+Indonesia,2014,255128.076
+Indonesia,2015,258383.257
+Indonesia,2016,261556.386
+Indonesia,2017,264650.969
+Indonesia,2018,267670.549
+Iran,1990,56366.212
+Iran,1991,57679.025
+Iran,1992,58780.376
+Iran,1993,59723.761
+Iran,1994,60590.608
+Iran,1995,61442.658
+Iran,1996,62294.919
+Iran,1997,63136.309
+Iran,1998,63971.836
+Iran,1999,64800.875
+Iran,2000,65623.397
+Iran,2001,66449.111
+Iran,2002,67284.801
+Iran,2003,68122.947
+Iran,2004,68951.279
+Iran,2005,69762.345
+Iran,2006,70554.756
+Iran,2007,71336.476
+Iran,2008,72120.608
+Iran,2009,72924.833
+Iran,2010,73762.519
+Iran,2011,74634.959
+Iran,2012,75539.881
+Iran,2013,76481.963
+Iran,2014,77465.769
+Iran,2015,78492.208
+Iran,2016,79563.991
+Iran,2017,80673.888
+Iran,2018,81800.204
+Iraq,1990,17419.113
+Iraq,1991,17889.457
+Iraq,1992,18402.74
+Iraq,1993,18955.087
+Iraq,1994,19539.348
+Iraq,1995,20149.342
+Iraq,1996,20783.073
+Iraq,1997,21439.579
+Iraq,1998,22114.33
+Iraq,1999,22802.061
+Iraq,2000,23497.589
+Iraq,2001,24208.178
+Iraq,2002,24931.922
+Iraq,2003,25644.503
+Iraq,2004,26313.838
+Iraq,2005,26922.279
+Iraq,2006,27448.124
+Iraq,2007,27911.242
+Iraq,2008,28385.739
+Iraq,2009,28973.157
+Iraq,2010,29741.977
+Iraq,2011,30725.305
+Iraq,2012,31890.012
+Iraq,2013,33157.061
+Iraq,2014,34411.949
+Iraq,2015,35572.269
+Iraq,2016,36610.632
+Iraq,2017,37552.789
+Iraq,2018,38433.604
+Ireland,1990,3510.881
+Ireland,1991,3517.704
+Ireland,1992,3529.847
+Ireland,1993,3546.929
+Ireland,1994,3567.918
+Ireland,1995,3592.18
+Ireland,1996,3619.633
+Ireland,1997,3651.096
+Ireland,1998,3687.821
+Ireland,1999,3731.472
+Ireland,2000,3783.095
+Ireland,2001,3842.253
+Ireland,2002,3907.995
+Ireland,2003,3980.077
+Ireland,2004,4058.131
+Ireland,2005,4141.218
+Ireland,2006,4230.619
+Ireland,2007,4324.649
+Ireland,2008,4415.871
+Ireland,2009,4494.572
+Ireland,2010,4554.33
+Ireland,2011,4591.115
+Ireland,2012,4608.199
+Ireland,2013,4615.426
+Ireland,2014,4626.852
+Ireland,2015,4652.42
+Ireland,2016,4695.79
+Ireland,2017,4753.281
+Ireland,2018,4818.694
+Israel,1990,4448.348
+Israel,1991,4589.305
+Israel,1992,4752.826
+Israel,1993,4929.413
+Israel,1994,5105.571
+Israel,1995,5271.368
+Israel,1996,5424.241
+Israel,1997,5566.551
+Israel,1998,5699.279
+Israel,1999,5824.944
+Israel,2000,5945.949
+Israel,2001,6060.679
+Israel,2002,6169.311
+Israel,2003,6278.374
+Israel,2004,6396.511
+Israel,2005,6529.47
+Israel,2006,6680.641
+Israel,2007,6847.148
+Israel,2008,7020.832
+Israel,2009,7190.037
+Israel,2010,7346.446
+Israel,2011,7487.095
+Israel,2012,7614.946
+Israel,2013,7734.834
+Israel,2014,7854.216
+Israel,2015,7978.496
+Israel,2016,8108.984
+Israel,2017,8243.849
+Israel,2018,8381.507
+Italy,1990,57048.237
+Italy,1991,57088.125
+Italy,1992,57145.308
+Italy,1993,57197.61
+Italy,1994,57213.538
+Italy,1995,57174.412
+Italy,1996,57065.231
+Italy,1997,56903.633
+Italy,1998,56742.755
+Italy,1999,56655.629
+Italy,2000,56692.178
+Italy,2001,56875.148
+Italy,2002,57182.521
+Italy,2003,57564.589
+Italy,2004,57948.421
+Italy,2005,58281.209
+Italy,2006,58542.619
+Italy,2007,58747.862
+Italy,2008,58922.116
+Italy,2009,59105.622
+Italy,2010,59325.232
+Italy,2011,59589.07
+Italy,2012,59879.469
+Italy,2013,60166.828
+Italy,2014,60409.622
+Italy,2015,60578.489
+Italy,2016,60663.068
+Italy,2017,60673.694
+Italy,2018,60627.291
+Jamaica,1990,2419.901
+Jamaica,1991,2439.329
+Jamaica,1992,2461.047
+Jamaica,1993,2484.583
+Jamaica,1994,2509.042
+Jamaica,1995,2533.705
+Jamaica,1996,2558.631
+Jamaica,1997,2583.914
+Jamaica,1998,2608.874
+Jamaica,1999,2632.677
+Jamaica,2000,2654.698
+Jamaica,2001,2674.706
+Jamaica,2002,2692.843
+Jamaica,2003,2709.438
+Jamaica,2004,2725.017
+Jamaica,2005,2740
+Jamaica,2006,2754.414
+Jamaica,2007,2768.229
+Jamaica,2008,2781.869
+Jamaica,2009,2795.839
+Jamaica,2010,2810.464
+Jamaica,2011,2825.932
+Jamaica,2012,2842.128
+Jamaica,2013,2858.71
+Jamaica,2014,2875.137
+Jamaica,2015,2891.024
+Jamaica,2016,2906.242
+Jamaica,2017,2920.848
+Jamaica,2018,2934.853
+Japan,1990,124505.243
+Japan,1991,124929.764
+Japan,1992,125331.3
+Japan,1993,125707.407
+Japan,1994,126053.127
+Japan,1995,126365.486
+Japan,1996,126644.099
+Japan,1997,126892.745
+Japan,1998,127117.436
+Japan,1999,127326.063
+Japan,2000,127524.168
+Japan,2001,127713.824
+Japan,2002,127893.075
+Japan,2003,128058.368
+Japan,2004,128204.183
+Japan,2005,128326.115
+Japan,2006,128422.74
+Japan,2007,128494.05
+Japan,2008,128538.644
+Japan,2009,128555.196
+Japan,2010,128542.349
+Japan,2011,128498.966
+Japan,2012,128423.571
+Japan,2013,128314.189
+Japan,2014,128168.63
+Japan,2015,127985.139
+Japan,2016,127763.267
+Japan,2017,127502.728
+Japan,2018,127202.19
+Jordan,1990,3565.888
+Jordan,1991,3760.493
+Jordan,1992,3977.667
+Jordan,1993,4201.559
+Jordan,1994,4410.357
+Jordan,1995,4588.842
+Jordan,1996,4732.848
+Jordan,1997,4848.536
+Jordan,1998,4943.975
+Jordan,1999,5031.754
+Jordan,2000,5122.495
+Jordan,2001,5217.328
+Jordan,2002,5317.514
+Jordan,2003,5434.036
+Jordan,2004,5580.241
+Jordan,2005,5765.639
+Jordan,2006,5991.547
+Jordan,2007,6255.29
+Jordan,2008,6556.473
+Jordan,2009,6893.258
+Jordan,2010,7261.541
+Jordan,2011,7662.858
+Jordan,2012,8089.963
+Jordan,2013,8518.992
+Jordan,2014,8918.822
+Jordan,2015,9266.573
+Jordan,2016,9554.286
+Jordan,2017,9785.84
+Jordan,2018,9965.322
+Kazakhstan,1990,16383.881
+Kazakhstan,1991,16373.308
+Kazakhstan,1992,16302.809
+Kazakhstan,1993,16181.161
+Kazakhstan,1994,16022.224
+Kazakhstan,1995,15839.357
+Kazakhstan,1996,15631.926
+Kazakhstan,1997,15406.005
+Kazakhstan,1998,15190.168
+Kazakhstan,1999,15020.573
+Kazakhstan,2000,14922.724
+Kazakhstan,2001,14910.207
+Kazakhstan,2002,14976.184
+Kazakhstan,2003,15100.045
+Kazakhstan,2004,15250.016
+Kazakhstan,2005,15402.803
+Kazakhstan,2006,15551.263
+Kazakhstan,2007,15702.112
+Kazakhstan,2008,15862.126
+Kazakhstan,2009,16043.015
+Kazakhstan,2010,16252.273
+Kazakhstan,2011,16490.669
+Kazakhstan,2012,16751.523
+Kazakhstan,2013,17026.118
+Kazakhstan,2014,17302.619
+Kazakhstan,2015,17572.01
+Kazakhstan,2016,17830.902
+Kazakhstan,2017,18080.023
+Kazakhstan,2018,18319.616
+Kenya,1990,23724.574
+Kenya,1991,24521.714
+Kenya,1992,25326.08
+Kenya,1993,26136.217
+Kenya,1994,26950.508
+Kenya,1995,27768.297
+Kenya,1996,28589.456
+Kenya,1997,29415.66
+Kenya,1998,30250.488
+Kenya,1999,31098.763
+Kenya,2000,31964.557
+Kenya,2001,32848.569
+Kenya,2002,33751.746
+Kenya,2003,34678.781
+Kenya,2004,35635.267
+Kenya,2005,36624.897
+Kenya,2006,37649.039
+Kenya,2007,38705.934
+Kenya,2008,39791.984
+Kenya,2009,40901.798
+Kenya,2010,42030.684
+Kenya,2011,43178.27
+Kenya,2012,44343.469
+Kenya,2013,45519.986
+Kenya,2014,46700.063
+Kenya,2015,47878.339
+Kenya,2016,49051.531
+Kenya,2017,50221.146
+Kenya,2018,51392.57
+Kiribati,1990,72.394
+Kiribati,1991,73.692
+Kiribati,1992,74.767
+Kiribati,1993,75.711
+Kiribati,1994,76.668
+Kiribati,1995,77.716
+Kiribati,1996,78.904
+Kiribati,1997,80.188
+Kiribati,1998,81.558
+Kiribati,1999,82.969
+Kiribati,2000,84.405
+Kiribati,2001,85.844
+Kiribati,2002,87.308
+Kiribati,2003,88.84
+Kiribati,2004,90.498
+Kiribati,2005,92.319
+Kiribati,2006,94.341
+Kiribati,2007,96.531
+Kiribati,2008,98.76
+Kiribati,2009,100.928
+Kiribati,2010,102.93
+Kiribati,2011,104.735
+Kiribati,2012,106.359
+Kiribati,2013,107.887
+Kiribati,2014,109.387
+Kiribati,2015,110.927
+Kiribati,2016,112.529
+Kiribati,2017,114.153
+Kiribati,2018,115.842
+Kuwait,1990,2095.35
+Kuwait,1991,2031.297
+Kuwait,1992,1912.425
+Kuwait,1993,1772.607
+Kuwait,1994,1659.304
+Kuwait,1995,1605.907
+Kuwait,1996,1626.858
+Kuwait,1997,1710.257
+Kuwait,1998,1831.121
+Kuwait,1999,1951.642
+Kuwait,2000,2045.123
+Kuwait,2001,2103.273
+Kuwait,2002,2136.991
+Kuwait,2003,2161.626
+Kuwait,2004,2200.498
+Kuwait,2005,2270.196
+Kuwait,2006,2373.661
+Kuwait,2007,2504.026
+Kuwait,2008,2656.01
+Kuwait,2009,2821.041
+Kuwait,2010,2991.884
+Kuwait,2011,3168.054
+Kuwait,2012,3348.852
+Kuwait,2013,3526.382
+Kuwait,2014,3690.939
+Kuwait,2015,3835.588
+Kuwait,2016,3956.862
+Kuwait,2017,4056.102
+Kuwait,2018,4137.314
+Kyrgyzstan,1990,4372.885
+Kyrgyzstan,1991,4419.627
+Kyrgyzstan,1992,4454.192
+Kyrgyzstan,1993,4483.844
+Kyrgyzstan,1994,4518.808
+Kyrgyzstan,1995,4566.096
+Kyrgyzstan,1996,4629.403
+Kyrgyzstan,1997,4705.651
+Kyrgyzstan,1998,4786.772
+Kyrgyzstan,1999,4861.121
+Kyrgyzstan,2000,4920.712
+Kyrgyzstan,2001,4962.839
+Kyrgyzstan,2002,4991.478
+Kyrgyzstan,2003,5013.538
+Kyrgyzstan,2004,5038.995
+Kyrgyzstan,2005,5075.34
+Kyrgyzstan,2006,5124.379
+Kyrgyzstan,2007,5184.384
+Kyrgyzstan,2008,5254.969
+Kyrgyzstan,2009,5334.708
+Kyrgyzstan,2010,5422.298
+Kyrgyzstan,2011,5517.927
+Kyrgyzstan,2012,5621.583
+Kyrgyzstan,2013,5731.312
+Kyrgyzstan,2014,5844.521
+Kyrgyzstan,2015,5959.126
+Kyrgyzstan,2016,6074.327
+Kyrgyzstan,2017,6189.727
+Kyrgyzstan,2018,6304.025
+Laos,1990,4258.471
+Laos,1991,4379.234
+Laos,1992,4500.346
+Laos,1993,4619.946
+Laos,1994,4735.837
+Laos,1995,4846.477
+Laos,1996,4951.189
+Laos,1997,5050.308
+Laos,1998,5144.601
+Laos,1999,5235.339
+Laos,2000,5323.701
+Laos,2001,5409.584
+Laos,2002,5493.247
+Laos,2003,5576.64
+Laos,2004,5662.199
+Laos,2005,5751.675
+Laos,2006,5846.075
+Laos,2007,5944.95
+Laos,2008,6046.63
+Laos,2009,6148.621
+Laos,2010,6249.168
+Laos,2011,6347.564
+Laos,2012,6444.527
+Laos,2013,6541.302
+Laos,2014,6639.763
+Laos,2015,6741.16
+Laos,2016,6845.848
+Laos,2017,6953.031
+Laos,2018,7061.498
+Latvia,1990,2664.447
+Latvia,1991,2649.161
+Latvia,1992,2620.254
+Latvia,1993,2582.658
+Latvia,1994,2543.632
+Latvia,1995,2508.476
+Latvia,1996,2478.832
+Latvia,1997,2453.31
+Latvia,1998,2430.546
+Latvia,1999,2408.088
+Latvia,2000,2384.15
+Latvia,2001,2358.689
+Latvia,2002,2332.528
+Latvia,2003,2305.845
+Latvia,2004,2278.922
+Latvia,2005,2251.996
+Latvia,2006,2225.063
+Latvia,2007,2198.089
+Latvia,2008,2171.248
+Latvia,2009,2144.784
+Latvia,2010,2118.855
+Latvia,2011,2093.606
+Latvia,2012,2069.018
+Latvia,2013,2044.95
+Latvia,2014,2021.22
+Latvia,2015,1997.675
+Latvia,2016,1974.265
+Latvia,2017,1951.097
+Latvia,2018,1928.461
+Lebanon,1990,2803.032
+Lebanon,1991,2921.7
+Lebanon,1992,3076.133
+Lebanon,1993,3246.129
+Lebanon,1994,3403.359
+Lebanon,1995,3528.379
+Lebanon,1996,3610.663
+Lebanon,1997,3658.425
+Lebanon,1998,3693.514
+Lebanon,1999,3747.762
+Lebanon,2000,3842.774
+Lebanon,2001,3990.999
+Lebanon,2002,4182.205
+Lebanon,2003,4388.378
+Lebanon,2004,4569.377
+Lebanon,2005,4698.761
+Lebanon,2006,4759.76
+Lebanon,2007,4767.347
+Lebanon,2008,4764.745
+Lebanon,2009,4813.026
+Lebanon,2010,4953.064
+Lebanon,2011,5202.022
+Lebanon,2012,5537.62
+Lebanon,2013,5913.016
+Lebanon,2014,6261.046
+Lebanon,2015,6532.681
+Lebanon,2016,6714.281
+Lebanon,2017,6819.373
+Lebanon,2018,6859.408
+Lesotho,1990,1703.757
+Lesotho,1991,1742.534
+Lesotho,1992,1782.284
+Lesotho,1993,1822.237
+Lesotho,1994,1861.323
+Lesotho,1995,1898.598
+Lesotho,1996,1934.294
+Lesotho,1997,1968.054
+Lesotho,1998,1997.524
+Lesotho,1999,2019.732
+Lesotho,2000,2032.805
+Lesotho,2001,2035.738
+Lesotho,2002,2029.832
+Lesotho,2003,2018.355
+Lesotho,2004,2005.953
+Lesotho,2005,1996.115
+Lesotho,2006,1989.933
+Lesotho,2007,1986.926
+Lesotho,2008,1987.13
+Lesotho,2009,1990.135
+Lesotho,2010,1995.575
+Lesotho,2011,2003.793
+Lesotho,2012,2014.988
+Lesotho,2013,2028.528
+Lesotho,2014,2043.448
+Lesotho,2015,2059.011
+Lesotho,2016,2075.041
+Lesotho,2017,2091.532
+Lesotho,2018,2108.327
+Liberia,1990,2075.917
+Liberia,1991,2040.141
+Liberia,1992,2001.612
+Liberia,1993,1976.701
+Liberia,1994,1986.491
+Liberia,1995,2044.657
+Liberia,1996,2160.48
+Liberia,1997,2326.21
+Liberia,1998,2517.472
+Liberia,1999,2699.708
+Liberia,2000,2848.447
+Liberia,2001,2953.928
+Liberia,2002,3024.727
+Liberia,2003,3077.055
+Liberia,2004,3135.654
+Liberia,2005,3218.114
+Liberia,2006,3329.211
+Liberia,2007,3461.911
+Liberia,2008,3607.863
+Liberia,2009,3754.129
+Liberia,2010,3891.357
+Liberia,2011,4017.446
+Liberia,2012,4135.662
+Liberia,2013,4248.337
+Liberia,2014,4359.508
+Liberia,2015,4472.229
+Liberia,2016,4586.788
+Liberia,2017,4702.224
+Liberia,2018,4818.976
+Libya,1990,4436.663
+Libya,1991,4544.245
+Libya,1992,4650.896
+Libya,1993,4755.134
+Libya,1994,4854.871
+Libya,1995,4948.796
+Libya,1996,5036.173
+Libya,1997,5118.008
+Libya,1998,5196.774
+Libya,1999,5275.921
+Libya,2000,5357.893
+Libya,2001,5443.249
+Libya,2002,5531.097
+Libya,2003,5620.545
+Libya,2004,5710.163
+Libya,2005,5798.615
+Libya,2006,5886.874
+Libya,2007,5974.786
+Libya,2008,6058.74
+Libya,2009,6133.987
+Libya,2010,6197.667
+Libya,2011,6247.438
+Libya,2012,6285.751
+Libya,2013,6320.35
+Libya,2014,6362.039
+Libya,2015,6418.315
+Libya,2016,6492.16
+Libya,2017,6580.723
+Libya,2018,6678.565
+Liechtenstein,1990,28.79
+Liechtenstein,1991,29.166
+Liechtenstein,1992,29.552
+Liechtenstein,1993,29.987
+Liechtenstein,1994,30.415
+Liechtenstein,1995,30.884
+Liechtenstein,1996,31.354
+Liechtenstein,1997,31.83
+Liechtenstein,1998,32.306
+Liechtenstein,1999,32.765
+Liechtenstein,2000,33.184
+Liechtenstein,2001,33.543
+Liechtenstein,2002,33.885
+Liechtenstein,2003,34.172
+Liechtenstein,2004,34.444
+Liechtenstein,2005,34.718
+Liechtenstein,2006,34.975
+Liechtenstein,2007,35.217
+Liechtenstein,2008,35.469
+Liechtenstein,2009,35.723
+Liechtenstein,2010,35.996
+Liechtenstein,2011,36.299
+Liechtenstein,2012,36.615
+Liechtenstein,2013,36.94
+Liechtenstein,2014,37.219
+Liechtenstein,2015,37.465
+Liechtenstein,2016,37.655
+Liechtenstein,2017,37.805
+Liechtenstein,2018,37.918
+Lithuania,1990,3696.035
+Lithuania,1991,3697.451
+Lithuania,1992,3688.103
+Lithuania,1993,3670.653
+Lithuania,1994,3649.142
+Lithuania,1995,3626.609
+Lithuania,1996,3603.756
+Lithuania,1997,3579.911
+Lithuania,1998,3555.14
+Lithuania,1999,3529.189
+Lithuania,2000,3501.842
+Lithuania,2001,3473.623
+Lithuania,2002,3444.777
+Lithuania,2003,3414.367
+Lithuania,2004,3381.134
+Lithuania,2005,3344.259
+Lithuania,2006,3303.329
+Lithuania,2007,3258.984
+Lithuania,2008,3212.867
+Lithuania,2009,3167.27
+Lithuania,2010,3123.825
+Lithuania,2011,3083.402
+Lithuania,2012,3045.561
+Lithuania,2013,3008.938
+Lithuania,2014,2971.498
+Lithuania,2015,2931.872
+Lithuania,2016,2889.555
+Lithuania,2017,2845.419
+Lithuania,2018,2801.27
+Luxembourg,1990,381.78
+Luxembourg,1991,386.356
+Luxembourg,1992,391.397
+Luxembourg,1993,396.812
+Luxembourg,1994,402.435
+Luxembourg,1995,408.145
+Luxembourg,1996,413.999
+Luxembourg,1997,419.979
+Luxembourg,1998,425.828
+Luxembourg,1999,431.263
+Luxembourg,2000,436.106
+Luxembourg,2001,440.197
+Luxembourg,2002,443.727
+Luxembourg,2003,447.317
+Luxembourg,2004,451.822
+Luxembourg,2005,457.848
+Luxembourg,2006,465.611
+Luxembourg,2007,474.917
+Luxembourg,2008,485.403
+Luxembourg,2009,496.536
+Luxembourg,2010,507.89
+Luxembourg,2011,519.312
+Luxembourg,2012,530.855
+Luxembourg,2013,542.554
+Luxembourg,2014,554.512
+Luxembourg,2015,566.741
+Luxembourg,2016,579.266
+Luxembourg,2017,591.914
+Luxembourg,2018,604.244
+Madagascar,1990,11598.647
+Madagascar,1991,11942.809
+Madagascar,1992,12301.338
+Madagascar,1993,12675.469
+Madagascar,1994,13066.544
+Madagascar,1995,13475.403
+Madagascar,1996,13902.697
+Madagascar,1997,14347.86
+Madagascar,1998,14808.791
+Madagascar,1999,15282.524
+Madagascar,2000,15766.806
+Madagascar,2001,16260.933
+Madagascar,2002,16765.122
+Madagascar,2003,17279.139
+Madagascar,2004,17802.992
+Madagascar,2005,18336.722
+Madagascar,2006,18880.265
+Madagascar,2007,19433.52
+Madagascar,2008,19996.476
+Madagascar,2009,20569.115
+Madagascar,2010,21151.64
+Madagascar,2011,21743.97
+Madagascar,2012,22346.641
+Madagascar,2013,22961.259
+Madagascar,2014,23589.897
+Madagascar,2015,24234.08
+Madagascar,2016,24894.37
+Madagascar,2017,25570.511
+Madagascar,2018,26262.313
+Malawi,1990,9404.499
+Malawi,1991,9600.361
+Malawi,1992,9685.974
+Malawi,1993,9710.335
+Malawi,1994,9745.695
+Malawi,1995,9844.418
+Malawi,1996,10022.783
+Malawi,1997,10264.906
+Malawi,1998,10552.345
+Malawi,1999,10854.325
+Malawi,2000,11148.751
+Malawi,2001,11432.001
+Malawi,2002,11713.663
+Malawi,2003,12000.183
+Malawi,2004,12301.837
+Malawi,2005,12625.95
+Malawi,2006,12973.693
+Malawi,2007,13341.808
+Malawi,2008,13727.899
+Malawi,2009,14128.161
+Malawi,2010,14539.609
+Malawi,2011,14962.118
+Malawi,2012,15396.01
+Malawi,2013,15839.287
+Malawi,2014,16289.55
+Malawi,2015,16745.305
+Malawi,2016,17205.253
+Malawi,2017,17670.193
+Malawi,2018,18143.215
+Malaysia,1990,18029.824
+Malaysia,1991,18519.941
+Malaysia,1992,19002.66
+Malaysia,1993,19484.901
+Malaysia,1994,19977.508
+Malaysia,1995,20487.604
+Malaysia,1996,21017.619
+Malaysia,1997,21562.79
+Malaysia,1998,22114.647
+Malaysia,1999,22661.293
+Malaysia,2000,23194.252
+Malaysia,2001,23709.115
+Malaysia,2002,24208.391
+Malaysia,2003,24698.821
+Malaysia,2004,25190.647
+Malaysia,2005,25690.615
+Malaysia,2006,26201.954
+Malaysia,2007,26720.367
+Malaysia,2008,27236.003
+Malaysia,2009,27735.038
+Malaysia,2010,28208.028
+Malaysia,2011,28650.962
+Malaysia,2012,29068.189
+Malaysia,2013,29468.923
+Malaysia,2014,29866.606
+Malaysia,2015,30270.965
+Malaysia,2016,30684.652
+Malaysia,2017,31104.655
+Malaysia,2018,31528.033
+Maldives,1990,223.159
+Maldives,1991,229.743
+Maldives,1992,236.271
+Maldives,1993,242.596
+Maldives,1994,248.582
+Maldives,1995,254.144
+Maldives,1996,259.178
+Maldives,1997,263.836
+Maldives,1998,268.445
+Maldives,1999,273.522
+Maldives,2000,279.396
+Maldives,2001,286.309
+Maldives,2002,294.185
+Maldives,2003,302.681
+Maldives,2004,311.265
+Maldives,2005,319.604
+Maldives,2006,327.489
+Maldives,2007,335.172
+Maldives,2008,343.448
+Maldives,2009,353.391
+Maldives,2010,365.73
+Maldives,2011,380.493
+Maldives,2012,397.231
+Maldives,2013,415.592
+Maldives,2014,435.018
+Maldives,2015,454.914
+Maldives,2016,475.505
+Maldives,2017,496.398
+Maldives,2018,515.704
+Mali,1990,8449.915
+Mali,1991,8635.528
+Mali,1992,8850.334
+Mali,1993,9087.173
+Mali,1994,9334.893
+Mali,1995,9585.66
+Mali,1996,9837.575
+Mali,1997,10094.363
+Mali,1998,10360.564
+Mali,1999,10642.937
+Mali,2000,10946.448
+Mali,2001,11271.603
+Mali,2002,11616.89
+Mali,2003,11982.692
+Mali,2004,12369.078
+Mali,2005,12775.509
+Mali,2006,13203.378
+Mali,2007,13651.455
+Mali,2008,14113.578
+Mali,2009,14581.427
+Mali,2010,15049.352
+Mali,2011,15514.593
+Mali,2012,15979.492
+Mali,2013,16449.854
+Mali,2014,16934.213
+Mali,2015,17438.772
+Mali,2016,17965.448
+Mali,2017,18512.429
+Mali,2018,19077.755
+Malta,1990,362.017
+Malta,1991,364.991
+Malta,1992,367.89
+Malta,1993,370.774
+Malta,1994,373.754
+Malta,1995,376.893
+Malta,1996,380.259
+Malta,1997,383.756
+Malta,1998,387.282
+Malta,1999,390.626
+Malta,2000,393.649
+Malta,2001,396.324
+Malta,2002,398.72
+Malta,2003,400.858
+Malta,2004,402.82
+Malta,2005,404.659
+Malta,2006,406.33
+Malta,2007,407.854
+Malta,2008,409.493
+Malta,2009,411.559
+Malta,2010,414.257
+Malta,2011,417.72
+Malta,2012,421.809
+Malta,2013,426.144
+Malta,2014,430.19
+Malta,2015,433.559
+Malta,2016,436.099
+Malta,2017,437.935
+Malta,2018,439.255
+Marshall Islands,1990,47.265
+Marshall Islands,1991,48.403
+Marshall Islands,1992,49.242
+Marshall Islands,1993,49.828
+Marshall Islands,1994,50.214
+Marshall Islands,1995,50.454
+Marshall Islands,1996,50.523
+Marshall Islands,1997,50.453
+Marshall Islands,1998,50.356
+Marshall Islands,1999,50.418
+Marshall Islands,2000,50.754
+Marshall Islands,2001,51.411
+Marshall Islands,2002,52.368
+Marshall Islands,2003,53.465
+Marshall Islands,2004,54.476
+Marshall Islands,2005,55.257
+Marshall Islands,2006,55.765
+Marshall Islands,2007,56.046
+Marshall Islands,2008,56.166
+Marshall Islands,2009,56.255
+Marshall Islands,2010,56.361
+Marshall Islands,2011,56.524
+Marshall Islands,2012,56.712
+Marshall Islands,2013,56.933
+Marshall Islands,2014,57.183
+Marshall Islands,2015,57.444
+Marshall Islands,2016,57.723
+Marshall Islands,2017,58.053
+Marshall Islands,2018,58.412
+Mauritania,1990,2034.347
+Mauritania,1991,2087.914
+Mauritania,1992,2142.645
+Mauritania,1993,2198.538
+Mauritania,1994,2255.52
+Mauritania,1995,2313.63
+Mauritania,1996,2372.9
+Mauritania,1997,2433.567
+Mauritania,1998,2496.217
+Mauritania,1999,2561.584
+Mauritania,2000,2630.217
+Mauritania,2001,2702.405
+Mauritania,2002,2778.097
+Mauritania,2003,2857.15
+Mauritania,2004,2939.246
+Mauritania,2005,3024.198
+Mauritania,2006,3111.908
+Mauritania,2007,3202.512
+Mauritania,2008,3296.237
+Mauritania,2009,3393.408
+Mauritania,2010,3494.2
+Mauritania,2011,3598.646
+Mauritania,2012,3706.555
+Mauritania,2013,3817.497
+Mauritania,2014,3930.894
+Mauritania,2015,4046.304
+Mauritania,2016,4163.532
+Mauritania,2017,4282.582
+Mauritania,2018,4403.312
+Mauritius,1990,1055.869
+Mauritius,1991,1068.433
+Mauritius,1992,1082.948
+Mauritius,1993,1098.604
+Mauritius,1994,1114.146
+Mauritius,1995,1128.676
+Mauritius,1996,1141.952
+Mauritius,1997,1154.141
+Mauritius,1998,1165.292
+Mauritius,1999,1175.571
+Mauritius,2000,1185.147
+Mauritius,2001,1193.911
+Mauritius,2002,1201.805
+Mauritius,2003,1208.992
+Mauritius,2004,1215.668
+Mauritius,2005,1222.01
+Mauritius,2006,1228.089
+Mauritius,2007,1233.89
+Mauritius,2008,1239.262
+Mauritius,2009,1243.996
+Mauritius,2010,1247.953
+Mauritius,2011,1251.074
+Mauritius,2012,1253.489
+Mauritius,2013,1255.458
+Mauritius,2014,1257.351
+Mauritius,2015,1259.457
+Mauritius,2016,1261.87
+Mauritius,2017,1264.497
+Mauritius,2018,1267.184
+Mexico,1990,83943.135
+Mexico,1991,85512.621
+Mexico,1992,87075.136
+Mexico,1993,88625.44
+Mexico,1994,90156.396
+Mexico,1995,91663.29
+Mexico,1996,93147.045
+Mexico,1997,94611.008
+Mexico,1998,96056.313
+Mexico,1999,97484.823
+Mexico,2000,98899.845
+Mexico,2001,100298.152
+Mexico,2002,101684.764
+Mexico,2003,103081.02
+Mexico,2004,104514.934
+Mexico,2005,106005.199
+Mexico,2006,107560.155
+Mexico,2007,109170.503
+Mexico,2008,110815.272
+Mexico,2009,112463.886
+Mexico,2010,114092.961
+Mexico,2011,115695.468
+Mexico,2012,117274.156
+Mexico,2013,118827.158
+Mexico,2014,120355.137
+Mexico,2015,121858.251
+Mexico,2016,123333.379
+Mexico,2017,124777.326
+Mexico,2018,126190.782
+Micronesia,1990,416.764
+Micronesia,1991,426.297
+Micronesia,1992,434.45
+Micronesia,1993,441.588
+Micronesia,1994,448.31
+Micronesia,1995,454.92
+Micronesia,1996,461.593
+Micronesia,1997,468.128
+Micronesia,1998,474.369
+Micronesia,1999,479.966
+Micronesia,2000,484.779
+Micronesia,2001,488.748
+Micronesia,2002,492.032
+Micronesia,2003,494.686
+Micronesia,2004,496.699
+Micronesia,2005,498.296
+Micronesia,2006,499.387
+Micronesia,2007,500.087
+Micronesia,2008,500.721
+Micronesia,2009,501.815
+Micronesia,2010,503.58
+Micronesia,2011,506.227
+Micronesia,2012,509.644
+Micronesia,2013,513.754
+Micronesia,2014,518.236
+Micronesia,2015,522.926
+Micronesia,2016,527.794
+Micronesia,2017,532.887
+Micronesia,2018,538.142
+Monaco,1990,29.433
+Monaco,1991,29.629
+Monaco,1992,29.859
+Monaco,1993,30.145
+Monaco,1994,30.436
+Monaco,1995,30.731
+Monaco,1996,31.001
+Monaco,1997,31.268
+Monaco,1998,31.554
+Monaco,1999,31.836
+Monaco,2000,32.148
+Monaco,2001,32.474
+Monaco,2002,32.804
+Monaco,2003,33.144
+Monaco,2004,33.499
+Monaco,2005,33.842
+Monaco,2006,34.189
+Monaco,2007,34.524
+Monaco,2008,34.86
+Monaco,2009,35.223
+Monaco,2010,35.609
+Monaco,2011,36.025
+Monaco,2012,36.459
+Monaco,2013,36.899
+Monaco,2014,37.32
+Monaco,2015,37.723
+Monaco,2016,38.07
+Monaco,2017,38.392
+Monaco,2018,38.682
+Mongolia,1990,2184.139
+Mongolia,1991,2217.918
+Mongolia,1992,2243.495
+Mongolia,1993,2263.196
+Mongolia,1994,2280.475
+Mongolia,1995,2298.017
+Mongolia,1996,2316.571
+Mongolia,1997,2335.744
+Mongolia,1998,2355.667
+Mongolia,1999,2376.228
+Mongolia,2000,2397.417
+Mongolia,2001,2419.594
+Mongolia,2002,2443.261
+Mongolia,2003,2468.765
+Mongolia,2004,2496.394
+Mongolia,2005,2526.429
+Mongolia,2006,2558.854
+Mongolia,2007,2593.819
+Mongolia,2008,2631.899
+Mongolia,2009,2673.794
+Mongolia,2010,2719.902
+Mongolia,2011,2770.357
+Mongolia,2012,2824.698
+Mongolia,2013,2881.783
+Mongolia,2014,2940.111
+Mongolia,2015,2998.433
+Mongolia,2016,3056.358
+Mongolia,2017,3113.788
+Mongolia,2018,3170.214
+Montenegro,1990,615.004
+Montenegro,1991,615.736
+Montenegro,1992,617.181
+Montenegro,1993,618.863
+Montenegro,1994,620.076
+Montenegro,1995,620.419
+Montenegro,1996,619.705
+Montenegro,1997,618.216
+Montenegro,1998,616.34
+Montenegro,1999,614.652
+Montenegro,2000,613.558
+Montenegro,2001,613.17
+Montenegro,2002,613.371
+Montenegro,2003,614.081
+Montenegro,2004,615.137
+Montenegro,2005,616.388
+Montenegro,2006,617.863
+Montenegro,2007,619.554
+Montenegro,2008,621.312
+Montenegro,2009,622.933
+Montenegro,2010,624.279
+Montenegro,2011,625.271
+Montenegro,2012,625.931
+Montenegro,2013,626.342
+Montenegro,2014,626.65
+Montenegro,2015,626.957
+Montenegro,2016,627.271
+Montenegro,2017,627.563
+Montenegro,2018,627.803
+Morocco,1990,24807.461
+Morocco,1991,25260.407
+Morocco,1992,25711.41
+Morocco,1993,26155.204
+Morocco,1994,26584.473
+Morocco,1995,26994.255
+Morocco,1996,27383.472
+Morocco,1997,27754.573
+Morocco,1998,28110.447
+Morocco,1999,28455.504
+Morocco,2000,28793.672
+Morocco,2001,29126.323
+Morocco,2002,29454.765
+Morocco,2003,29782.884
+Morocco,2004,30115.196
+Morocco,2005,30455.563
+Morocco,2006,30804.689
+Morocco,2007,31163.67
+Morocco,2008,31536.807
+Morocco,2009,31929.087
+Morocco,2010,32343.384
+Morocco,2011,32781.86
+Morocco,2012,33241.898
+Morocco,2013,33715.705
+Morocco,2014,34192.358
+Morocco,2015,34663.608
+Morocco,2016,35126.274
+Morocco,2017,35581.257
+Morocco,2018,36029.089
+Mozambique,1990,12987.292
+Mozambique,1991,13328.029
+Mozambique,1992,13805.999
+Mozambique,1993,14370.95
+Mozambique,1994,14948.05
+Mozambique,1995,15483.277
+Mozambique,1996,15960.445
+Mozambique,1997,16397.175
+Mozambique,1998,16813.946
+Mozambique,1999,17244.176
+Mozambique,2000,17711.925
+Mozambique,2001,18221.884
+Mozambique,2002,18764.147
+Mozambique,2003,19331.097
+Mozambique,2004,19910.549
+Mozambique,2005,20493.927
+Mozambique,2006,21080.108
+Mozambique,2007,21673.319
+Mozambique,2008,22276.596
+Mozambique,2009,22894.718
+Mozambique,2010,23531.567
+Mozambique,2011,24187.5
+Mozambique,2012,24862.673
+Mozambique,2013,25560.752
+Mozambique,2014,26286.192
+Mozambique,2015,27042.001
+Mozambique,2016,27829.93
+Mozambique,2017,28649.007
+Mozambique,2018,29496.009
+Myanmar,1990,41335.188
+Myanmar,1991,41890.192
+Myanmar,1992,42401.686
+Myanmar,1993,42889.992
+Myanmar,1994,43383.421
+Myanmar,1995,43901.598
+Myanmar,1996,44452.203
+Myanmar,1997,45027.223
+Myanmar,1998,45611.22
+Myanmar,1999,46181.075
+Myanmar,2000,46719.698
+Myanmar,2001,47225.119
+Myanmar,2002,47702.163
+Myanmar,2003,48148.907
+Myanmar,2004,48564.489
+Myanmar,2005,48949.931
+Myanmar,2006,49301.049
+Myanmar,2007,49621.479
+Myanmar,2008,49929.642
+Myanmar,2009,50250.366
+Myanmar,2010,50600.827
+Myanmar,2011,50990.612
+Myanmar,2012,51413.703
+Myanmar,2013,51852.464
+Myanmar,2014,52280.816
+Myanmar,2015,52680.724
+Myanmar,2016,53045.199
+Myanmar,2017,53382.521
+Myanmar,2018,53708.318
+Namibia,1990,1432.899
+Namibia,1991,1476.399
+Namibia,1992,1516.951
+Namibia,1993,1555.098
+Namibia,1994,1591.826
+Namibia,1995,1627.866
+Namibia,1996,1663.378
+Namibia,1997,1698.029
+Namibia,1998,1731.635
+Namibia,1999,1763.861
+Namibia,2000,1794.583
+Namibia,2001,1823.667
+Namibia,2002,1851.519
+Namibia,2003,1879.113
+Namibia,2004,1907.737
+Namibia,2005,1938.316
+Namibia,2006,1971.318
+Namibia,2007,2006.516
+Namibia,2008,2043.382
+Namibia,2009,2081.039
+Namibia,2010,2118.877
+Namibia,2011,2156.698
+Namibia,2012,2194.777
+Namibia,2013,2233.506
+Namibia,2014,2273.426
+Namibia,2015,2314.901
+Namibia,2016,2358.044
+Namibia,2017,2402.623
+Namibia,2018,2448.3
+Nauru,1990,9.506
+Nauru,1991,9.766
+Nauru,1992,10.03
+Nauru,1993,10.287
+Nauru,1994,10.496
+Nauru,1995,10.626
+Nauru,1996,10.677
+Nauru,1997,10.643
+Nauru,1998,10.567
+Nauru,1999,10.449
+Nauru,2000,10.335
+Nauru,2001,10.219
+Nauru,2002,10.102
+Nauru,2003,9.99
+Nauru,2004,9.906
+Nauru,2005,9.848
+Nauru,2006,9.827
+Nauru,2007,9.846
+Nauru,2008,9.88
+Nauru,2009,9.945
+Nauru,2010,10.009
+Nauru,2011,10.069
+Nauru,2012,10.136
+Nauru,2013,10.208
+Nauru,2014,10.289
+Nauru,2015,10.374
+Nauru,2016,10.474
+Nauru,2017,10.577
+Nauru,2018,10.678
+Nepal,1990,18905.48
+Nepal,1991,19405.506
+Nepal,1992,19938.322
+Nepal,1993,20489.973
+Nepal,1994,21040.899
+Nepal,1995,21576.074
+Nepal,1996,22090.352
+Nepal,1997,22584.772
+Nepal,1998,23057.875
+Nepal,1999,23509.971
+Nepal,2000,23941.099
+Nepal,2001,24347.113
+Nepal,2002,24725.625
+Nepal,2003,25080.88
+Nepal,2004,25419.337
+Nepal,2005,25744.5
+Nepal,2006,26066.687
+Nepal,2007,26382.586
+Nepal,2008,26666.581
+Nepal,2009,26883.531
+Nepal,2010,27013.207
+Nepal,2011,27041.22
+Nepal,2012,26989.16
+Nepal,2013,26916.795
+Nepal,2014,26905.982
+Nepal,2015,27015.033
+Nepal,2016,27263.43
+Nepal,2017,27632.682
+Nepal,2018,28095.712
+Netherlands,1990,14965.442
+Netherlands,1991,15064.522
+Netherlands,1992,15165.856
+Netherlands,1993,15268.005
+Netherlands,1994,15369.121
+Netherlands,1995,15467.852
+Netherlands,1996,15563.252
+Netherlands,1997,15655.482
+Netherlands,1998,15745.65
+Netherlands,1999,15835.525
+Netherlands,2000,15926.188
+Netherlands,2001,16018.112
+Netherlands,2002,16110.355
+Netherlands,2003,16200.948
+Netherlands,2004,16287.183
+Netherlands,2005,16367.153
+Netherlands,2006,16440.091
+Netherlands,2007,16506.652
+Netherlands,2008,16568.105
+Netherlands,2009,16626.379
+Netherlands,2010,16682.927
+Netherlands,2011,16738.191
+Netherlands,2012,16791.85
+Netherlands,2013,16843.512
+Netherlands,2014,16892.517
+Netherlands,2015,16938.492
+Netherlands,2016,16981.285
+Netherlands,2017,17021.343
+Netherlands,2018,17059.56
+New Zealand,1990,3398.175
+New Zealand,1991,3446.171
+New Zealand,1992,3503.194
+New Zealand,1993,3564.473
+New Zealand,1994,3623.272
+New Zealand,1995,3674.94
+New Zealand,1996,3717.352
+New Zealand,1997,3752.355
+New Zealand,1998,3783.976
+New Zealand,1999,3818.128
+New Zealand,2000,3858.992
+New Zealand,2001,3907.941
+New Zealand,2002,3963.202
+New Zealand,2003,4022.074
+New Zealand,2004,4080.421
+New Zealand,2005,4135.353
+New Zealand,2006,4185.882
+New Zealand,2007,4233.046
+New Zealand,2008,4278.156
+New Zealand,2009,4323.338
+New Zealand,2010,4370.06
+New Zealand,2011,4418.674
+New Zealand,2012,4468.462
+New Zealand,2013,4518.519
+New Zealand,2014,4567.522
+New Zealand,2015,4614.527
+New Zealand,2016,4659.265
+New Zealand,2017,4702.029
+New Zealand,2018,4743.131
+Nicaragua,1990,4173.435
+Nicaragua,1991,4267.57
+Nicaragua,1992,4364.514
+Nicaragua,1993,4462.496
+Nicaragua,1994,4559.01
+Nicaragua,1995,4652.185
+Nicaragua,1996,4741.571
+Nicaragua,1997,4827.658
+Nicaragua,1998,4910.642
+Nicaragua,1999,4991.041
+Nicaragua,2000,5069.31
+Nicaragua,2001,5145.367
+Nicaragua,2002,5219.324
+Nicaragua,2003,5292.115
+Nicaragua,2004,5364.93
+Nicaragua,2005,5438.692
+Nicaragua,2006,5513.757
+Nicaragua,2007,5590.066
+Nicaragua,2008,5667.436
+Nicaragua,2009,5745.538
+Nicaragua,2010,5824.058
+Nicaragua,2011,5903.035
+Nicaragua,2012,5982.53
+Nicaragua,2013,6062.462
+Nicaragua,2014,6142.734
+Nicaragua,2015,6223.234
+Nicaragua,2016,6303.97
+Nicaragua,2017,6384.843
+Nicaragua,2018,6465.502
+Niger,1990,8026.592
+Niger,1991,8288.739
+Niger,1992,8566.773
+Niger,1993,8860.297
+Niger,1994,9168.316
+Niger,1995,9490.289
+Niger,1996,9826.6
+Niger,1997,10178.196
+Niger,1998,10545.72
+Niger,1999,10929.922
+Niger,2000,11331.561
+Niger,2001,11751.364
+Niger,2002,12189.988
+Niger,2003,12647.983
+Niger,2004,13125.914
+Niger,2005,13624.474
+Niger,2006,14143.969
+Niger,2007,14685.404
+Niger,2008,15250.913
+Niger,2009,15843.131
+Niger,2010,16464.025
+Niger,2011,17114.77
+Niger,2012,17795.209
+Niger,2013,18504.287
+Niger,2014,19240.182
+Niger,2015,20001.663
+Niger,2016,20788.789
+Niger,2017,21602.388
+Niger,2018,22442.831
+Nigeria,1990,95212.454
+Nigeria,1991,97667.632
+Nigeria,1992,100161.708
+Nigeria,1993,102700.751
+Nigeria,1994,105293.701
+Nigeria,1995,107948.339
+Nigeria,1996,110668.784
+Nigeria,1997,113457.661
+Nigeria,1998,116319.763
+Nigeria,1999,119260.055
+Nigeria,2000,122283.853
+Nigeria,2001,125394.046
+Nigeria,2002,128596.079
+Nigeria,2003,131900.634
+Nigeria,2004,135320.42
+Nigeria,2005,138865.014
+Nigeria,2006,142538.305
+Nigeria,2007,146339.971
+Nigeria,2008,150269.622
+Nigeria,2009,154324.939
+Nigeria,2010,158503.203
+Nigeria,2011,162805.08
+Nigeria,2012,167228.803
+Nigeria,2013,171765.819
+Nigeria,2014,176404.931
+Nigeria,2015,181137.454
+Nigeria,2016,185960.244
+Nigeria,2017,190873.247
+Nigeria,2018,195874.685
+Macedonia,1990,1996.218
+Macedonia,1991,1993.304
+Macedonia,1992,1988.659
+Macedonia,1993,1984.024
+Macedonia,1994,1981.713
+Macedonia,1995,1983.259
+Macedonia,1996,1989.441
+Macedonia,1997,1999.588
+Macedonia,1998,2012.052
+Macedonia,1999,2024.393
+Macedonia,2000,2034.823
+Macedonia,2001,2042.844
+Macedonia,2002,2048.93
+Macedonia,2003,2053.426
+Macedonia,2004,2057.044
+Macedonia,2005,2060.28
+Macedonia,2006,2063.132
+Macedonia,2007,2065.408
+Macedonia,2008,2067.309
+Macedonia,2009,2069.03
+Macedonia,2010,2070.737
+Macedonia,2011,2072.484
+Macedonia,2012,2074.275
+Macedonia,2013,2076.065
+Macedonia,2014,2077.78
+Macedonia,2015,2079.335
+Macedonia,2016,2080.746
+Macedonia,2017,2081.996
+Macedonia,2018,2082.957
+Norway,1990,4247.286
+Norway,1991,4269.465
+Norway,1992,4292.685
+Norway,1993,4316.79
+Norway,1994,4341.616
+Norway,1995,4366.996
+Norway,1996,4393.217
+Norway,1997,4420.266
+Norway,1998,4447.485
+Norway,1999,4474.008
+Norway,2000,4499.375
+Norway,2001,4523.139
+Norway,2002,4546.017
+Norway,2003,4570.096
+Norway,2004,4598.21
+Norway,2005,4632.359
+Norway,2006,4672.986
+Norway,2007,4719.403
+Norway,2008,4771.014
+Norway,2009,4826.847
+Norway,2010,4885.878
+Norway,2011,4948.335
+Norway,2012,5013.716
+Norway,2013,5079.46
+Norway,2014,5142.269
+Norway,2015,5199.827
+Norway,2016,5250.95
+Norway,2017,5296.324
+Norway,2018,5337.96
+Oman,1990,1812.158
+Oman,1991,1893.761
+Oman,1992,1983.272
+Oman,1993,2072.106
+Oman,1994,2148.416
+Oman,1995,2204.267
+Oman,1996,2236.652
+Oman,1997,2249.759
+Oman,1998,2251.859
+Oman,1999,2254.898
+Oman,2000,2267.973
+Oman,2001,2294.959
+Oman,2002,2334.86
+Oman,2003,2386.164
+Oman,2004,2445.524
+Oman,2005,2511.254
+Oman,2006,2580.753
+Oman,2007,2657.162
+Oman,2008,2750.956
+Oman,2009,2876.186
+Oman,2010,3041.435
+Oman,2011,3251.102
+Oman,2012,3498.031
+Oman,2013,3764.805
+Oman,2014,4027.255
+Oman,2015,4267.341
+Oman,2016,4479.217
+Oman,2017,4665.926
+Oman,2018,4829.476
+Pakistan,1990,107647.918
+Pakistan,1991,110778.655
+Pakistan,1992,113911.126
+Pakistan,1993,117086.68
+Pakistan,1994,120362.764
+Pakistan,1995,123776.835
+Pakistan,1996,127349.293
+Pakistan,1997,131057.432
+Pakistan,1998,134843.233
+Pakistan,1999,138624.625
+Pakistan,2000,142343.583
+Pakistan,2001,145978.408
+Pakistan,2002,149549.695
+Pakistan,2003,153093.371
+Pakistan,2004,156664.698
+Pakistan,2005,160304.007
+Pakistan,2006,164022.626
+Pakistan,2007,167808.106
+Pakistan,2008,171648.984
+Pakistan,2009,175525.61
+Pakistan,2010,179424.643
+Pakistan,2011,183340.168
+Pakistan,2012,187280.125
+Pakistan,2013,191260.799
+Pakistan,2014,195305.012
+Pakistan,2015,199426.953
+Pakistan,2016,203631.356
+Pakistan,2017,207906.21
+Pakistan,2018,212228.288
+Palau,1990,15.063
+Palau,1991,15.442
+Palau,1992,15.859
+Palau,1993,16.285
+Palau,1994,16.735
+Palau,1995,17.158
+Palau,1996,17.599
+Palau,1997,18.016
+Palau,1998,18.409
+Palau,1999,18.773
+Palau,2000,19.104
+Palau,2001,19.39
+Palau,2002,19.642
+Palau,2003,19.812
+Palau,2004,19.861
+Palau,2005,19.784
+Palau,2006,19.545
+Palau,2007,19.159
+Palau,2008,18.708
+Palau,2009,18.29
+Palau,2010,17.954
+Palau,2011,17.748
+Palau,2012,17.635
+Palau,2013,17.603
+Palau,2014,17.625
+Palau,2015,17.665
+Palau,2016,17.718
+Palau,2017,17.809
+Palau,2018,17.911
+Panama,1990,2470.946
+Panama,1991,2523.115
+Panama,1992,2575.949
+Panama,1993,2629.584
+Panama,1994,2684.117
+Panama,1995,2739.667
+Panama,1996,2796.291
+Panama,1997,2853.907
+Panama,1998,2912.318
+Panama,1999,2971.197
+Panama,2000,3030.333
+Panama,2001,3089.641
+Panama,2002,3149.195
+Panama,2003,3209.056
+Panama,2004,3269.356
+Panama,2005,3330.222
+Panama,2006,3391.673
+Panama,2007,3453.671
+Panama,2008,3516.204
+Panama,2009,3579.215
+Panama,2010,3642.691
+Panama,2011,3706.479
+Panama,2012,3770.635
+Panama,2013,3835.447
+Panama,2014,3901.311
+Panama,2015,3968.49
+Panama,2016,4037.073
+Panama,2017,4106.764
+Panama,2018,4176.868
+Papua New Guinea,1990,4615.843
+Papua New Guinea,1991,4725.543
+Papua New Guinea,1992,4836.216
+Papua New Guinea,1993,4949.053
+Papua New Guinea,1994,5065.664
+Papua New Guinea,1995,5187.063
+Papua New Guinea,1996,5314.258
+Papua New Guinea,1997,5446.633
+Papua New Guinea,1998,5581.767
+Papua New Guinea,1999,5716.166
+Papua New Guinea,2000,5847.59
+Papua New Guinea,2001,5974.627
+Papua New Guinea,2002,6098.621
+Papua New Guinea,2003,6223.378
+Papua New Guinea,2004,6354.247
+Papua New Guinea,2005,6494.902
+Papua New Guinea,2006,6646.891
+Papua New Guinea,2007,6808.503
+Papua New Guinea,2008,6976.2
+Papua New Guinea,2009,7144.774
+Papua New Guinea,2010,7310.512
+Papua New Guinea,2011,7472.196
+Papua New Guinea,2012,7631.003
+Papua New Guinea,2013,7788.388
+Papua New Guinea,2014,7946.733
+Papua New Guinea,2015,8107.772
+Papua New Guinea,2016,8271.766
+Papua New Guinea,2017,8438.038
+Papua New Guinea,2018,8606.324
+Paraguay,1990,4223.413
+Paraguay,1991,4334.348
+Paraguay,1992,4445.019
+Paraguay,1993,4555.518
+Paraguay,1994,4666.096
+Paraguay,1995,4776.838
+Paraguay,1996,4887.638
+Paraguay,1997,4998.096
+Paraguay,1998,5107.84
+Paraguay,1999,5216.346
+Paraguay,2000,5323.202
+Paraguay,2001,5428.442
+Paraguay,2002,5531.958
+Paraguay,2003,5632.983
+Paraguay,2004,5730.556
+Paraguay,2005,5824.095
+Paraguay,2006,5913.212
+Paraguay,2007,5998.43
+Paraguay,2008,6081.296
+Paraguay,2009,6163.97
+Paraguay,2010,6248.017
+Paraguay,2011,6333.981
+Paraguay,2012,6421.51
+Paraguay,2013,6510.273
+Paraguay,2014,6599.524
+Paraguay,2015,6688.746
+Paraguay,2016,6777.878
+Paraguay,2017,6867.058
+Paraguay,2018,6956.069
+Peru,1990,22071.433
+Peru,1991,22522.383
+Peru,1992,22966.822
+Peru,1993,23408.135
+Peru,1994,23851.405
+Peru,1995,24299.168
+Peru,1996,24753.825
+Peru,1997,25210.957
+Peru,1998,25658.07
+Peru,1999,26078.295
+Peru,2000,26459.944
+Peru,2001,26799.289
+Peru,2002,27100.964
+Peru,2003,27372.217
+Peru,2004,27624.226
+Peru,2005,27866.14
+Peru,2006,28102.055
+Peru,2007,28333.05
+Peru,2008,28562.321
+Peru,2009,28792.663
+Peru,2010,29027.68
+Peru,2011,29264.314
+Peru,2012,29506.79
+Peru,2013,29773.986
+Peru,2014,30090.372
+Peru,2015,30470.739
+Peru,2016,30926.036
+Peru,2017,31444.299
+Peru,2018,31989.265
+Philippines,1990,61895.169
+Philippines,1991,63454.785
+Philippines,1992,65020.124
+Philippines,1993,66593.904
+Philippines,1994,68180.846
+Philippines,1995,69784.087
+Philippines,1996,71401.743
+Philippines,1997,73030.879
+Philippines,1998,74672.009
+Philippines,1999,76325.927
+Philippines,2000,77991.757
+Philippines,2001,79672.869
+Philippines,2002,81365.26
+Philippines,2003,83051.97
+Philippines,2004,84710.544
+Philippines,2005,86326.251
+Philippines,2006,87888.675
+Philippines,2007,89405.482
+Philippines,2008,90901.967
+Philippines,2009,92414.161
+Philippines,2010,93966.784
+Philippines,2011,95570.049
+Philippines,2012,97212.639
+Philippines,2013,98871.558
+Philippines,2014,100513.137
+Philippines,2015,102113.206
+Philippines,2016,103663.812
+Philippines,2017,105172.921
+Philippines,2018,106651.394
+Poland,1990,37960.193
+Poland,1991,38082.94
+Poland,1992,38197.588
+Poland,1993,38301.349
+Poland,1994,38389.469
+Poland,1995,38458.642
+Poland,1996,38509.672
+Poland,1997,38544.838
+Poland,1998,38564.191
+Poland,1999,38567.868
+Poland,2000,38556.699
+Poland,2001,38529.585
+Poland,2002,38488.64
+Poland,2003,38441.821
+Poland,2004,38399.553
+Poland,2005,38368.957
+Poland,2006,38354.447
+Poland,2007,38353.339
+Poland,2008,38356.786
+Poland,2009,38351.924
+Poland,2010,38329.784
+Poland,2011,38286.824
+Poland,2012,38227.033
+Poland,2013,38158.043
+Poland,2014,38091.095
+Poland,2015,38034.076
+Poland,2016,37989.218
+Poland,2017,37953.176
+Poland,2018,37921.585
+Portugal,1990,9895.358
+Portugal,1991,9916.052
+Portugal,1992,9951.305
+Portugal,1993,9996.642
+Portugal,1994,10045.032
+Portugal,1995,10091.322
+Portugal,1996,10134.016
+Portugal,1997,10174.564
+Portugal,1998,10214.046
+Portugal,1999,10254.501
+Portugal,2000,10297.117
+Portugal,2001,10341.456
+Portugal,2002,10385.993
+Portugal,2003,10429.615
+Portugal,2004,10470.926
+Portugal,2005,10508.494
+Portugal,2006,10542.837
+Portugal,2007,10573.15
+Portugal,2008,10595.312
+Portugal,2009,10604.066
+Portugal,2010,10596.055
+Portugal,2011,10569.388
+Portugal,2012,10526.308
+Portugal,2013,10473.025
+Portugal,2014,10418.224
+Portugal,2015,10368.346
+Portugal,2016,10325.54
+Portugal,2017,10288.527
+Portugal,2018,10256.192
+Qatar,1990,476.275
+Qatar,1991,487.354
+Qatar,1992,495.403
+Qatar,1993,501.479
+Qatar,1994,507.044
+Qatar,1995,513.447
+Qatar,1996,522.531
+Qatar,1997,535.32
+Qatar,1998,551.566
+Qatar,1999,570.486
+Qatar,2000,592.467
+Qatar,2001,615.013
+Qatar,2002,640.872
+Qatar,2003,681.791
+Qatar,2004,753.332
+Qatar,2005,865.41
+Qatar,2006,1022.704
+Qatar,2007,1218.441
+Qatar,2008,1436.67
+Qatar,2009,1654.944
+Qatar,2010,1856.329
+Qatar,2011,2035.862
+Qatar,2012,2196.078
+Qatar,2013,2336.579
+Qatar,2014,2459.202
+Qatar,2015,2565.708
+Qatar,2016,2654.379
+Qatar,2017,2724.727
+Qatar,2018,2781.682
+South Korea,1990,42918.416
+South Korea,1991,43373.148
+South Korea,1992,43848.223
+South Korea,1993,44335.037
+South Korea,1994,44820.07
+South Korea,1995,45292.521
+South Korea,1996,45751.023
+South Korea,1997,46196.056
+South Korea,1998,46620.698
+South Korea,1999,47016.952
+South Korea,2000,47379.237
+South Korea,2001,47706.226
+South Korea,2002,47999.551
+South Korea,2003,48260.901
+South Korea,2004,48493.434
+South Korea,2005,48701.069
+South Korea,2006,48880.449
+South Korea,2007,49034.813
+South Korea,2008,49182.458
+South Korea,2009,49347.45
+South Korea,2010,49545.638
+South Korea,2011,49786.153
+South Korea,2012,50060.639
+South Korea,2013,50345.72
+South Korea,2014,50607.904
+South Korea,2015,50823.087
+South Korea,2016,50983.446
+South Korea,2017,51096.408
+South Korea,2018,51171.7
+Moldova,1990,4365.562
+Moldova,1991,4375.053
+Moldova,1992,4376.804
+Moldova,1993,4371.155
+Moldova,1994,4358.79
+Moldova,1995,4340.602
+Moldova,1996,4316.225
+Moldova,1997,4286.477
+Moldova,1998,4254.835
+Moldova,1999,4225.835
+Moldova,2000,4202.659
+Moldova,2001,4187.097
+Moldova,2002,4178.228
+Moldova,2003,4173.276
+Moldova,2004,4167.962
+Moldova,2005,4159.296
+Moldova,2006,4146.264
+Moldova,2007,4130.129
+Moldova,2008,4112.886
+Moldova,2009,4097.515
+Moldova,2010,4086.09
+Moldova,2011,4079.167
+Moldova,2012,4075.804
+Moldova,2013,4074.585
+Moldova,2014,4073.407
+Moldova,2015,4070.705
+Moldova,2016,4066.013
+Moldova,2017,4059.687
+Moldova,2018,4051.95
+Romania,1990,23489.156
+Romania,1991,23456.646
+Romania,1992,23375.828
+Romania,1993,23256.959
+Romania,1994,23115.814
+Romania,1995,22964.747
+Romania,1996,22805.706
+Romania,1997,22637.6
+Romania,1998,22466.291
+Romania,1999,22298.122
+Romania,2000,22137.423
+Romania,2001,21989.354
+Romania,2002,21853.278
+Romania,2003,21720.403
+Romania,2004,21577.89
+Romania,2005,21417.287
+Romania,2006,21234.312
+Romania,2007,21034.196
+Romania,2008,20829.521
+Romania,2009,20637.995
+Romania,2010,20471.86
+Romania,2011,20336.718
+Romania,2012,20227.467
+Romania,2013,20132.78
+Romania,2014,20035.928
+Romania,2015,19925.182
+Romania,2016,19796.28
+Romania,2017,19653.966
+Romania,2018,19506.11
+Russia,1990,147531.562
+Russia,1991,147995.584
+Russia,1992,148268.576
+Russia,1993,148373.584
+Russia,1994,148349.443
+Russia,1995,148227.471
+Russia,1996,148020.852
+Russia,1997,147730.02
+Russia,1998,147360.613
+Russia,1999,146915.915
+Russia,2000,146404.89
+Russia,2001,145830.726
+Russia,2002,145215.707
+Russia,2003,144610.876
+Russia,2004,144080.649
+Russia,2005,143672.125
+Russia,2006,143403.258
+Russia,2007,143266.207
+Russia,2008,143248.764
+Russia,2009,143326.904
+Russia,2010,143479.273
+Russia,2011,143703.027
+Russia,2012,143993.888
+Russia,2013,144325.456
+Russia,2014,144664.837
+Russia,2015,144985.059
+Russia,2016,145275.374
+Russia,2017,145530.091
+Russia,2018,145734.034
+Rwanda,1990,7288.883
+Rwanda,1991,7083.928
+Rwanda,1992,6702.239
+Rwanda,1993,6263.758
+Rwanda,1994,5936.253
+Rwanda,1995,5836.49
+Rwanda,1996,6013.112
+Rwanda,1997,6419.898
+Rwanda,1998,6962.8
+Rwanda,1999,7501.238
+Rwanda,2000,7933.688
+Rwanda,2001,8231.15
+Rwanda,2002,8427.061
+Rwanda,2003,8557.16
+Rwanda,2004,8680.516
+Rwanda,2005,8840.22
+Rwanda,2006,9043.342
+Rwanda,2007,9273.759
+Rwanda,2008,9524.532
+Rwanda,2009,9782.77
+Rwanda,2010,10039.338
+Rwanda,2011,10293.333
+Rwanda,2012,10549.668
+Rwanda,2013,10811.538
+Rwanda,2014,11083.629
+Rwanda,2015,11369.066
+Rwanda,2016,11668.829
+Rwanda,2017,11980.96
+Rwanda,2018,12301.969
+Saint Kitts and Nevis,1990,40.26
+Saint Kitts and Nevis,1991,40.381
+Saint Kitts and Nevis,1992,40.691
+Saint Kitts and Nevis,1993,41.141
+Saint Kitts and Nevis,1994,41.618
+Saint Kitts and Nevis,1995,42.077
+Saint Kitts and Nevis,1996,42.472
+Saint Kitts and Nevis,1997,42.857
+Saint Kitts and Nevis,1998,43.225
+Saint Kitts and Nevis,1999,43.622
+Saint Kitts and Nevis,2000,44.083
+Saint Kitts and Nevis,2001,44.602
+Saint Kitts and Nevis,2002,45.168
+Saint Kitts and Nevis,2003,45.749
+Saint Kitts and Nevis,2004,46.323
+Saint Kitts and Nevis,2005,46.852
+Saint Kitts and Nevis,2006,47.333
+Saint Kitts and Nevis,2007,47.769
+Saint Kitts and Nevis,2008,48.178
+Saint Kitts and Nevis,2009,48.599
+Saint Kitts and Nevis,2010,49.011
+Saint Kitts and Nevis,2011,49.442
+Saint Kitts and Nevis,2012,49.881
+Saint Kitts and Nevis,2013,50.328
+Saint Kitts and Nevis,2014,50.776
+Saint Kitts and Nevis,2015,51.204
+Saint Kitts and Nevis,2016,51.629
+Saint Kitts and Nevis,2017,52.036
+Saint Kitts and Nevis,2018,52.438
+Saint Lucia,1990,138.019
+Saint Lucia,1991,140.001
+Saint Lucia,1992,141.758
+Saint Lucia,1993,143.402
+Saint Lucia,1994,145.08
+Saint Lucia,1995,146.871
+Saint Lucia,1996,148.837
+Saint Lucia,1997,150.92
+Saint Lucia,1998,153.023
+Saint Lucia,1999,154.988
+Saint Lucia,2000,156.737
+Saint Lucia,2001,158.184
+Saint Lucia,2002,159.392
+Saint Lucia,2003,160.53
+Saint Lucia,2004,161.821
+Saint Lucia,2005,163.408
+Saint Lucia,2006,165.378
+Saint Lucia,2007,167.644
+Saint Lucia,2008,170.011
+Saint Lucia,2009,172.223
+Saint Lucia,2010,174.092
+Saint Lucia,2011,175.538
+Saint Lucia,2012,176.654
+Saint Lucia,2013,177.505
+Saint Lucia,2014,178.307
+Saint Lucia,2015,179.131
+Saint Lucia,2016,180.028
+Saint Lucia,2017,180.955
+Saint Lucia,2018,181.89
+Saint Vincent and the Grenadines,1990,107.489
+Saint Vincent and the Grenadines,1991,107.772
+Saint Vincent and the Grenadines,1992,107.941
+Saint Vincent and the Grenadines,1993,108.036
+Saint Vincent and the Grenadines,1994,108.059
+Saint Vincent and the Grenadines,1995,108.043
+Saint Vincent and the Grenadines,1996,107.983
+Saint Vincent and the Grenadines,1997,107.895
+Saint Vincent and the Grenadines,1998,107.807
+Saint Vincent and the Grenadines,1999,107.763
+Saint Vincent and the Grenadines,2000,107.787
+Saint Vincent and the Grenadines,2001,107.893
+Saint Vincent and the Grenadines,2002,108.095
+Saint Vincent and the Grenadines,2003,108.322
+Saint Vincent and the Grenadines,2004,108.52
+Saint Vincent and the Grenadines,2005,108.617
+Saint Vincent and the Grenadines,2006,108.602
+Saint Vincent and the Grenadines,2007,108.516
+Saint Vincent and the Grenadines,2008,108.401
+Saint Vincent and the Grenadines,2009,108.293
+Saint Vincent and the Grenadines,2010,108.26
+Saint Vincent and the Grenadines,2011,108.315
+Saint Vincent and the Grenadines,2012,108.435
+Saint Vincent and the Grenadines,2013,108.624
+Saint Vincent and the Grenadines,2014,108.868
+Saint Vincent and the Grenadines,2015,109.135
+Saint Vincent and the Grenadines,2016,109.467
+Saint Vincent and the Grenadines,2017,109.826
+Saint Vincent and the Grenadines,2018,110.21
+Samoa,1990,162.797
+Samoa,1991,164
+Samoa,1992,165.49
+Samoa,1993,167.117
+Samoa,1994,168.689
+Samoa,1995,170.05
+Samoa,1996,171.165
+Samoa,1997,172.065
+Samoa,1998,172.839
+Samoa,1999,173.606
+Samoa,2000,174.454
+Samoa,2001,175.394
+Samoa,2002,176.41
+Samoa,2003,177.481
+Samoa,2004,178.597
+Samoa,2005,179.722
+Samoa,2006,180.874
+Samoa,2007,182.045
+Samoa,2008,183.27
+Samoa,2009,184.553
+Samoa,2010,185.944
+Samoa,2011,187.469
+Samoa,2012,189.089
+Samoa,2013,190.712
+Samoa,2014,192.22
+Samoa,2015,193.51
+Samoa,2016,194.54
+Samoa,2017,195.358
+Samoa,2018,196.128
+San Marino,1990,24.124
+San Marino,1991,24.454
+San Marino,1992,24.83
+San Marino,1993,25.208
+San Marino,1994,25.588
+San Marino,1995,25.925
+San Marino,1996,26.253
+San Marino,1997,26.563
+San Marino,1998,26.851
+San Marino,1999,27.141
+San Marino,2000,27.46
+San Marino,2001,27.818
+San Marino,2002,28.175
+San Marino,2003,28.561
+San Marino,2004,28.942
+San Marino,2005,29.324
+San Marino,2006,29.694
+San Marino,2007,30.068
+San Marino,2008,30.434
+San Marino,2009,30.825
+San Marino,2010,31.221
+San Marino,2011,31.655
+San Marino,2012,32.103
+San Marino,2013,32.554
+San Marino,2014,32.941
+San Marino,2015,33.27
+San Marino,2016,33.503
+San Marino,2017,33.671
+San Marino,2018,33.784
+Sao Tome and Principe,1990,119.211
+Sao Tome and Principe,1991,121.949
+Sao Tome and Principe,1992,124.574
+Sao Tome and Principe,1993,127.066
+Sao Tome and Principe,1994,129.426
+Sao Tome and Principe,1995,131.679
+Sao Tome and Principe,1996,133.799
+Sao Tome and Principe,1997,135.831
+Sao Tome and Principe,1998,137.855
+Sao Tome and Principe,1999,139.964
+Sao Tome and Principe,2000,142.264
+Sao Tome and Principe,2001,144.76
+Sao Tome and Principe,2002,147.45
+Sao Tome and Principe,2003,150.405
+Sao Tome and Principe,2004,153.736
+Sao Tome and Principe,2005,157.472
+Sao Tome and Principe,2006,161.676
+Sao Tome and Principe,2007,166.297
+Sao Tome and Principe,2008,171.122
+Sao Tome and Principe,2009,175.877
+Sao Tome and Principe,2010,180.372
+Sao Tome and Principe,2011,184.521
+Sao Tome and Principe,2012,188.394
+Sao Tome and Principe,2013,192.076
+Sao Tome and Principe,2014,195.727
+Sao Tome and Principe,2015,199.439
+Sao Tome and Principe,2016,203.221
+Sao Tome and Principe,2017,207.086
+Sao Tome and Principe,2018,211.032
+Saudi Arabia,1990,16233.786
+Saudi Arabia,1991,16772.695
+Saudi Arabia,1992,17282.686
+Saudi Arabia,1993,17763.297
+Saudi Arabia,1994,18214.475
+Saudi Arabia,1995,18638.79
+Saudi Arabia,1996,19033.843
+Saudi Arabia,1997,19407.138
+Saudi Arabia,1998,19783.301
+Saudi Arabia,1999,20194.531
+Saudi Arabia,2000,20663.84
+Saudi Arabia,2001,21202.646
+Saudi Arabia,2002,21805.322
+Saudi Arabia,2003,22456.645
+Saudi Arabia,2004,23132.686
+Saudi Arabia,2005,23816.175
+Saudi Arabia,2006,24498.313
+Saudi Arabia,2007,25184.589
+Saudi Arabia,2008,25888.535
+Saudi Arabia,2009,26630.303
+Saudi Arabia,2010,27421.468
+Saudi Arabia,2011,28267.591
+Saudi Arabia,2012,29154.906
+Saudi Arabia,2013,30052.058
+Saudi Arabia,2014,30916.603
+Saudi Arabia,2015,31717.676
+Saudi Arabia,2016,32443.443
+Saudi Arabia,2017,33101.183
+Saudi Arabia,2018,33702.757
+Senegal,1990,7526.306
+Senegal,1991,7755.503
+Senegal,1992,7990.09
+Senegal,1993,8226.749
+Senegal,1994,8461.066
+Senegal,1995,8690.155
+Senegal,1996,8912.872
+Senegal,1997,9130.876
+Senegal,1998,9347.777
+Senegal,1999,9568.717
+Senegal,2000,9797.731
+Senegal,2001,10036.102
+Senegal,2002,10283.694
+Senegal,2003,10541.47
+Senegal,2004,10810.086
+Senegal,2005,11090.123
+Senegal,2006,11382.272
+Senegal,2007,11687.078
+Senegal,2008,12004.7
+Senegal,2009,12335.092
+Senegal,2010,12678.143
+Senegal,2011,13033.814
+Senegal,2012,13401.99
+Senegal,2013,13782.429
+Senegal,2014,14174.74
+Senegal,2015,14578.45
+Senegal,2016,14993.514
+Senegal,2017,15419.354
+Senegal,2018,15854.324
+Serbia,1990,9517.677
+Serbia,1991,9602.879
+Serbia,1992,9701.145
+Serbia,1993,9795.253
+Serbia,1994,9861.631
+Serbia,1995,9884.145
+Serbia,1996,9856.064
+Serbia,1997,9784.689
+Serbia,1998,9685.43
+Serbia,1999,9580.824
+Serbia,2000,9487.612
+Serbia,2001,9410.769
+Serbia,2002,9346.464
+Serbia,2003,9292.232
+Serbia,2004,9242.643
+Serbia,2005,9193.818
+Serbia,2006,9145.913
+Serbia,2007,9101.189
+Serbia,2008,9060.105
+Serbia,2009,9023.354
+Serbia,2010,8991.258
+Serbia,2011,8963.761
+Serbia,2012,8940.116
+Serbia,2013,8918.892
+Serbia,2014,8898.284
+Serbia,2015,8876.777
+Serbia,2016,8853.963
+Serbia,2017,8829.623
+Serbia,2018,8802.741
+Seychelles,1990,70.572
+Seychelles,1991,71.446
+Seychelles,1992,72.661
+Seychelles,1993,74.071
+Seychelles,1994,75.444
+Seychelles,1995,76.653
+Seychelles,1996,77.597
+Seychelles,1997,78.357
+Seychelles,1998,79.064
+Seychelles,1999,79.904
+Seychelles,2000,80.998
+Seychelles,2001,82.413
+Seychelles,2002,84.077
+Seychelles,2003,85.807
+Seychelles,2004,87.388
+Seychelles,2005,88.652
+Seychelles,2006,89.528
+Seychelles,2007,90.082
+Seychelles,2008,90.45
+Seychelles,2009,90.788
+Seychelles,2010,91.273
+Seychelles,2011,91.882
+Seychelles,2012,92.608
+Seychelles,2013,93.397
+Seychelles,2014,94.214
+Seychelles,2015,94.981
+Seychelles,2016,95.711
+Seychelles,2017,96.418
+Seychelles,2018,97.094
+Sierra Leone,1990,4319.763
+Sierra Leone,1991,4348.663
+Sierra Leone,1992,4347.727
+Sierra Leone,1993,4328.965
+Sierra Leone,1994,4309.78
+Sierra Leone,1995,4303.953
+Sierra Leone,1996,4312.66
+Sierra Leone,1997,4335.295
+Sierra Leone,1998,4381.484
+Sierra Leone,1999,4462.374
+Sierra Leone,2000,4584.57
+Sierra Leone,2001,4754.069
+Sierra Leone,2002,4965.77
+Sierra Leone,2003,5201.074
+Sierra Leone,2004,5433.995
+Sierra Leone,2005,5645.629
+Sierra Leone,2006,5829.24
+Sierra Leone,2007,5989.641
+Sierra Leone,2008,6133.599
+Sierra Leone,2009,6272.735
+Sierra Leone,2010,6415.636
+Sierra Leone,2011,6563.238
+Sierra Leone,2012,6712.586
+Sierra Leone,2013,6863.975
+Sierra Leone,2014,7017.153
+Sierra Leone,2015,7171.909
+Sierra Leone,2016,7328.846
+Sierra Leone,2017,7488.427
+Sierra Leone,2018,7650.149
+Singapore,1990,3012.968
+Singapore,1991,3101.144
+Singapore,1992,3199.642
+Singapore,1993,3305.801
+Singapore,1994,3415.701
+Singapore,1995,3525.964
+Singapore,1996,3638.177
+Singapore,1997,3752.131
+Singapore,1998,3860.721
+Singapore,1999,3954.741
+Singapore,2000,4028.872
+Singapore,2001,4077.15
+Singapore,2002,4104.407
+Singapore,2003,4129.227
+Singapore,2004,4177.202
+Singapore,2005,4265.693
+Singapore,2006,4402.324
+Singapore,2007,4578.629
+Singapore,2008,4775.81
+Singapore,2009,4966.614
+Singapore,2010,5131.17
+Singapore,2011,5263.64
+Singapore,2012,5369.469
+Singapore,2013,5453.732
+Singapore,2014,5525.628
+Singapore,2015,5592.143
+Singapore,2016,5653.625
+Singapore,2017,5708.042
+Singapore,2018,5757.503
+Slovakia,1990,5288.455
+Slovakia,1991,5309.229
+Slovakia,1992,5329.029
+Slovakia,1993,5347.212
+Slovakia,1994,5362.894
+Slovakia,1995,5375.47
+Slovakia,1996,5384.792
+Slovakia,1997,5391.202
+Slovakia,1998,5395.253
+Slovakia,1999,5397.709
+Slovakia,2000,5399.207
+Slovakia,2001,5399.995
+Slovakia,2002,5400.124
+Slovakia,2003,5399.844
+Slovakia,2004,5399.374
+Slovakia,2005,5398.962
+Slovakia,2006,5398.674
+Slovakia,2007,5398.693
+Slovakia,2008,5399.362
+Slovakia,2009,5401.149
+Slovakia,2010,5404.293
+Slovakia,2011,5408.932
+Slovakia,2012,5414.894
+Slovakia,2013,5421.721
+Slovakia,2014,5428.798
+Slovakia,2015,5435.614
+Slovakia,2016,5442.001
+Slovakia,2017,5447.903
+Slovakia,2018,5453.017
+Slovenia,1990,2006.404
+Slovenia,1991,2007.78
+Slovenia,1992,2005.352
+Slovenia,1993,2000.56
+Slovenia,1994,1995.326
+Slovenia,1995,1991.126
+Slovenia,1996,1988.58
+Slovenia,1997,1987.457
+Slovenia,1998,1987.384
+Slovenia,1999,1987.625
+Slovenia,2000,1987.71
+Slovenia,2001,1987.457
+Slovenia,2002,1987.265
+Slovenia,2003,1987.855
+Slovenia,2004,1990.226
+Slovenia,2005,1994.979
+Slovenia,2006,2002.427
+Slovenia,2007,2012.128
+Slovenia,2008,2023.049
+Slovenia,2009,2033.807
+Slovenia,2010,2043.336
+Slovenia,2011,2051.278
+Slovenia,2012,2057.826
+Slovenia,2013,2063.12
+Slovenia,2014,2067.488
+Slovenia,2015,2071.199
+Slovenia,2016,2074.205
+Slovenia,2017,2076.395
+Slovenia,2018,2077.836
+Solomon Islands,1990,311.869
+Solomon Islands,1991,320.781
+Solomon Islands,1992,330.004
+Solomon Islands,1993,339.501
+Solomon Islands,1994,349.273
+Solomon Islands,1995,359.276
+Solomon Islands,1996,369.517
+Solomon Islands,1997,379.998
+Solomon Islands,1998,390.702
+Solomon Islands,1999,401.592
+Solomon Islands,2000,412.665
+Solomon Islands,2001,423.949
+Solomon Islands,2002,435.434
+Solomon Islands,2003,447.016
+Solomon Islands,2004,458.549
+Solomon Islands,2005,469.918
+Solomon Islands,2006,481.086
+Solomon Islands,2007,492.133
+Solomon Islands,2008,503.366
+Solomon Islands,2009,515.182
+Solomon Islands,2010,527.861
+Solomon Islands,2011,541.522
+Solomon Islands,2012,556.066
+Solomon Islands,2013,571.329
+Solomon Islands,2014,587.079
+Solomon Islands,2015,603.133
+Solomon Islands,2016,619.438
+Solomon Islands,2017,636.03
+Solomon Islands,2018,652.856
+Somalia,1990,7225.089
+Somalia,1991,7274.026
+Somalia,1992,7295.38
+Somalia,1993,7315.864
+Somalia,1994,7372.592
+Somalia,1995,7491.647
+Somalia,1996,7682.683
+Somalia,1997,7936.122
+Somalia,1998,8235.064
+Somalia,1999,8553.595
+Somalia,2000,8872.25
+Somalia,2001,9186.719
+Somalia,2002,9501.335
+Somalia,2003,9815.412
+Somalia,2004,10130.251
+Somalia,2005,10446.856
+Somalia,2006,10763.904
+Somalia,2007,11080.122
+Somalia,2008,11397.188
+Somalia,2009,11717.691
+Somalia,2010,12043.886
+Somalia,2011,12376.305
+Somalia,2012,12715.487
+Somalia,2013,13063.711
+Somalia,2014,13423.571
+Somalia,2015,13797.204
+Somalia,2016,14185.635
+Somalia,2017,14589.165
+Somalia,2018,15008.225
+South Africa,1990,36800.507
+South Africa,1991,37718.952
+South Africa,1992,38672.611
+South Africa,1993,39633.754
+South Africa,1994,40564.061
+South Africa,1995,41435.761
+South Africa,1996,42241.007
+South Africa,1997,42987.456
+South Africa,1998,43682.259
+South Africa,1999,44338.551
+South Africa,2000,44967.713
+South Africa,2001,45571.272
+South Africa,2002,46150.913
+South Africa,2003,46719.203
+South Africa,2004,47291.61
+South Africa,2005,47880.595
+South Africa,2006,48489.464
+South Africa,2007,49119.766
+South Africa,2008,49779.472
+South Africa,2009,50477.013
+South Africa,2010,51216.967
+South Africa,2011,52003.759
+South Africa,2012,52832.659
+South Africa,2013,53687.125
+South Africa,2014,54544.184
+South Africa,2015,55386.369
+South Africa,2016,56207.649
+South Africa,2017,57009.751
+South Africa,2018,57792.52
+South Sudan,1990,5492.62
+South Sudan,1991,5420.179
+South Sudan,1992,5305.449
+South Sudan,1993,5185.712
+South Sudan,1994,5111.371
+South Sudan,1995,5118.084
+South Sudan,1996,5221.925
+South Sudan,1997,5411.653
+South Sudan,1998,5661.934
+South Sudan,1999,5933.884
+South Sudan,2000,6199.396
+South Sudan,2001,6447.791
+South Sudan,2002,6688.225
+South Sudan,2003,6935.665
+South Sudan,2004,7213.354
+South Sudan,2005,7535.931
+South Sudan,2006,7907.407
+South Sudan,2007,8315.144
+South Sudan,2008,8736.932
+South Sudan,2009,9142.258
+South Sudan,2010,9508.372
+South Sudan,2011,9830.695
+South Sudan,2012,10113.648
+South Sudan,2013,10355.03
+South Sudan,2014,10554.882
+South Sudan,2015,10715.657
+South Sudan,2016,10832.52
+South Sudan,2017,10910.774
+South Sudan,2018,10975.924
+Spain,1990,39202.524
+Spain,1991,39299.081
+Spain,1992,39410.852
+Spain,1993,39533.726
+Spain,1994,39660.079
+Spain,1995,39787.413
+Spain,1996,39908.962
+Spain,1997,40035.286
+Spain,1998,40201.561
+Spain,1999,40454.472
+Spain,2000,40824.745
+Spain,2001,41319.431
+Spain,2002,41919.593
+Spain,2003,42596.455
+Spain,2004,43308.345
+Spain,2005,44019.118
+Spain,2006,44728.561
+Spain,2007,45429.071
+Spain,2008,46068.811
+Spain,2009,46583.566
+Spain,2010,46931.011
+Spain,2011,47084.242
+Spain,2012,47063.059
+Spain,2013,46930.554
+Spain,2014,46777.927
+Spain,2015,46671.919
+Spain,2016,46634.131
+Spain,2017,46647.425
+Spain,2018,46692.863
+Sri Lanka,1990,17325.769
+Sri Lanka,1991,17535.732
+Sri Lanka,1992,17736.827
+Sri Lanka,1993,17924.827
+Sri Lanka,1994,18094.474
+Sri Lanka,1995,18242.917
+Sri Lanka,1996,18367.29
+Sri Lanka,1997,18470.897
+Sri Lanka,1998,18564.595
+Sri Lanka,1999,18663.293
+Sri Lanka,2000,18777.606
+Sri Lanka,2001,18911.727
+Sri Lanka,2002,19062.476
+Sri Lanka,2003,19224.036
+Sri Lanka,2004,19387.153
+Sri Lanka,2005,19544.988
+Sri Lanka,2006,19695.977
+Sri Lanka,2007,19842.044
+Sri Lanka,2008,19983.984
+Sri Lanka,2009,20123.508
+Sri Lanka,2010,20261.738
+Sri Lanka,2011,20398.496
+Sri Lanka,2012,20532.599
+Sri Lanka,2013,20663.053
+Sri Lanka,2014,20788.512
+Sri Lanka,2015,20908.024
+Sri Lanka,2016,21021.177
+Sri Lanka,2017,21128.028
+Sri Lanka,2018,21228.76
+Sudan,1990,20147.592
+Sudan,1991,20891.442
+Sudan,1992,21696.24
+Sudan,1993,22527.837
+Sudan,1994,23338.465
+Sudan,1995,24094.741
+Sudan,1996,24782.384
+Sudan,1997,25413.912
+Sudan,1998,26015.518
+Sudan,1999,26626.512
+Sudan,2000,27275.019
+Sudan,2001,27971.077
+Sudan,2002,28704.786
+Sudan,2003,29460.517
+Sudan,2004,30214.189
+Sudan,2005,30949.514
+Sudan,2006,31661.824
+Sudan,2007,32360.619
+Sudan,2008,33060.844
+Sudan,2009,33783.779
+Sudan,2010,34545.014
+Sudan,2011,35349.676
+Sudan,2012,36193.781
+Sudan,2013,37072.555
+Sudan,2014,37977.657
+Sudan,2015,38902.948
+Sudan,2016,39847.433
+Sudan,2017,40813.398
+Sudan,2018,41801.532
+Suriname,1990,405.169
+Suriname,1991,413.009
+Suriname,1992,420.658
+Suriname,1993,428.028
+Suriname,1994,435.099
+Suriname,1995,441.851
+Suriname,1996,448.207
+Suriname,1997,454.165
+Suriname,1998,459.838
+Suriname,1999,465.38
+Suriname,2000,470.944
+Suriname,2001,476.574
+Suriname,2002,482.228
+Suriname,2003,487.938
+Suriname,2004,493.68
+Suriname,2005,499.461
+Suriname,2006,505.292
+Suriname,2007,511.181
+Suriname,2008,517.122
+Suriname,2009,523.113
+Suriname,2010,529.126
+Suriname,2011,535.177
+Suriname,2012,541.247
+Suriname,2013,547.295
+Suriname,2014,553.278
+Suriname,2015,559.136
+Suriname,2016,564.883
+Suriname,2017,570.501
+Suriname,2018,575.987
+Sweden,1990,8567.375
+Sweden,1991,8625.14
+Sweden,1992,8686.735
+Sweden,1993,8746.77
+Sweden,1994,8798.235
+Sweden,1995,8836.421
+Sweden,1996,8859.18
+Sweden,1997,8868.857
+Sweden,1998,8870.854
+Sweden,1999,8873.105
+Sweden,2000,8881.642
+Sweden,2001,8897.802
+Sweden,2002,8920.703
+Sweden,2003,8951.439
+Sweden,2004,8990.653
+Sweden,2005,9038.627
+Sweden,2006,9096.17
+Sweden,2007,9162.941
+Sweden,2008,9236.433
+Sweden,2009,9313.085
+Sweden,2010,9390.157
+Sweden,2011,9466.705
+Sweden,2012,9542.817
+Sweden,2013,9618.016
+Sweden,2014,9692.137
+Sweden,2015,9764.949
+Sweden,2016,9836.003
+Sweden,2017,9904.895
+Sweden,2018,9971.63
+Switzerland,1990,6652.873
+Switzerland,1991,6718.818
+Switzerland,1992,6792.906
+Switzerland,1993,6868.937
+Switzerland,1994,6938.407
+Switzerland,1995,6995.519
+Switzerland,1996,7038.027
+Switzerland,1997,7068.503
+Switzerland,1998,7091.775
+Switzerland,1999,7115.031
+Switzerland,2000,7143.764
+Switzerland,2001,7179.174
+Switzerland,2002,7220.378
+Switzerland,2003,7268.363
+Switzerland,2004,7323.728
+Switzerland,2005,7386.818
+Switzerland,2006,7457.961
+Switzerland,2007,7536.986
+Switzerland,2008,7622.826
+Switzerland,2009,7713.902
+Switzerland,2010,7808.674
+Switzerland,2011,7906.988
+Switzerland,2012,8008.006
+Switzerland,2013,8108.876
+Switzerland,2014,8206.003
+Switzerland,2015,8296.775
+Switzerland,2016,8379.915
+Switzerland,2017,8455.797
+Switzerland,2018,8525.614
+Syria,1990,12446.168
+Syria,1991,12815.4
+Syria,1992,13187.669
+Syria,1993,13565.074
+Syria,1994,13950.486
+Syria,1995,14345.491
+Syria,1996,14754.148
+Syria,1997,15175.308
+Syria,1998,15599.588
+Syria,1999,16013.992
+Syria,2000,16410.847
+Syria,2001,16766.555
+Syria,2002,17084.628
+Syria,2003,17415.214
+Syria,2004,17827.827
+Syria,2005,18361.178
+Syria,2006,19059.257
+Syria,2007,19878.257
+Syria,2008,20664.037
+Syria,2009,21205.873
+Syria,2010,21362.541
+Syria,2011,21081.814
+Syria,2012,20438.861
+Syria,2013,19578.466
+Syria,2014,18710.711
+Syria,2015,17997.411
+Syria,2016,17465.567
+Syria,2017,17095.669
+Syria,2018,16945.062
+Tajikistan,1990,5283.811
+Tajikistan,1991,5400.636
+Tajikistan,1992,5502.49
+Tajikistan,1993,5593.317
+Tajikistan,1994,5679.169
+Tajikistan,1995,5764.806
+Tajikistan,1996,5851.354
+Tajikistan,1997,5938.404
+Tajikistan,1998,6027.395
+Tajikistan,1999,6119.664
+Tajikistan,2000,6216.329
+Tajikistan,2001,6318.51
+Tajikistan,2002,6426.861
+Tajikistan,2003,6541.55
+Tajikistan,2004,6662.391
+Tajikistan,2005,6789.318
+Tajikistan,2006,6922.59
+Tajikistan,2007,7062.667
+Tajikistan,2008,7209.924
+Tajikistan,2009,7364.752
+Tajikistan,2010,7527.397
+Tajikistan,2011,7697.507
+Tajikistan,2012,7874.838
+Tajikistan,2013,8059.782
+Tajikistan,2014,8252.828
+Tajikistan,2015,8454.019
+Tajikistan,2016,8663.575
+Tajikistan,2017,8880.27
+Tajikistan,2018,9100.847
+Thailand,1990,56558.196
+Thailand,1991,57232.471
+Thailand,1992,57811.025
+Thailand,1993,58337.773
+Thailand,1994,58875.275
+Thailand,1995,59467.272
+Thailand,1996,60130.19
+Thailand,1997,60846.588
+Thailand,1998,61585.103
+Thailand,1999,62298.569
+Thailand,2000,62952.639
+Thailand,2001,63539.19
+Thailand,2002,64069.093
+Thailand,2003,64549.867
+Thailand,2004,64995.303
+Thailand,2005,65416.189
+Thailand,2006,65812.54
+Thailand,2007,66182.064
+Thailand,2008,66530.98
+Thailand,2009,66866.834
+Thailand,2010,67195.032
+Thailand,2011,67518.379
+Thailand,2012,67835.969
+Thailand,2013,68144.519
+Thailand,2014,68438.748
+Thailand,2015,68714.519
+Thailand,2016,68971.313
+Thailand,2017,69209.817
+Thailand,2018,69428.454
+East Timor,1990,737.814
+East Timor,1991,759.526
+East Timor,1992,783.204
+East Timor,1993,806.867
+East Timor,1994,827.828
+East Timor,1995,844.333
+East Timor,1996,855.358
+East Timor,1997,861.87
+East Timor,1998,866.523
+East Timor,1999,873.138
+East Timor,2000,884.366
+East Timor,2001,901.214
+East Timor,2002,922.699
+East Timor,2003,947.11
+East Timor,2004,971.889
+East Timor,2005,995.13
+East Timor,2006,1016.437
+East Timor,2007,1036.388
+East Timor,2008,1055.428
+East Timor,2009,1074.286
+East Timor,2010,1093.517
+East Timor,2011,1113.154
+East Timor,2012,1133.002
+East Timor,2013,1153.288
+East Timor,2014,1174.333
+East Timor,2015,1196.294
+East Timor,2016,1219.289
+East Timor,2017,1243.26
+East Timor,2018,1267.975
+Togo,1990,3774.31
+Togo,1991,3862.998
+Togo,1992,3945.902
+Togo,1993,4029.044
+Togo,1994,4120.615
+Togo,1995,4226.293
+Togo,1996,4348.808
+Togo,1997,4485.945
+Togo,1998,4632.451
+Togo,1999,4780.455
+Togo,2000,4924.406
+Togo,2001,5062.571
+Togo,2002,5197.04
+Togo,2003,5330.629
+Togo,2004,5467.77
+Togo,2005,5611.643
+Togo,2006,5762.881
+Togo,2007,5920.36
+Togo,2008,6083.417
+Togo,2009,6250.84
+Togo,2010,6421.674
+Togo,2011,6595.939
+Togo,2012,6773.807
+Togo,2013,6954.721
+Togo,2014,7137.997
+Togo,2015,7323.162
+Togo,2016,7509.952
+Togo,2017,7698.476
+Togo,2018,7889.095
+Tonga,1990,95.069
+Tonga,1991,95.243
+Tonga,1992,95.398
+Tonga,1993,95.556
+Tonga,1994,95.739
+Tonga,1995,95.972
+Tonga,1996,96.267
+Tonga,1997,96.621
+Tonga,1998,97.036
+Tonga,1999,97.475
+Tonga,2000,97.962
+Tonga,2001,98.482
+Tonga,2002,99.023
+Tonga,2003,99.591
+Tonga,2004,100.214
+Tonga,2005,100.908
+Tonga,2006,101.714
+Tonga,2007,102.577
+Tonga,2008,103.384
+Tonga,2009,103.897
+Tonga,2010,103.981
+Tonga,2011,103.558
+Tonga,2012,102.736
+Tonga,2013,101.768
+Tonga,2014,101.023
+Tonga,2015,100.78
+Tonga,2016,101.143
+Tonga,2017,102.002
+Tonga,2018,103.199
+Trinidad and Tobago,1990,1221.121
+Trinidad and Tobago,1991,1229.108
+Trinidad and Tobago,1992,1236.685
+Trinidad and Tobago,1993,1243.605
+Trinidad and Tobago,1994,1249.527
+Trinidad and Tobago,1995,1254.2
+Trinidad and Tobago,1996,1257.547
+Trinidad and Tobago,1997,1259.838
+Trinidad and Tobago,1998,1261.699
+Trinidad and Tobago,1999,1263.927
+Trinidad and Tobago,2000,1267.159
+Trinidad and Tobago,2001,1271.627
+Trinidad and Tobago,2002,1277.21
+Trinidad and Tobago,2003,1283.564
+Trinidad and Tobago,2004,1290.115
+Trinidad and Tobago,2005,1296.497
+Trinidad and Tobago,2006,1302.552
+Trinidad and Tobago,2007,1308.45
+Trinidad and Tobago,2008,1314.449
+Trinidad and Tobago,2009,1320.921
+Trinidad and Tobago,2010,1328.144
+Trinidad and Tobago,2011,1336.18
+Trinidad and Tobago,2012,1344.814
+Trinidad and Tobago,2013,1353.708
+Trinidad and Tobago,2014,1362.337
+Trinidad and Tobago,2015,1370.332
+Trinidad and Tobago,2016,1377.563
+Trinidad and Tobago,2017,1384.06
+Trinidad and Tobago,2018,1389.841
+Tunisia,1990,8242.509
+Tunisia,1991,8427.851
+Tunisia,1992,8613.855
+Tunisia,1993,8795.934
+Tunisia,1994,8967.916
+Tunisia,1995,9125.4
+Tunisia,1996,9267.335
+Tunisia,1997,9395.119
+Tunisia,1998,9509.862
+Tunisia,1999,9613.587
+Tunisia,2000,9708.347
+Tunisia,2001,9793.915
+Tunisia,2002,9871.261
+Tunisia,2003,9945.282
+Tunisia,2004,10022.278
+Tunisia,2005,10106.778
+Tunisia,2006,10201.211
+Tunisia,2007,10304.729
+Tunisia,2008,10414.425
+Tunisia,2009,10525.691
+Tunisia,2010,10635.245
+Tunisia,2011,10741.872
+Tunisia,2012,10846.993
+Tunisia,2013,10952.949
+Tunisia,2014,11063.195
+Tunisia,2015,11179.951
+Tunisia,2016,11303.942
+Tunisia,2017,11433.438
+Tunisia,2018,11565.203
+Turkey,1990,53921.758
+Turkey,1991,54840.595
+Turkey,1992,55748.946
+Turkey,1993,56653.808
+Turkey,1994,57564.209
+Turkey,1995,58486.453
+Turkey,1996,59423.278
+Turkey,1997,60372.571
+Turkey,1998,61329.665
+Turkey,1999,62287.391
+Turkey,2000,63240.196
+Turkey,2001,64192.243
+Turkey,2002,65145.357
+Turkey,2003,66089.402
+Turkey,2004,67010.93
+Turkey,2005,67903.461
+Turkey,2006,68756.809
+Turkey,2007,69581.854
+Turkey,2008,70418.612
+Turkey,2009,71321.406
+Turkey,2010,72326.992
+Turkey,2011,73443.254
+Turkey,2012,74651.046
+Turkey,2013,75925.454
+Turkey,2014,77229.262
+Turkey,2015,78529.413
+Turkey,2016,79827.868
+Turkey,2017,81116.451
+Turkey,2018,82340.09
+Turkmenistan,1990,3683.978
+Turkmenistan,1991,3789.188
+Turkmenistan,1992,3899.843
+Turkmenistan,1993,4010.789
+Turkmenistan,1994,4115.105
+Turkmenistan,1995,4207.841
+Turkmenistan,1996,4287.337
+Turkmenistan,1997,4355.125
+Turkmenistan,1998,4413.477
+Turkmenistan,1999,4466.133
+Turkmenistan,2000,4516.128
+Turkmenistan,2001,4564.087
+Turkmenistan,2002,4610.018
+Turkmenistan,2003,4655.752
+Turkmenistan,2004,4703.396
+Turkmenistan,2005,4754.652
+Turkmenistan,2006,4810.114
+Turkmenistan,2007,4870.142
+Turkmenistan,2008,4935.765
+Turkmenistan,2009,5007.953
+Turkmenistan,2010,5087.211
+Turkmenistan,2011,5174.076
+Turkmenistan,2012,5267.906
+Turkmenistan,2013,5366.376
+Turkmenistan,2014,5466.324
+Turkmenistan,2015,5565.283
+Turkmenistan,2016,5662.371
+Turkmenistan,2017,5757.667
+Turkmenistan,2018,5850.902
+Tuvalu,1990,8.91
+Tuvalu,1991,9.014
+Tuvalu,1992,9.11
+Tuvalu,1993,9.194
+Tuvalu,1994,9.259
+Tuvalu,1995,9.298
+Tuvalu,1996,9.317
+Tuvalu,1997,9.328
+Tuvalu,1998,9.332
+Tuvalu,1999,9.344
+Tuvalu,2000,9.392
+Tuvalu,2001,9.478
+Tuvalu,2002,9.593
+Tuvalu,2003,9.724
+Tuvalu,2004,9.871
+Tuvalu,2005,9.997
+Tuvalu,2006,10.118
+Tuvalu,2007,10.219
+Tuvalu,2008,10.315
+Tuvalu,2009,10.413
+Tuvalu,2010,10.521
+Tuvalu,2011,10.626
+Tuvalu,2012,10.744
+Tuvalu,2013,10.849
+Tuvalu,2014,10.973
+Tuvalu,2015,11.099
+Tuvalu,2016,11.232
+Tuvalu,2017,11.365
+Tuvalu,2018,11.505
+Uganda,1990,17354.395
+Uganda,1991,17953.534
+Uganda,1992,18561.668
+Uganda,1993,19175.986
+Uganda,1994,19793.541
+Uganda,1995,20413.157
+Uganda,1996,21032.817
+Uganda,1997,21655.392
+Uganda,1998,22290.787
+Uganda,1999,22952.406
+Uganda,2000,23650.159
+Uganda,2001,24388.974
+Uganda,2002,25167.261
+Uganda,2003,25980.547
+Uganda,2004,26821.3
+Uganda,2005,27684.59
+Uganda,2006,28571.475
+Uganda,2007,29486.335
+Uganda,2008,30431.734
+Uganda,2009,31411.096
+Uganda,2010,32428.164
+Uganda,2011,33476.772
+Uganda,2012,34558.7
+Uganda,2013,35694.519
+Uganda,2014,36911.53
+Uganda,2015,38225.447
+Uganda,2016,39649.173
+Uganda,2017,41166.588
+Uganda,2018,42729.032
+Ukraine,1990,51463.101
+Ukraine,1991,51461.273
+Ukraine,1992,51415.957
+Ukraine,1993,51316.013
+Ukraine,1994,51147.771
+Ukraine,1995,50903.783
+Ukraine,1996,50580.467
+Ukraine,1997,50187.28
+Ukraine,1998,49746.523
+Ukraine,1999,49288.739
+Ukraine,2000,48838.058
+Ukraine,2001,48401.648
+Ukraine,2002,47980.033
+Ukraine,2003,47582.463
+Ukraine,2004,47217.489
+Ukraine,2005,46890.775
+Ukraine,2006,46607.397
+Ukraine,2007,46366.347
+Ukraine,2008,46158.709
+Ukraine,2009,45970.942
+Ukraine,2010,45792.086
+Ukraine,2011,45619.85
+Ukraine,2012,45453.805
+Ukraine,2013,45286.988
+Ukraine,2014,45111.53
+Ukraine,2015,44921.636
+Ukraine,2016,44713.708
+Ukraine,2017,44487.708
+Ukraine,2018,44246.158
+United Arab Emirates,1990,1828.437
+United Arab Emirates,1991,1937.159
+United Arab Emirates,1992,2052.892
+United Arab Emirates,1993,2173.135
+United Arab Emirates,1994,2294.377
+United Arab Emirates,1995,2415.099
+United Arab Emirates,1996,2539.121
+United Arab Emirates,1997,2671.361
+United Arab Emirates,1998,2813.214
+United Arab Emirates,1999,2966.029
+United Arab Emirates,2000,3134.067
+United Arab Emirates,2001,3302.722
+United Arab Emirates,2002,3478.769
+United Arab Emirates,2003,3711.931
+United Arab Emirates,2004,4068.577
+United Arab Emirates,2005,4588.222
+United Arab Emirates,2006,5300.172
+United Arab Emirates,2007,6168.846
+United Arab Emirates,2008,7089.486
+United Arab Emirates,2009,7917.368
+United Arab Emirates,2010,8549.998
+United Arab Emirates,2011,8946.778
+United Arab Emirates,2012,9141.598
+United Arab Emirates,2013,9197.908
+United Arab Emirates,2014,9214.182
+United Arab Emirates,2015,9262.896
+United Arab Emirates,2016,9360.975
+United Arab Emirates,2017,9487.206
+United Arab Emirates,2018,9630.966
+United Kingdom,1990,57134.377
+United Kingdom,1991,57290.792
+United Kingdom,1992,57446.041
+United Kingdom,1993,57602.279
+United Kingdom,1994,57763.382
+United Kingdom,1995,57932.45
+United Kingdom,1996,58113.554
+United Kingdom,1997,58307.32
+United Kingdom,1998,58509.972
+United Kingdom,1999,58715.859
+United Kingdom,2000,58923.305
+United Kingdom,2001,59124.277
+United Kingdom,2002,59326.294
+United Kingdom,2003,59561.429
+United Kingdom,2004,59872.76
+United Kingdom,2005,60287.953
+United Kingdom,2006,60821.349
+United Kingdom,2007,61455.154
+United Kingdom,2008,62145.098
+United Kingdom,2009,62828.62
+United Kingdom,2010,63459.801
+United Kingdom,2011,64021.922
+United Kingdom,2012,64525.3
+United Kingdom,2013,64984.015
+United Kingdom,2014,65423.048
+United Kingdom,2015,65860.149
+United Kingdom,2016,66297.944
+United Kingdom,2017,66727.463
+United Kingdom,2018,67141.678
+Tanzania,1990,25203.848
+Tanzania,1991,26056.605
+Tanzania,1992,26961.204
+Tanzania,1993,27887.204
+Tanzania,1994,28792.649
+Tanzania,1995,29649.128
+Tanzania,1996,30444.523
+Tanzania,1997,31192.853
+Tanzania,1998,31924.201
+Tanzania,1999,32682.24
+Tanzania,2000,33499.177
+Tanzania,2001,34385.849
+Tanzania,2002,35334.79
+Tanzania,2003,36337.778
+Tanzania,2004,37379.766
+Tanzania,2005,38450.323
+Tanzania,2006,39548.666
+Tanzania,2007,40681.416
+Tanzania,2008,41853.944
+Tanzania,2009,43073.83
+Tanzania,2010,44346.532
+Tanzania,2011,45673.52
+Tanzania,2012,47053.033
+Tanzania,2013,48483.132
+Tanzania,2014,49960.563
+Tanzania,2015,51482.638
+Tanzania,2016,53049.231
+Tanzania,2017,54660.345
+Tanzania,2018,56313.444
+United States,1990,252120.309
+United States,1991,254539.371
+United States,1992,256990.608
+United States,1993,259532.13
+United States,1994,262241.204
+United States,1995,265163.741
+United States,1996,268335.008
+United States,1997,271713.634
+United States,1998,275175.309
+United States,1999,278548.148
+United States,2000,281710.914
+United States,2001,284607.992
+United States,2002,287279.312
+United States,2003,289815.567
+United States,2004,292354.663
+United States,2005,294993.509
+United States,2006,297758.977
+United States,2007,300608.425
+United States,2008,303486.022
+United States,2009,306307.565
+United States,2010,309011.469
+United States,2011,311584.051
+United States,2012,314043.885
+United States,2013,316400.539
+United States,2014,318673.422
+United States,2015,320878.312
+United States,2016,323015.992
+United States,2017,325084.758
+United States,2018,327096.263
+Uruguay,1990,3109.598
+Uruguay,1991,3131.657
+Uruguay,1992,3154.459
+Uruguay,1993,3177.734
+Uruguay,1994,3201.149
+Uruguay,1995,3224.275
+Uruguay,1996,3247.383
+Uruguay,1997,3270.158
+Uruguay,1998,3291.053
+Uruguay,1999,3308.005
+Uruguay,2000,3319.734
+Uruguay,2001,3325.471
+Uruguay,2002,3326.046
+Uruguay,2003,3323.661
+Uruguay,2004,3321.486
+Uruguay,2005,3321.799
+Uruguay,2006,3325.403
+Uruguay,2007,3331.753
+Uruguay,2008,3340.221
+Uruguay,2009,3349.676
+Uruguay,2010,3359.273
+Uruguay,2011,3368.926
+Uruguay,2012,3378.975
+Uruguay,2013,3389.436
+Uruguay,2014,3400.439
+Uruguay,2015,3412.013
+Uruguay,2016,3424.139
+Uruguay,2017,3436.645
+Uruguay,2018,3449.29
+Uzbekistan,1990,20398.347
+Uzbekistan,1991,20884.862
+Uzbekistan,1992,21375.114
+Uzbekistan,1993,21861.974
+Uzbekistan,1994,22336.202
+Uzbekistan,1995,22791.033
+Uzbekistan,1996,23225.303
+Uzbekistan,1997,23640.487
+Uzbekistan,1998,24036.017
+Uzbekistan,1999,24412.051
+Uzbekistan,2000,24769.955
+Uzbekistan,2001,25108.554
+Uzbekistan,2002,25431.116
+Uzbekistan,2003,25749.109
+Uzbekistan,2004,26077.614
+Uzbekistan,2005,26427.785
+Uzbekistan,2006,26804.067
+Uzbekistan,2007,27204.711
+Uzbekistan,2008,27626.981
+Uzbekistan,2009,28065.469
+Uzbekistan,2010,28515.908
+Uzbekistan,2011,28977.006
+Uzbekistan,2012,29449.415
+Uzbekistan,2013,29932.63
+Uzbekistan,2014,30426.394
+Uzbekistan,2015,30929.556
+Uzbekistan,2016,31441.753
+Uzbekistan,2017,31959.774
+Uzbekistan,2018,32476.232
+Vanuatu,1990,146.575
+Vanuatu,1991,150.718
+Vanuatu,1992,155.176
+Vanuatu,1993,159.743
+Vanuatu,1994,164.128
+Vanuatu,1995,168.161
+Vanuatu,1996,171.721
+Vanuatu,1997,174.917
+Vanuatu,1998,177.987
+Vanuatu,1999,181.259
+Vanuatu,2000,184.964
+Vanuatu,2001,189.209
+Vanuatu,2002,193.927
+Vanuatu,2003,198.96
+Vanuatu,2004,204.123
+Vanuatu,2005,209.282
+Vanuatu,2006,214.379
+Vanuatu,2007,219.464
+Vanuatu,2008,224.7
+Vanuatu,2009,230.244
+Vanuatu,2010,236.216
+Vanuatu,2011,242.658
+Vanuatu,2012,249.505
+Vanuatu,2013,256.637
+Vanuatu,2014,263.888
+Vanuatu,2015,271.128
+Vanuatu,2016,278.326
+Vanuatu,2017,285.499
+Vanuatu,2018,292.675
+Venezuela,1990,19632.665
+Venezuela,1991,20096.314
+Venezuela,1992,20557.694
+Venezuela,1993,21016.9
+Venezuela,1994,21474.553
+Venezuela,1995,21931.087
+Venezuela,1996,22385.65
+Venezuela,1997,22837.743
+Venezuela,1998,23288.567
+Venezuela,1999,23739.835
+Venezuela,2000,24192.449
+Venezuela,2001,24646.471
+Venezuela,2002,25100.407
+Venezuela,2003,25551.624
+Venezuela,2004,25996.594
+Venezuela,2005,26432.445
+Venezuela,2006,26850.19
+Venezuela,2007,27247.601
+Venezuela,2008,27635.827
+Venezuela,2009,28031.01
+Venezuela,2010,28439.942
+Venezuela,2011,28887.873
+Venezuela,2012,29360.827
+Venezuela,2013,29781.046
+Venezuela,2014,30042.973
+Venezuela,2015,30081.827
+Venezuela,2016,29851.249
+Venezuela,2017,29402.48
+Venezuela,2018,28887.117
+Vietnam,1990,67988.855
+Vietnam,1991,69436.956
+Vietnam,1992,70883.488
+Vietnam,1993,72300.308
+Vietnam,1994,73651.22
+Vietnam,1995,74910.462
+Vietnam,1996,76068.739
+Vietnam,1997,77133.212
+Vietnam,1998,78115.712
+Vietnam,1999,79035.871
+Vietnam,2000,79910.411
+Vietnam,2001,80742.5
+Vietnam,2002,81534.406
+Vietnam,2003,82301.65
+Vietnam,2004,83062.819
+Vietnam,2005,83832.662
+Vietnam,2006,84617.545
+Vietnam,2007,85419.588
+Vietnam,2008,86243.424
+Vietnam,2009,87092.25
+Vietnam,2010,87967.655
+Vietnam,2011,88871.384
+Vietnam,2012,89801.926
+Vietnam,2013,90752.593
+Vietnam,2014,91713.85
+Vietnam,2015,92677.082
+Vietnam,2016,93640.435
+Vietnam,2017,94600.643
+Vietnam,2018,95545.959
+Yemen,1990,11709.987
+Yemen,1991,12302.127
+Yemen,1992,12954.157
+Yemen,1993,13634.082
+Yemen,1994,14297.617
+Yemen,1995,14913.313
+Yemen,1996,15469.274
+Yemen,1997,15975.676
+Yemen,1998,16450.306
+Yemen,1999,16921.157
+Yemen,2000,17409.071
+Yemen,2001,17918.369
+Yemen,2002,18443.684
+Yemen,2003,18985.001
+Yemen,2004,19540.096
+Yemen,2005,20107.416
+Yemen,2006,20687.648
+Yemen,2007,21282.514
+Yemen,2008,21892.149
+Yemen,2009,22516.464
+Yemen,2010,23154.854
+Yemen,2011,23807.586
+Yemen,2012,24473.176
+Yemen,2013,25147.112
+Yemen,2014,25823.488
+Yemen,2015,26497.881
+Yemen,2016,27168.21
+Yemen,2017,27834.811
+Yemen,2018,28498.683
+Zambia,1990,8036.849
+Zambia,1991,8246.662
+Zambia,1992,8451.346
+Zambia,1993,8656.484
+Zambia,1994,8869.745
+Zambia,1995,9096.608
+Zambia,1996,9339.74
+Zambia,1997,9597.61
+Zambia,1998,9866.474
+Zambia,1999,10140.564
+Zambia,2000,10415.942
+Zambia,2001,10692.197
+Zambia,2002,10971.704
+Zambia,2003,11256.74
+Zambia,2004,11550.641
+Zambia,2005,11856.244
+Zambia,2006,12173.518
+Zambia,2007,12502.958
+Zambia,2008,12848.531
+Zambia,2009,13215.142
+Zambia,2010,13605.986
+Zambia,2011,14023.199
+Zambia,2012,14465.148
+Zambia,2013,14926.551
+Zambia,2014,15399.793
+Zambia,2015,15879.37
+Zambia,2016,16363.449
+Zambia,2017,16853.608
+Zambia,2018,17351.714
+Zimbabwe,1990,10432.409
+Zimbabwe,1991,10681.008
+Zimbabwe,1992,10900.511
+Zimbabwe,1993,11092.775
+Zimbabwe,1994,11261.752
+Zimbabwe,1995,11410.721
+Zimbabwe,1996,11541.215
+Zimbabwe,1997,11653.254
+Zimbabwe,1998,11747.079
+Zimbabwe,1999,11822.722
+Zimbabwe,2000,11881.482
+Zimbabwe,2001,11923.906
+Zimbabwe,2002,11954.293
+Zimbabwe,2003,11982.219
+Zimbabwe,2004,12019.911
+Zimbabwe,2005,12076.697
+Zimbabwe,2006,12155.496
+Zimbabwe,2007,12255.92
+Zimbabwe,2008,12379.553
+Zimbabwe,2009,12526.964
+Zimbabwe,2010,12697.728
+Zimbabwe,2011,12894.323
+Zimbabwe,2012,13115.149
+Zimbabwe,2013,13350.378
+Zimbabwe,2014,13586.71
+Zimbabwe,2015,13814.642
+Zimbabwe,2016,14030.338
+Zimbabwe,2017,14236.599
+Zimbabwe,2018,14438.812

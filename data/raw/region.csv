@@ -1,4 +1,4 @@
-Country,Region
+country,region
 Bangladesh,Asia
 Bhutan,Asia
 Brunei,Asia
@@ -97,10 +97,8 @@ Switzerland,Europe
 Ukraine,Europe
 United Kingdom,Europe
 Vatican City,Europe
-European Union,Europe
 Canada,North America
 Greenland,North America
-Mexico,North America
 United States,North America
 Antigua and Barbuda,Central America & Caribbean
 Bahamas,Central America & Caribbean
@@ -116,6 +114,7 @@ Guatemala,Central America & Caribbean
 Haiti,Central America & Caribbean
 Honduras,Central America & Caribbean
 Jamaica,Central America & Caribbean
+Mexico,Central America & Caribbean
 Nicaragua,Central America & Caribbean
 Panama,Central America & Caribbean
 Saint Kitts and Nevis,Central America & Caribbean

@@ -15,11 +15,8 @@ year_columns = [str(y) for y in range(1990,2019)]
 table = stack(table, year_columns, 'year', 'emission')
 
 # remove unnecessary columns
-keep_columns = ['Country','Unit','year','emission']
+keep_columns = ['Country','year','emission']
 table = filter_columns(lambda c: c in keep_columns)(table)
-
-# remove the 'World' rows, leaving only country data
-table = filter_rows(lambda r: r[0]!='World')(table)
 
 # process nans
 def zero_nans(datum):
@@ -28,10 +25,11 @@ def zero_nans(datum):
     else:
         return datum
 emission = transform('emission',zero_nans)(table)
+emission = rename_column('Country','country')(emission)
 
-# group by region
-region = load_csv(dataroot / 'raw/region.csv')
-joined = join(emission,region,on=['Country'])
+# # group by region
+# region = load_csv(dataroot / 'raw/region.csv')
+# joined = join(emission,region,on=['Country'])
 
 # # check for missing countries
 # countries = {
@@ -44,8 +42,9 @@ joined = join(emission,region,on=['Country'])
 #     best_match = lambda country: min(region_countries,key=lambda c: leven(c,country))
 #     breakpoint()
 
-summation = lambda data: str(sum([float(d) for d in data]))
-agg = aggregate('emission',summation,group_by=['Region','year'])(joined)
-agg = rename_column('Region','region')(agg)
+# summation = lambda data: str(sum([float(d) for d in data]))
+# agg = aggregate('emission',summation,group_by=['Region','year'])(joined)
+# agg = rename_column('Region','region')(agg)
 
-save_csv(agg, output_file)
+# output data is in units MtCO2e
+save_csv(emission, output_file)

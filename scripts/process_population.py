@@ -9,56 +9,10 @@ dataroot = root / 'data'
 input_file = dataroot / 'raw/population.csv'
 output_file = dataroot / 'processed/population.csv'
 
-# keep_columns = [
-#     ('Location','location'),
-#     ('Time','year'),
-#     ('PopTotal','population')
-# ]
-
-# def map_columns(header, data, column_map):
-#     order = []
-#     new_header = []
-#     for (a,b) in column_map:
-#         i = find(a,header)
-#         order.append(i)
-#         new_header.append(b)
-#     new_data = []
-#     for row in data:
-#         new_data.append([row[i] for i in order])
-#     return new_header, new_data
-
-# # load the data
-# with open(input_file, newline='') as f:
-#     reader = csv.reader(f)
-#     header = next(reader)
-
-#     finished = set()
-
-#     # filter by appropriate years
-#     iyear = find('Time',header)
-#     ipop = find('PopTotal',header)
-#     ivar = find('VarID',header)
-#     iloc = find('Location',header)
-#     data = []
-#     lastLocation = ''
-#     for row in reader:
-#         year = float(row[iyear])
-#         varid = int(row[ivar])
-#         location = row[iloc]
-#         if varid==2 and (not (location in finished)) and year>=1990 and year<=2018:
-#             pop = float(row[ipop])
-#             row[ipop] = str(math.floor(pop*1000))
-#             data.append(row)
-#             # keep track of completed countries
-#             if location!=lastLocation:
-#                 finished.add(lastLocation)
-#                 lastLocation = location
-
-# population = map_columns(header, data, keep_columns)
-
+# filter out years and mathematical models
 table = load_csv(input_file)
 def keep_row(row):
-    if row[2]!='2':
+    if row[2]!='2': # model variant: "Medium"
         return False
     year = int(row[4])
     if (year<1990) or (year>2018):
@@ -70,10 +24,11 @@ def keep_column(column):
     return column in ['Location','Time','PopTotal']
 table = filter_columns(keep_column)(table)
 
-table = rename_column('Location','Country')(table)
+table = rename_column('Location','country')(table)
 table = rename_column('Time','year')(table)
 table = rename_column('PopTotal','population')(table)
-table = transform('population',lambda p: str(int(float(p)*1000)))(table)
+
+# map official state name to country names where different
 
 names_table = load_csv(dataroot / 'raw/alternate_country_names.csv')
 alternates = get_column('alternate')(names_table)
@@ -86,11 +41,12 @@ def map_to_standard(country):
         return mapping[country]
     return country
 
-population = transform('Country',map_to_standard)(table)
+population = transform('country',map_to_standard)(table)
 
-# merge with region
+# filter to only countries in the region map csv (e.g. things like "Africa Group" are filtered out)
 region = load_csv(dataroot / 'raw/region.csv')
-joined = join(population,region,on=['Country'])
+countries = list(set(get_column('country')(region)))
+population = filter_rows(lambda r: r[0] in countries)(population)
 
 # # check for missing countries
 # countries = {
@@ -102,8 +58,9 @@ joined = join(population,region,on=['Country'])
 #     pop_countries = list(set(get_column('Country')(population)))
 #     best_match = lambda country: min(pop_countries,key=lambda c: leven(c,country))
 #     breakpoint()
-summation = lambda data: str(sum([int(d) for d in data]))
-agg = aggregate('population',summation,group_by=['Region','year'])(joined)
-agg = rename_column('Region','region')(agg)
+# summation = lambda data: str(sum([int(d) for d in data]))
+# agg = aggregate('population',summation,group_by=['Region','year'])(joined)
+# agg = rename_column('Region','region')(agg)
 
-save_csv(agg, output_file)
+# output data is in units 1000s of people
+save_csv(population, output_file)

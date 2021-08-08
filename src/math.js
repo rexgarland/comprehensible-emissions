@@ -43,6 +43,15 @@ class Vec2 {
   }
 }
 
+function range(a,b,step=1) {
+  const array = [];
+  for (let i=a; i<b; i = i + step) {
+    array.push(i);
+  }
+  return array;
+}
+
 module.exports = {
-  Vec2
+  Vec2,
+  range
 }

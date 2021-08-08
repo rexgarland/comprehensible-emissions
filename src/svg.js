@@ -40,6 +40,14 @@ function createLine(p1, p2, thickness=0.1, color="black") {
   return createPath(data, thickness, color);
 }
 
+function createText(x,y,text) {
+  const textElem = document.createElementNS("http://www.w3.org/2000/svg",'text');
+  textElem.setAttribute('x', x);
+  textElem.setAttribute('y', y);
+  textElem.innerHTML = text;
+  return textElem;
+}
+
 function createArrow(position, direction, size) {
   direction = direction.normalize();
   const perp = direction.rotate(90);
@@ -60,5 +68,6 @@ module.exports = {
   createLine,
   createShape,
   createArrow,
-  createRect
+  createRect,
+  createText
 }
