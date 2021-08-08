@@ -1,0 +1,25 @@
+{
+	"x": {
+		"label": "population (billions)",
+		"scale": 1000000000,
+		"grid": {
+			"start": 0,
+			"stop": 8,
+			"tick": 1
+		}
+	},
+	"y": {
+		"label": "Greenhouse gas pollution (tons GtCO₂e/y per person)",
+		"scale": 1000,
+		"grid": {
+			"start": 0,
+			"stop": 30,
+			"tick": 5
+		}
+	},
+	"t": {
+		"start": 1990,
+		"stop": 2018,
+		"tick": 1
+	}
+}

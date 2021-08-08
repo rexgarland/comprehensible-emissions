@@ -1,0 +1,233 @@
+region,year,population
+Middle East & North Africa,1990,439530498
+Middle East & North Africa,1991,451197295
+Middle East & North Africa,1992,462965549
+Middle East & North Africa,1993,474751093
+Middle East & North Africa,1994,486446390
+Middle East & North Africa,1995,497981880
+Middle East & North Africa,1996,509326114
+Middle East & North Africa,1997,520521014
+Middle East & North Africa,1998,531663313
+Middle East & North Africa,1999,542891264
+Middle East & North Africa,2000,554312642
+Middle East & North Africa,2001,565956701
+Middle East & North Africa,2002,577817522
+Middle East & North Africa,2003,589924779
+Middle East & North Africa,2004,602303000
+Middle East & North Africa,2005,614968962
+Middle East & North Africa,2006,627929760
+Middle East & North Africa,2007,641184408
+Middle East & North Africa,2008,654726476
+Middle East & North Africa,2009,668542897
+Middle East & North Africa,2010,682613408
+Middle East & North Africa,2011,696934453
+Middle East & North Africa,2012,711477367
+Middle East & North Africa,2013,726163019
+Middle East & North Africa,2014,740890467
+Middle East & North Africa,2015,755580938
+Middle East & North Africa,2016,770191393
+Middle East & North Africa,2017,784715874
+Middle East & North Africa,2018,799158361
+Europe,1990,1206941259
+Europe,1991,1210178212
+Europe,1992,1213058440
+Europe,1993,1215481929
+Europe,1994,1217329942
+Europe,1995,1218551820
+Europe,1996,1219072748
+Europe,1997,1219007319
+Europe,1998,1218729229
+Europe,1999,1218742991
+Europe,2000,1219411806
+Europe,2001,1220871209
+Europe,2002,1223024465
+Europe,2003,1225712544
+Europe,2004,1228671879
+Europe,2005,1231698042
+Europe,2006,1234761277
+Europe,2007,1237896222
+Europe,2008,1241034675
+Europe,2009,1244106006
+Europe,2010,1247054952
+Europe,2011,1249817949
+Europe,2012,1252376917
+Europe,2013,1254778843
+Europe,2014,1257103309
+Europe,2015,1259394978
+Europe,2016,1261679513
+Europe,2017,1263896962
+Europe,2018,1265905109
+Sub-Saharan Africa,1990,502477385
+Sub-Saharan Africa,1991,516712722
+Sub-Saharan Africa,1992,531210751
+Sub-Saharan Africa,1993,545960016
+Sub-Saharan Africa,1994,560947971
+Sub-Saharan Africa,1995,576173305
+Sub-Saharan Africa,1996,591642343
+Sub-Saharan Africa,1997,607381724
+Sub-Saharan Africa,1998,623438679
+Sub-Saharan Africa,1999,639874058
+Sub-Saharan Africa,2000,656742876
+Sub-Saharan Africa,2001,674065457
+Sub-Saharan Africa,2002,691866392
+Sub-Saharan Africa,2003,710209114
+Sub-Saharan Africa,2004,729167554
+Sub-Saharan Africa,2005,748797572
+Sub-Saharan Africa,2006,769127346
+Sub-Saharan Africa,2007,790158143
+Sub-Saharan Africa,2008,811882451
+Sub-Saharan Africa,2009,834278727
+Sub-Saharan Africa,2010,857327835
+Sub-Saharan Africa,2011,881027481
+Sub-Saharan Africa,2012,905375200
+Sub-Saharan Africa,2013,930347572
+Sub-Saharan Africa,2014,955914484
+Sub-Saharan Africa,2015,982048966
+Sub-Saharan Africa,2016,1008742018
+Sub-Saharan Africa,2017,1035980705
+Sub-Saharan Africa,2018,1063728659
+Central America & Caribbean,1990,58882191
+Central America & Caribbean,1991,59940230
+Central America & Caribbean,1992,61004290
+Central America & Caribbean,1993,62072589
+Central America & Caribbean,1994,63142967
+Central America & Caribbean,1995,64213523
+Central America & Caribbean,1996,65283288
+Central America & Caribbean,1997,66351415
+Central America & Caribbean,1998,67416572
+Central America & Caribbean,1999,68477284
+Central America & Caribbean,2000,69532562
+Central America & Caribbean,2001,70582338
+Central America & Caribbean,2002,71626435
+Central America & Caribbean,2003,72663612
+Central America & Caribbean,2004,73692585
+Central America & Caribbean,2005,74712729
+Central America & Caribbean,2006,75722764
+Central America & Caribbean,2007,76724064
+Central America & Caribbean,2008,77722565
+Central America & Caribbean,2009,78726309
+Central America & Caribbean,2010,79740789
+Central America & Caribbean,2011,80768000
+Central America & Caribbean,2012,81805511
+Central America & Caribbean,2013,82848800
+Central America & Caribbean,2014,83891268
+Central America & Caribbean,2015,84927599
+Central America & Caribbean,2016,85956350
+Central America & Caribbean,2017,86977651
+Central America & Caribbean,2018,87990342
+South America,1990,295280413
+South America,1991,300706712
+South America,1992,306101384
+South America,1993,311470168
+South America,1994,316822699
+South America,1995,322162415
+South America,1996,327490753
+South America,1997,332794518
+South America,1998,338045103
+South America,1999,343204873
+South America,2000,348245834
+South America,2001,353160120
+South America,2002,357951721
+South America,2003,362619694
+South America,2004,367167087
+South America,2005,371598712
+South America,2006,375909952
+South America,2007,380105945
+South America,2008,384214546
+South America,2009,388272881
+South America,2010,392307797
+South America,2011,396330505
+South America,2012,400335073
+South America,2013,404310106
+South America,2014,408236233
+South America,2015,412098846
+South America,2016,415894121
+South America,2017,419625657
+South America,2018,423294926
+Oceania,1990,27727219
+Oceania,1991,28169229
+Oceania,1992,28608789
+Oceania,1993,29043376
+Oceania,1994,29470408
+Oceania,1995,29888478
+Oceania,1996,30297914
+Oceania,1997,30701156
+Oceania,1998,31102596
+Oceania,1999,31507772
+Oceania,2000,31922207
+Oceania,2001,32344505
+Oceania,2002,32776984
+Oceania,2003,33232368
+Oceania,2004,33726869
+Oceania,2005,34270865
+Oceania,2006,34870414
+Oceania,2007,35518567
+Oceania,2008,36196703
+Oceania,2009,36878408
+Oceania,2010,37543949
+Oceania,2011,38186613
+Oceania,2012,38810109
+Oceania,2013,39418389
+Oceania,2014,40019364
+Oceania,2015,40618710
+Oceania,2016,41216353
+Oceania,2017,41809139
+Oceania,2018,42396421
+Asia,1990,2894547299
+Asia,1991,2942314022
+Asia,1992,2987667479
+Asia,1993,3031145028
+Asia,1994,3073630599
+Asia,1995,3115775282
+Asia,1996,3157697712
+Asia,1997,3199181754
+Asia,1998,3240158198
+Asia,1999,3280476868
+Asia,2000,3320039127
+Asia,2001,3358861274
+Asia,2002,3397038377
+Asia,2003,3434639971
+Asia,2004,3471755268
+Asia,2005,3508453993
+Asia,2006,3544753204
+Asia,2007,3580652386
+Asia,2008,3616178444
+Asia,2009,3651356345
+Asia,2010,3686196478
+Asia,2011,3720690711
+Asia,2012,3754812252
+Asia,2013,3788522683
+Asia,2014,3821770691
+Asia,2015,3854499766
+Asia,2016,3886689788
+Asia,2017,3918287904
+Asia,2018,3949163611
+North America,1990,363660371
+North America,1991,367996588
+North America,1992,372346011
+North America,1993,376761381
+North America,1994,381314151
+North America,1995,386046993
+North America,1996,390995702
+North America,1997,396122893
+North America,1998,401309651
+North America,1999,406391534
+North America,2000,411255315
+North America,2001,415842552
+North America,2002,420198854
+North America,2003,424441340
+North America,2004,428741955
+North America,2005,433219970
+North America,2006,437913094
+North America,2007,442766651
+North America,2008,447695768
+North America,2009,452574273
+North America,2010,457308634
+North America,2011,461875230
+North America,2012,466296549
+North America,2013,470580644
+North America,2014,474749280
+North America,2015,478819609
+North America,2016,482788721
+North America,2017,486650648
+North America,2018,490418168
