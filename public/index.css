@@ -1,15 +1,22 @@
 body {
 	width: 100vw;
 	height: 100vh;
+	box-sizing: border-box;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 	margin: 0;
+	padding: 20px;
+}
+
+h1 {
+	margin: 0px;
 }
 
 svg {
 	max-width: 80vw;
+	margin: 10px;
 }
 
 .svg-axis-text {
@@ -27,12 +34,17 @@ svg {
 	font-size: 37px;
 }
 
+.svg-label-text {
+	font: serif;
+	font-size: 37px;
+}
+
 #year-display {
 	display: inline;
 }
 
 #source-link {
-	position: absolute;
+	position: fixed;
 	bottom: 10px;
 	right: 10px;
 }
