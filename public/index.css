@@ -12,6 +12,8 @@ body {
 
 h1 {
 	margin: 0px;
+	font-size: calc(1em + 1vw);
+	text-align: center;
 }
 
 svg {
