@@ -23,5 +23,20 @@
 		"stop": 2018,
 		"tick": 1
 	},
-	"legend": "5 GtCO₂e/y"
+	"box": {
+		"thickness": 3
+	},
+	"legend": "5 GtCO₂e/y",
+	"arrow": {
+		"offset": 10,
+		"size": 20,
+		"length": 40,
+		"thickness": 4,
+		"text": {
+			"offset": 10
+		}
+	},
+	"grid": {
+		"thickness": 3
+	}
 }
