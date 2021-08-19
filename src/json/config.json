@@ -9,7 +9,7 @@
 		}
 	},
 	"y": {
-		"label": "Greenhouse gas pollution (tons GtCO₂e/y per person)",
+		"label": "Greenhouse gas pollution (tons CO₂e/y per person)",
 		"scale": 1000,
 		"grid": {
 			"start": 0,
