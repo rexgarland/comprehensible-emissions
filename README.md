@@ -10,3 +10,5 @@ This is an interactive version of this plot:
 Emissions data from climatewatchdata.org
 
 Population data from population.un.org
+
+Regional mapping is saved in `data/raw/region.csv`, based on MacKay's original plot, informed by the [UN geoscheme](https://en.wikipedia.org/wiki/United_Nations_geoscheme).

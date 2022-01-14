@@ -6,7 +6,8 @@
     "build:json": "./build_json.sh",
     "dev": "yarn build:public && webpack --mode=development --devtool source-map",
     "debug": "onchange -i src/* public/* data/* scripts/* -- yarn dev",
-    "build": "yarn build:public && browserify src/index.js -o dist/main.js"
+    "build": "yarn build:public && browserify src/index.js -o dist/main.js",
+    "watch": "chokidar \"public\" \"src\" -c \"npm run build\""
   },
   "repository": "git@github.com:rexgarland/comprehensible-emissions.git",
   "author": "rexgarland <rex.garland@gmail.com>",
@@ -17,6 +18,7 @@
     "webpack-cli": "^4.7.2"
   },
   "devDependencies": {
-    "browserify": "^17.0.0"
+    "browserify": "^17.0.0",
+    "chokidar": "^3.5.2"
   }
 }
